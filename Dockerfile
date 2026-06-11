@@ -9,7 +9,9 @@
 FROM node:20-slim AS frontend
 WORKDIR /fe
 COPY here-hack-4/map/frontend/package*.json ./
-RUN npm install
+# --legacy-peer-deps: react-leaflet-cluster@4 lists a React 19 peer, but the app
+# runs fine on React 18 (as it does locally). Ignore the strict peer check.
+RUN npm install --legacy-peer-deps
 COPY here-hack-4/map/frontend/ ./
 RUN npm run build
 
