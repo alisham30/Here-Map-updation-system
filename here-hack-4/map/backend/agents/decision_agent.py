@@ -181,7 +181,15 @@ class DecisionAgent(BaseAgent):
             add("ta_permanently_closed", "TripAdvisor marks permanently closed",
                 0.45, "tripadvisor", "very_high",
                 "TripAdvisor's crowd-moderated permanent-closure flag is set.")
-        if record.get("gov_status_negative") is True:
+        # Gov registry — a LIVE confirmation wins over a struck-off match (the
+        # cancelled hit is usually an old/duplicate registration of a brand that is
+        # still operating). Emit only ONE gov signal so the proof cards never
+        # contradict themselves.
+        if record.get("gov_confirmed_active") is True:
+            add("gov_active", "ACRA/Gov confirms active registration",
+                -0.20, "acra_registry", "very_high",
+                "Official registry confirms a live, valid registration.")
+        elif record.get("gov_status_negative") is True:
             add("gov_cancelled", "ACRA/Gov registry shows entity cancelled",
                 0.40, "acra_registry", "very_high",
                 "Official Singapore registry lists this entity as struck off / cancelled.")
@@ -241,10 +249,6 @@ class DecisionAgent(BaseAgent):
             add("ta_active", "TripAdvisor listing is active",
                 -0.15, "tripadvisor", "high",
                 "TripAdvisor shows the location as operating.")
-        if record.get("gov_confirmed_active") is True:
-            add("gov_active", "ACRA/Gov confirms active registration",
-                -0.20, "acra_registry", "very_high",
-                "Official registry confirms a live, valid registration.")
         if onemap_nearby is True:
             add("onemap_nearby", "OneMap confirms business at this location",
                 -0.15, "onemap", "very_high",
@@ -454,18 +458,19 @@ class DecisionAgent(BaseAgent):
                     f"Street imagery shows a different business at the location of "
                     f"'{record.get('nearest_baseline_name') or record.get('detected_name')}' — likely rebrand"
                 )
-            # An explicit authoritative closure flag is decisive on its own.
+            # "Closed" requires an AUTHORITATIVE closure signal, never circumstantial
+            # ones alone — this prevents marking an open place closed just because
+            # OneMap didn't find its trade name or its website is down.
             elif record.get("ta_permanently_closed") is True:
                 status = "closed"
                 confidence = 0.92
                 review_needed = True
                 review_reason = _closure_reason(record)
-            # Otherwise: multiple independent closure signals must agree. 0.60 is
-            # reached e.g. by ACRA struck-off (0.40) + dead website (0.10) + absent
-            # from OneMap (0.15). Always queued for human review.
-            elif closure >= CLOSED_THRESHOLD:
+            elif (closure >= CLOSED_THRESHOLD
+                  and record.get("gov_status_negative") is True
+                  and not record.get("gov_confirmed_active")):
+                # Address-confirmed ACRA struck-off + agreeing signals.
                 status = "closed"
-                # Scale confidence: ~0.62 at threshold → 0.95 at closure=1.0
                 confidence = round(min(0.62 + (closure - CLOSED_THRESHOLD) * 0.8, 0.95), 3)
                 review_needed = True
                 review_reason = _closure_reason(record)
@@ -510,7 +515,11 @@ class DecisionAgent(BaseAgent):
 
         # ── NO MATCH / FALLBACK ──
         else:
-            if record.get("ta_permanently_closed") is True or closure >= CLOSED_THRESHOLD:
+            authoritative_closed = (
+                record.get("ta_permanently_closed") is True
+                or (record.get("gov_status_negative") is True and not record.get("gov_confirmed_active"))
+            )
+            if authoritative_closed and closure >= CLOSED_THRESHOLD:
                 status = "closed"
                 confidence = round(min(0.58 + (closure - CLOSED_THRESHOLD), 0.90), 3)
                 review_needed = True

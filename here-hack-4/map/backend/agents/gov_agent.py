@@ -219,13 +219,18 @@ class GovDataAgent(BaseAgent):
         confident.sort(key=lambda c: -c["strength"])
         live = [c for c in confident if c["status"].lower() in ACRA_LIVE_STATUSES]
         dead = [c for c in confident if c["status"].lower() in ACRA_DEAD_STATUSES]
+        # A struck-off entity only counts as a CLOSURE signal when the registered
+        # address also matches — a name-only struck-off match is unreliable (the
+        # brand often operates under a different entity, e.g. Jumbo Seafood).
+        dead_confirmed = [c for c in dead if c["addr_matched"]]
 
         if live:
             chosen, direction = live[0], "positive"
-        elif dead:
-            chosen, direction = dead[0], "negative"
+        elif dead_confirmed:
+            chosen, direction = dead_confirmed[0], "negative"
         else:
-            return None  # confident name/address match but status is neutral
+            # Either no match, or a name-only struck-off match we won't trust.
+            return None
 
         addr_note = " (address-confirmed)" if chosen["addr_matched"] else ""
         finding = f"ACRA registry: '{chosen['entity_name']}' — {chosen['status']}{addr_note}"
