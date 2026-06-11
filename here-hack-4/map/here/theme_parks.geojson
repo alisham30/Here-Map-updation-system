@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-26T11:16:41Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95756945",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "30",
+        "addr:postcode": "098140",
+        "addr:street": "Sentosa Gateway",
+        "name": "Universal Studios Singapore",
+        "name:ar": "يونيفرسال استوديو سنتوسا",
+        "name:en": "Universal Studios Singapore",
+        "name:ja": "ユニバーサルスタジオシンガポール",
+        "name:zh": "新加坡环球影城",
+        "opening_hours": "Mo-Th 10:00-19:00; Fr-Sa 10:00-22:00; Su 10:00-19:00",
+        "tourism": "theme_park",
+        "website": "https://www.rwsentosa.com/en/attractions/universal-studios-singapore",
+        "wikidata": "Q1186714",
+        "wikipedia": "en:Universal Studios Singapore",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8229909,
+          1.2542331
+        ]
+      },
+      "id": "way/95756945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/462044189",
+        "name": "Kinetic Garden Exhibition",
+        "tourism": "theme_park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7363644,
+          1.3338392
+        ]
+      },
+      "id": "way/462044189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/478355767",
+        "addr:city": "Singapore",
+        "addr:street": "Imbiah Road",
+        "building": "yes",
+        "name": "Skyline Luge Sentosa",
+        "opening_hours": "Mo-Su 10:00-21:30",
+        "source": "Kaart Ground Survey 2017",
+        "tourism": "theme_park",
+        "website": "http://www.skylineluge.sg",
+        "wikidata": "Q15276097",
+        "wikimedia_commons": "Category:Sentosa Luge and Skyride",
+        "wikipedia": "en:Sentosa Luge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8173489,
+          1.2550506
+        ]
+      },
+      "id": "way/478355767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1873233367",
+        "name": "Ancient Egypt",
+        "name:en": "Ancient Egypt",
+        "name:zh": "古埃及",
+        "tourism": "theme_park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8228404,
+          1.2536728
+        ]
+      },
+      "id": "node/1873233367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1873233383",
+        "name": "Jurassic World",
+        "name:en": "Jurassic World",
+        "name:zh": "失落的世界区",
+        "tourism": "theme_park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8238526,
+          1.2539038
+        ]
+      },
+      "id": "node/1873233383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4560997465",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "6",
+        "addr:postcode": "039594",
+        "addr:street": "Raffles Boulevard",
+        "level": "1",
+        "name": "Pororo Park",
+        "tourism": "theme_park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8570795,
+          1.2906104
+        ]
+      },
+      "id": "node/4560997465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5761606753",
+        "name": "4D Adventureland",
+        "name:zh": "4D 探索乐园",
+        "opening_hours": "Mo-Su 12:00-19:00",
+        "phone": "+6562745355",
+        "tourism": "theme_park",
+        "website": "https://4dadventureland.com.sg/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8165435,
+          1.2553342
+        ]
+      },
+      "id": "node/5761606753"
+    }
+  ]
+}

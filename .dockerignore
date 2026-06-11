@@ -1,0 +1,15 @@
+# Keep the build context small and never ship secrets/artifacts into the image.
+.git
+.env
+**/.env
+**/node_modules
+**/dist
+**/__pycache__
+**/*.pyc
+here-hack-4/imagery_cache
+here-hack-4/map/data/*.csv
+here-hack-4/map/discovery_output/existing_OSM_baseline.geojson
+*.log
+A.json
+B.json
+run_*.json

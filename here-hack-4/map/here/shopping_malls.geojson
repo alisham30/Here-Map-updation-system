@@ -1,0 +1,6967 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-26T11:17:41Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1582274",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "Taman Jurong Shopping Centre",
+        "addr:housenumber": "399",
+        "addr:postcode": "610399",
+        "addr:street": "Yung Sheng Road",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Taman Jurong Shopping Centre",
+        "shop": "mall",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7204648,
+          1.3348278
+        ]
+      },
+      "id": "relation/1582274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1706794",
+        "building": "commercial",
+        "layer": "1",
+        "name": "888 Plaza",
+        "shop": "mall",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7952897,
+          1.4378145
+        ]
+      },
+      "id": "relation/1706794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2298319",
+        "addr:city": "Singapore",
+        "addr:housenumber": "10",
+        "addr:postcode": "018956",
+        "addr:street": "Bayfront Avenue",
+        "architect": "Safdie Architects",
+        "building": "retail",
+        "building:colour": "teal",
+        "building:levels": "2",
+        "building:levels:underground": "1",
+        "building:material": "glass",
+        "email": "RetailConcierge@MarinaBaySands.com",
+        "height": "15",
+        "image": "https://images.mapillary.com/hyFNYuXhkcxTJzzfHyrSwA/thumb-2048.jpg",
+        "layer": "2",
+        "mapillary": "194083775886286",
+        "name": "The Shoppes at Marina Bay Sands",
+        "name:en": "The Shoppes at Marina Bay Sands",
+        "name:zh": "滨海湾金沙购物广场",
+        "opening_hours": "Mo-Th 10:30-23:00; Fr-Sa 10:30-23:30; Su 10:30-23:00",
+        "phone": "+65 6688 8868",
+        "roof:colour": "teal",
+        "roof:material": "glass",
+        "shop": "mall",
+        "start_date": "2010",
+        "type": "multipolygon",
+        "website": "https://www.marinabaysands.com/shopping.html",
+        "wikidata": "Q126361114",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8588924,
+          1.2840201
+        ]
+      },
+      "id": "relation/2298319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2353588",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "1",
+        "addr:postcode": "098585",
+        "addr:street": "Harbourfront Avenue",
+        "air_conditioning": "yes",
+        "image": "https://images.mapillary.com/aTG8kpFQbEE2n9YylkauVw/thumb-2048.jpg",
+        "mapillary": "1220696415014107",
+        "name": "VivoCity",
+        "name:en": "VivoCity",
+        "name:ko": "비보시티",
+        "name:zh": "怡丰城",
+        "shop": "mall",
+        "type": "multipolygon",
+        "wheelchair": "yes",
+        "wikidata": "Q7937930",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8220879,
+          1.2643743
+        ]
+      },
+      "id": "relation/2353588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2434612",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "Boon Lay Shopping Centre",
+        "addr:housenumber": "221",
+        "addr:postcode": "640221",
+        "addr:street": "Boon Lay Place",
+        "building": "commercial",
+        "name": "Boon Lay Shopping Centre",
+        "shop": "mall",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7124831,
+          1.3463274
+        ]
+      },
+      "id": "relation/2434612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2665149",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "Techpoint",
+        "addr:housenumber": "10",
+        "addr:postcode": "569059",
+        "addr:street": "Ang Mo Kio Street 65",
+        "building": "industrial",
+        "building:levels": "6",
+        "operator": "Techpoint",
+        "shop": "mall",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8493212,
+          1.389357
+        ]
+      },
+      "id": "relation/2665149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/3899853",
+        "building": "yes",
+        "name": "Tampines Mart",
+        "shop": "mall",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9600729,
+          1.354402
+        ]
+      },
+      "id": "relation/3899853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/4131188",
+        "building": "yes",
+        "building:levels": "5",
+        "name": "Far East Plaza",
+        "name:zh": "远东广场",
+        "shop": "mall",
+        "type": "multipolygon",
+        "wikidata": "Q5434545",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.833913,
+          1.3071357
+        ]
+      },
+      "id": "relation/4131188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/4131242",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "625",
+        "addr:postcode": "510625",
+        "addr:street": "Elias Road",
+        "building": "retail",
+        "building:levels": "2",
+        "name": "Elias Mall",
+        "shop": "mall",
+        "type": "multipolygon",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.942013,
+          1.3785776
+        ]
+      },
+      "id": "relation/4131242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/7773060",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "253",
+        "addr:postcode": "680253",
+        "addr:street": "Choa Chu Kang Avenue 1",
+        "building": "commercial",
+        "building:levels": "1",
+        "name": "Keat Hong Shopping Centre",
+        "roof:levels": "1",
+        "roof:material": "roof_tiles",
+        "roof:shape": "mansard",
+        "shop": "mall",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7444324,
+          1.3773259
+        ]
+      },
+      "id": "relation/7773060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/8365868",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "Dawson Place",
+        "addr:housenumber": "57",
+        "addr:postcode": "142057",
+        "addr:street": "Strathmore Avenue",
+        "building": "garage",
+        "building:levels": "3",
+        "name": "Dawson Place",
+        "parking": "multi-storey",
+        "roof:levels": "1",
+        "roof:shape": "flat",
+        "shop": "mall",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8110959,
+          1.2926708
+        ]
+      },
+      "id": "relation/8365868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9382787",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "311",
+        "addr:postcode": "467360",
+        "addr:street": "New Upper Changi Road",
+        "air_conditioning": "yes",
+        "email": "retail@capitaland.com",
+        "name": "Bedok Mall",
+        "name:en": "Bedok Mall",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "CapitaLand Ltd",
+        "phone": "+65 6702 5120",
+        "shop": "mall",
+        "start_date": "2013-12-03",
+        "type": "multipolygon",
+        "website": "https://www.capitaland.com/sg/malls/bedokmall/en.html",
+        "wikidata": "Q16839725",
+        "wikipedia": "en:Bedok Mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.929246,
+          1.3248368
+        ]
+      },
+      "id": "relation/9382787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/10734758",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "238",
+        "addr:postcode": "307683",
+        "addr:street": "Thomson Road",
+        "building": "retail",
+        "height": "0",
+        "name": "Velocity @ Novena Square",
+        "shop": "mall",
+        "type": "building",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8438327,
+          1.3197931
+        ]
+      },
+      "id": "relation/10734758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/13156866",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "50",
+        "addr:postcode": "608549",
+        "addr:street": "Jurong Gateway Road",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "6",
+        "full_name": "Jurong East Mall",
+        "name": "JEM",
+        "name:en": "JEM",
+        "name:zh": "裕廊东广场",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "shop": "mall",
+        "type": "multipolygon",
+        "wikidata": "Q14874447",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7433992,
+          1.3331331
+        ]
+      },
+      "id": "relation/13156866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14647637",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "Northshore Plaza I",
+        "addr:housenumber": "407",
+        "addr:postcode": "820407",
+        "addr:street": "Northshore Drive",
+        "building": "yes",
+        "name": "Northshore Plaza I",
+        "shop": "mall",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9020857,
+          1.4166829
+        ]
+      },
+      "id": "relation/14647637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/15649876",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "317",
+        "addr:postcode": "169075",
+        "addr:street": "Outram Road",
+        "building": "retail",
+        "height": "0",
+        "name": "Concorde Shopping Centre",
+        "shop": "mall",
+        "start_date": "1980",
+        "type": "building",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8342288,
+          1.2889501
+        ]
+      },
+      "id": "relation/15649876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/15771172",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "30",
+        "addr:neighbourhood": "The Woodgrove",
+        "addr:postcode": "739065",
+        "addr:street": "Woodlands Avenue 1",
+        "building": "retail",
+        "building:levels": "3",
+        "name": "The Woodgrove",
+        "name:zh": "兀兰坊",
+        "shop": "mall",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7811363,
+          1.4290911
+        ]
+      },
+      "id": "relation/15771172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/17070297",
+        "addr:city": "Singapore",
+        "addr:housenumber": "501",
+        "addr:postcode": "259760",
+        "addr:street": "Bukit Timah Road",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "2",
+        "check_date": "2024-01-23",
+        "email": "clunycourtsg@gmail.com",
+        "fax": "+65 6466 5078",
+        "name": "Cluny Court",
+        "note": "Cluny Court is formed by multiple shophouses, each an individual building.",
+        "phone": "+65 6467 6077",
+        "shop": "mall",
+        "source": "KG Ground Survey 2016",
+        "type": "multipolygon",
+        "website": "https://www.clunycourt.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.814272,
+          1.3226411
+        ]
+      },
+      "id": "relation/17070297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/17940097",
+        "building": "commercial;yes",
+        "name": "Vista Point",
+        "shop": "mall",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7939196,
+          1.4309594
+        ]
+      },
+      "id": "relation/17940097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/18841366",
+        "building": "retail",
+        "name": "PARKTOWN",
+        "name:en": "PARKTOWN",
+        "shop": "mall",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9378084,
+          1.3669054
+        ]
+      },
+      "id": "relation/18841366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26561741",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "80",
+        "addr:postcode": "819642",
+        "addr:street": "Airport Boulevard",
+        "aeroway": "terminal",
+        "building": "yes",
+        "building:levels": "3",
+        "building:levels:underground": "3",
+        "height": "30",
+        "name": "Changi Airport Terminal 1",
+        "name:en": "Changi Airport Terminal 1",
+        "name:zh": "樟宜机场1号航站楼",
+        "shop": "mall",
+        "short_name": "Terminal 1",
+        "short_name:zh": "1号航站楼",
+        "source": "Bing",
+        "start_date": "1981",
+        "wheelchair": "yes",
+        "wikidata": "Q55721632",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9910807,
+          1.3627078
+        ]
+      },
+      "id": "way/26561741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30527021",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "1",
+        "addr:postcode": "188504",
+        "addr:street": "Rochor Canal Road",
+        "building": "retail",
+        "building:levels": "6",
+        "name": "Sim Lim Square",
+        "shop": "mall",
+        "wheelchair": "limited",
+        "wikidata": "Q3483927",
+        "wikimedia_commons": "Category:Sim Lim Square",
+        "wikipedia": "en:Sim Lim Square",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8530255,
+          1.3030332
+        ]
+      },
+      "id": "way/30527021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32416309",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "Broadway Plaza",
+        "addr:housenumber": "4190",
+        "addr:postcode": "569841",
+        "addr:street": "Ang Mo Kio Avenue 6",
+        "building": "retail",
+        "name": "Broadway Plaza",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8459597,
+          1.3719352
+        ]
+      },
+      "id": "way/32416309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32774292",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "1",
+        "addr:postcode": "545078",
+        "addr:street": "Sengkang Square",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "4",
+        "name": "Compass One",
+        "name:en": "Compass One",
+        "name:zh-Hant": "勘寶坊",
+        "old_name": "Compass Point",
+        "opening_hours": "Mo-Su,PH 10:00-22:00",
+        "operator": "M&G Real Estate",
+        "phone": "+65 6819 0733",
+        "shop": "mall",
+        "stroller": "yes",
+        "toilets": "yes",
+        "website": "https://compassone.sg/",
+        "wheelchair": "yes",
+        "wikidata": "Q5156109",
+        "wikimedia_commons": "Category:Compass_One_Shopping_Centre",
+        "wikipedia": "en:Compass One",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8949564,
+          1.392017
+        ]
+      },
+      "id": "way/32774292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32774317",
+        "addr:housenumber": "118",
+        "addr:postcode": "540118",
+        "addr:street": "Rivervale Drive",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Rivervale Plaza",
+        "shop": "mall",
+        "toilets": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9019719,
+          1.3853329
+        ]
+      },
+      "id": "way/32774317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32774374",
+        "addr:city": "Singapore",
+        "addr:housenumber": "11",
+        "addr:postcode": "545082",
+        "addr:street": "Rivervale Crescent",
+        "building": "yes",
+        "name": "Rivervale Mall",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9044753,
+          1.3922311
+        ]
+      },
+      "id": "way/32774374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32774612",
+        "landuse": "retail",
+        "name": "Hougang Green Shopping Mall",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8879261,
+          1.3792878
+        ]
+      },
+      "id": "way/32774612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32774665",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "Hougang Mall",
+        "addr:housenumber": "90",
+        "addr:postcode": "538766",
+        "addr:street": "Hougang Avenue 10",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "check_date": "2023-06-23",
+        "name": "Hougang Mall",
+        "opening_hours": "Mo-Su,PH 10:00 - 22:00",
+        "operator": "Frasers Property",
+        "phone": "+65 6487 4155",
+        "shop": "mall",
+        "source": "Kaart Ground Survey 2017",
+        "website": "https://www.hougangmall.com.sg/",
+        "wikidata": "Q5912813",
+        "wikimedia_commons": "Category:Hougang_Mall",
+        "wikipedia": "en:Hougang Mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8937329,
+          1.3724413
+        ]
+      },
+      "id": "way/32774665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/33444529",
+        "addr:city": "Singapore",
+        "addr:housenumber": "205",
+        "addr:postcode": "530205",
+        "addr:street": "Hougang Street 21",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "name": "Heartland Mall",
+        "shop": "mall",
+        "source": "Kaart Ground Survey 2017",
+        "wheelchair": "yes",
+        "wikidata": "Q5692853",
+        "wikimedia_commons": "Category:Heartland_Mall",
+        "wikipedia": "en:Heartland Mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8852025,
+          1.3594964
+        ]
+      },
+      "id": "way/33444529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/33543880",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "2",
+        "addr:postcode": "609601",
+        "addr:street": "Jurong East Street 21",
+        "building": "yes",
+        "building:levels": "5",
+        "full_name": "International Merchandise Mart",
+        "name": "IMM",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "CapitaLand Ltd",
+        "shop": "mall",
+        "source": "Bing",
+        "website": "http://www.imm.sg/",
+        "wikidata": "Q5972038",
+        "wikipedia": "en:IMM (Singapore)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7466237,
+          1.3347654
+        ]
+      },
+      "id": "way/33543880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/34575159",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "White Sands",
+        "addr:housenumber": "1",
+        "addr:postcode": "518457",
+        "addr:street": "Pasir Ris Central Street 3",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "4",
+        "building:levels:underground": "2",
+        "name": "White Sands",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "Frasers Property",
+        "phone": "+65 6585 0606",
+        "shop": "mall",
+        "start_date": "1997-01",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.whitesands.com.sg/",
+        "wheelchair": "yes",
+        "wikidata": "Q7995368",
+        "wikimedia_commons": "Category:White Sands Shopping Centre",
+        "wikipedia": "en:White Sands Shopping Mall, Singapore",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9497597,
+          1.3724456
+        ]
+      },
+      "id": "way/34575159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/37357018",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "61",
+        "addr:postcode": "569814",
+        "addr:street": "Ang Mo Kio Avenue 8",
+        "building": "retail",
+        "name": "Jubilee Square",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8477765,
+          1.3717857
+        ]
+      },
+      "id": "way/37357018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/39487263",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "252",
+        "addr:postcode": "179103",
+        "addr:street": "North Bridge Road",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "building:colour": "#c8ccd4",
+        "building:levels": "4",
+        "building:material": "metal",
+        "building:part": "yes",
+        "email": "retail@capitaland.com",
+        "height": "30",
+        "internet_access": "wlan",
+        "layer": "1",
+        "name": "Raffles City Shopping Centre",
+        "name:en": "Raffles City Shopping Centre",
+        "name:ko": "래플스 시티 쇼핑센터",
+        "name:zh-Hans": "莱佛士城购物中心",
+        "name:zh-Hant": "萊佛士城購物中心",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "CapitaLand Ltd",
+        "phone": "+65 6318 0238",
+        "roof:colour": "#b9ac99",
+        "roof:material": "concrete",
+        "shop": "mall",
+        "start_date": "1986",
+        "stroller": "yes",
+        "website": "http://www.rafflescity.com.sg/",
+        "wheelchair": "yes",
+        "wikidata": "Q5359041",
+        "wikimedia_commons": "Category:Raffles_City",
+        "wikipedia": "en:Raffles City",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8533513,
+          1.2938989
+        ]
+      },
+      "id": "way/39487263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41889431",
+        "addr:housename": "Shaw House",
+        "addr:housenumber": "350",
+        "addr:postcode": "238868",
+        "addr:street": "Orchard Road",
+        "building": "commercial",
+        "height": "0",
+        "name": "Shaw House",
+        "name:en": "Shaw House",
+        "name:zh": "邵氏大厦",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8315296,
+          1.3058286
+        ]
+      },
+      "id": "way/41889431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41889999",
+        "addr:city": "Singapore",
+        "addr:housename": "Orchard Central",
+        "addr:housenumber": "181",
+        "addr:postcode": "238896",
+        "addr:street": "Orchard Road",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "name": "Orchard Central",
+        "name:ko": "오차드 센트럴",
+        "name:zh": "乌节中央城",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "phone": "+65 6238 1051",
+        "shop": "mall",
+        "start_date": "2009-07-02",
+        "stroller": "yes",
+        "website": "http://www.orchardcentral.com.sg/",
+        "wheelchair": "yes",
+        "wikidata": "Q7100181",
+        "wikimedia_commons": "Category:Orchard_Central",
+        "wikipedia": "en:Orchard Central",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8398031,
+          1.3006418
+        ]
+      },
+      "id": "way/41889999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41890217",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "390",
+        "addr:street": "Orchard Road",
+        "building": "yes",
+        "building:levels": "16",
+        "building:min_level": "4",
+        "name": "Palais Renaissance",
+        "shop": "mall",
+        "wikidata": "Q7126597",
+        "wikimedia_commons": "Category:Palais_Renaissance",
+        "wikipedia": "en:Palais Renaissance",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8296522,
+          1.3067203
+        ]
+      },
+      "id": "way/41890217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41890235",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "400",
+        "addr:postcode": "238875",
+        "addr:street": "Orchard Road",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Orchard Towers",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82921,
+          1.3069608
+        ]
+      },
+      "id": "way/41890235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41913741",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "370",
+        "addr:postcode": "159953",
+        "addr:street": "Alexandra Road",
+        "building": "retail",
+        "building:levels": "5",
+        "building:levels:underground": "1",
+        "name": "Anchorpoint",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8050249,
+          1.2886901
+        ]
+      },
+      "id": "way/41913741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41913930",
+        "building": "retail",
+        "building:colour": "#dab481",
+        "building:levels": "4",
+        "building:material": "concrete",
+        "name": "Queensway Shopping Centre",
+        "shop": "mall",
+        "wheelchair": "no",
+        "wikidata": "Q7271124",
+        "wikipedia": "en:Queensway Shopping Centre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8034772,
+          1.287553
+        ]
+      },
+      "id": "way/41913930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42010371",
+        "addr:housenumber": "8",
+        "addr:postcode": "239695",
+        "addr:street": "Grange Road",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "building:levels": "6",
+        "name": "Cathay Cineleisure Orchard",
+        "opening_hours": "Mo-Su,PH 10:00-22:00",
+        "shop": "mall",
+        "toilets": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5052143",
+        "wikimedia_commons": "Category:Cathay Cineleisure Orchard",
+        "wikipedia": "en:Cathay Cineleisure Orchard",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8364924,
+          1.3014619
+        ]
+      },
+      "id": "way/42010371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43755568",
+        "access": "yes",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "100",
+        "addr:postcode": "079027",
+        "addr:street": "Tras Street",
+        "building": "yes",
+        "building:colour": "#736354",
+        "building:levels": "5",
+        "building:material": "stone",
+        "fee": "yes",
+        "name": "100AM",
+        "old_name": "Amara Shopping Centre",
+        "parking": "underground",
+        "roof:colour": "#736354",
+        "shop": "mall",
+        "source": "Kaart Ground Survey 2017",
+        "start_date": "1986",
+        "website": "https://www.100am.com.sg/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8436136,
+          1.274904
+        ]
+      },
+      "id": "way/43755568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/44121572",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "Parkway Parade",
+        "addr:housenumber": "80",
+        "addr:postcode": "449269",
+        "addr:street": "Marine Parade Road",
+        "building": "retail",
+        "building:levels": "7",
+        "building:levels:underground": "1",
+        "internet_access": "wlan",
+        "level": "-1-24",
+        "name": "Parkway Parade",
+        "operator": "Lendlease",
+        "roof:colour": "#8f6a75",
+        "roof:material": "concrete",
+        "shop": "mall",
+        "website": "https://www.parkwayparade.com.sg/",
+        "wheelchair": "yes",
+        "wikidata": "Q15265483",
+        "wikimedia_commons": "Category:Parkway Parade",
+        "wikipedia": "en:Parkway Parade",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9052851,
+          1.3013803
+        ]
+      },
+      "id": "way/44121572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/44121574",
+        "addr:city": "Singapore",
+        "addr:housename": "112 Katong",
+        "addr:housenumber": "112",
+        "addr:postcode": "428802",
+        "addr:street": "East Coast Road",
+        "alt_name": "112 Katong",
+        "building": "retail",
+        "building:colour": "#bebdba",
+        "building:material": "glass",
+        "name": "i12 Katong",
+        "old_name:1983-1995": "Katong People's Complex",
+        "old_name:1995-2011": "Katong Mall",
+        "shop": "mall",
+        "source": "Kaart Ground Survey 2017",
+        "wheelchair": "yes",
+        "wikidata": "Q4540649",
+        "wikipedia": "en:I12 Katong",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9050423,
+          1.3051668
+        ]
+      },
+      "id": "way/44121574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/44348591",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "1",
+        "addr:postcode": "429979",
+        "addr:street": "Brooke Road",
+        "building": "retail",
+        "name": "Katong Plaza",
+        "opening_hours": "10:00-22:00",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9038703,
+          1.3042065
+        ]
+      },
+      "id": "way/44348591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/44348592",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "865",
+        "addr:postcode": "437844",
+        "addr:street": "Mountbatten Road",
+        "building": "retail",
+        "height": "0",
+        "name": "Katong Shopping Centre",
+        "shop": "mall",
+        "wikidata": "Q6377787",
+        "wikimedia_commons": "Category:Katong Shopping Centre",
+        "wikipedia": "en:Katong Shopping Centre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9011475,
+          1.3038781
+        ]
+      },
+      "id": "way/44348592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/44348658",
+        "addr:city": "Singapore",
+        "addr:street": "Mountbatten Road",
+        "building": "yes",
+        "name": "Odeon Katong Shopping Complex",
+        "shop": "mall",
+        "source": "Kaart Ground Survey 2017",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.901932,
+          1.3046858
+        ]
+      },
+      "id": "way/44348658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/44414531",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "231",
+        "addr:postcode": "180231",
+        "addr:street": "Bain Street",
+        "air_conditioning": "no",
+        "building": "commercial",
+        "building:levels": "4",
+        "check_date": "2024-04-14",
+        "foot": "yes",
+        "height": "20",
+        "name": "Bras Basah Complex",
+        "name:zh": "百胜楼",
+        "name:zh-Hans": "百胜楼商联会",
+        "name:zh-Hant": "百胜樓商聯會",
+        "shop": "mall",
+        "source": "Bing",
+        "start_date": "1980",
+        "toilets": "yes",
+        "wikidata": "Q107803645",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8536294,
+          1.2968252
+        ]
+      },
+      "id": "way/44414531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45066510",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "50",
+        "addr:postcode": "428769",
+        "addr:street": "East Coast Road",
+        "building": "retail",
+        "building:colour": "#8b7979",
+        "building:levels": "3",
+        "building:material": "stone",
+        "name": "Roxy Square",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9046089,
+          1.3033499
+        ]
+      },
+      "id": "way/45066510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45107961",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "150",
+        "addr:postcode": "238841",
+        "addr:street": "Orchard Road",
+        "building": "commercial",
+        "building:levels": "3",
+        "name": "Orchard Plaza",
+        "operator": "Far East Organization",
+        "shop": "mall",
+        "wikimedia_commons": "Category:Orchard_Plaza",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8411479,
+          1.3012626
+        ]
+      },
+      "id": "way/45107961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46503585",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "176",
+        "addr:street": "Orchard Road",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "6",
+        "name": "The Centrepoint",
+        "name:zh": "先得坊",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "Frasers Property",
+        "phone": "+65 6737 9000",
+        "shop": "mall",
+        "start_date": "1983-05",
+        "stroller": "yes",
+        "website": "https://www.thecentrepoint.com.sg/",
+        "wheelchair": "yes",
+        "wikidata": "Q7721920",
+        "wikimedia_commons": "Category:The_Centrepoint",
+        "wikipedia": "en:The Centrepoint",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8398119,
+          1.301901
+        ]
+      },
+      "id": "way/46503585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46503590",
+        "building": "yes",
+        "building:levels": "8",
+        "check_date": "2025-05-20",
+        "landuse": "retail",
+        "name": "The Cathay",
+        "opening_hours": "off",
+        "shop": "mall",
+        "start_date": "1939",
+        "wheelchair": "yes",
+        "wikidata": "Q779865",
+        "wikimedia_commons": "Category:The_Cathay",
+        "wikipedia": "en:The Cathay",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8476565,
+          1.2994807
+        ]
+      },
+      "id": "way/46503590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46515799",
+        "addr:city": "Singapore",
+        "addr:housename": "Ngee Ann City",
+        "addr:housenumber": "391",
+        "addr:postcode": "238872",
+        "addr:street": "Orchard Rd",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Ngee Ann City",
+        "name:zh": "義安城",
+        "opening_hours": "10:00-21:30",
+        "operator": "Starhill Global REIT",
+        "shop": "mall",
+        "start_date": "1993-09-21",
+        "stroller": "yes",
+        "website": "https://www.ngeeanncity.com.sg/",
+        "wheelchair": "yes",
+        "wikidata": "Q3133228",
+        "wikimedia_commons": "Category:Ngee_Ann_City",
+        "wikipedia": "en:Ngee Ann City",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8347141,
+          1.3026133
+        ]
+      },
+      "id": "way/46515799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46518144",
+        "addr:housename": "Pacific Plaza",
+        "addr:housenumber": "9",
+        "addr:postcode": "228210",
+        "addr:street": "Scotts Road",
+        "building": "yes",
+        "building:levels": "13",
+        "name": "Pacific Plaza",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8321236,
+          1.3065597
+        ]
+      },
+      "id": "way/46518144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46522833",
+        "addr:city": "Singapore",
+        "addr:housenumber": "35",
+        "addr:postcode": "188307",
+        "addr:street": "Selegie Road",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "7",
+        "name": "Parklane Shopping Mall",
+        "opening_hours": "07:00-22:00",
+        "shop": "mall",
+        "source": "Kaart Ground Survey 2017",
+        "website": "https://www.parklaneshoppingmall.com/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.849441,
+          1.3006629
+        ]
+      },
+      "id": "way/46522833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46522843",
+        "addr:city": "Singapore",
+        "addr:housenumber": "1",
+        "addr:postcode": "188306",
+        "addr:street": "Selegie Road",
+        "building": "yes",
+        "building:levels": "7",
+        "name": "GR.ID",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "+6563394608",
+        "shop": "mall",
+        "start_date": "2013",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8493281,
+          1.3001326
+        ]
+      },
+      "id": "way/46522843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46529040",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "91",
+        "addr:postcode": "189652",
+        "addr:street": "Bencoolen Street",
+        "building": "retail",
+        "building:levels": "4",
+        "name": "Sunshine Plaza",
+        "shop": "mall",
+        "start_date": "2001",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8509415,
+          1.3003536
+        ]
+      },
+      "id": "way/46529040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46529046",
+        "addr:city": "Singapore",
+        "addr:housenumber": "190",
+        "addr:postcode": "188979",
+        "addr:street": "Middle Road",
+        "building": "commercial",
+        "building:levels": "8",
+        "check_date": "2023-07-26",
+        "name": "Fortune Centre",
+        "shop": "mall",
+        "start_date": "1983",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852284,
+          1.3003923
+        ]
+      },
+      "id": "way/46529046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46594832",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "111",
+        "addr:postcode": "179098",
+        "addr:street": "North Bridge Road",
+        "building": "retail",
+        "height": "0",
+        "name": "Peninsula Plaza",
+        "shop": "mall",
+        "start_date": "1978",
+        "wheelchair": "yes",
+        "wikimedia_commons": "Category:Peninsula_Plaza",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8508288,
+          1.2923267
+        ]
+      },
+      "id": "way/46594832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46595137",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "Suntec City Mall",
+        "addr:housenumber": "3",
+        "addr:postcode": "038983",
+        "addr:street": "Temasek Boulevard",
+        "building": "yes",
+        "building:colour": "#595f5f",
+        "building:part": "yes",
+        "height": "20",
+        "name": "Suntec City",
+        "name:ar": "مول كبير",
+        "name:en": "Suntec City",
+        "name:zh": "新达城购物中心",
+        "shop": "mall",
+        "start_date": "1997",
+        "toilets": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8578759,
+          1.2949861
+        ]
+      },
+      "id": "way/46595137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46612311",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "163",
+        "addr:postcode": "247933",
+        "addr:street": "Tanglin Road",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "building:levels": "3",
+        "check_date": "2023-12-10",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Tanglin Mall",
+        "opening_hours": "Mo-Su 09:30-21:30",
+        "phone": "+65 68361146",
+        "shop": "mall",
+        "source": "local knowledge",
+        "stroller": "yes",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8238575,
+          1.3048369
+        ]
+      },
+      "id": "way/46612311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46821373",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:street": "Simei Street 6",
+        "building": "yes",
+        "building:levels": "6",
+        "height": "50",
+        "name": "East Point",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "Frasers CenterPoint Malls",
+        "roof:shape": "flat",
+        "shop": "mall",
+        "website": "https://eastpoint.fraserscentrepointmalls.com/index.php",
+        "wikidata": "Q5329174",
+        "wikipedia": "en:Eastpoint Mall, Singapore",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9529868,
+          1.3427269
+        ]
+      },
+      "id": "way/46821373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46919229",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "Tanjong Katong Complex",
+        "addr:housenumber": "845",
+        "addr:postcode": "400845",
+        "addr:street": "Geylang Road",
+        "building": "construction",
+        "building:levels": "4",
+        "construction": "retail",
+        "name": "Tanjong Katong Complex",
+        "note": "anonymous says popular among migrant workers Note 4121620",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8943388,
+          1.3163748
+        ]
+      },
+      "id": "way/46919229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46919233",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "810",
+        "addr:postcode": "409286",
+        "addr:street": "Geylang Road",
+        "building": "retail",
+        "building:levels": "5",
+        "height": "0",
+        "name": "City Plaza",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8934464,
+          1.3147731
+        ]
+      },
+      "id": "way/46919233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/47198835",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "665",
+        "addr:neighbourhood": "Tekka Centre",
+        "addr:postcode": "210665",
+        "addr:street": "Buffalo Road",
+        "building": "retail",
+        "building:colour": "grey",
+        "building:levels": "2",
+        "building:material": "concrete",
+        "height": "10",
+        "name": "Tekka Centre",
+        "name:en": "Tekka Centre",
+        "name:ms": "Pusat Tekka",
+        "name:zh": "竹脚中心",
+        "roof:colour": "cyan",
+        "roof:material": "metal",
+        "shop": "mall",
+        "wikidata": "Q7695362",
+        "wikimedia_commons": "Category:Tekka Centre",
+        "wikipedia": "en:Tekka Centre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8505301,
+          1.3062231
+        ]
+      },
+      "id": "way/47198835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/47198841",
+        "addr:housenumber": "145",
+        "addr:street": "Syed Alwi Road",
+        "building": "commercial",
+        "building:levels": "5",
+        "name": "Mustafa Centre",
+        "opening_hours": "Mo-Su 09:00-02:00",
+        "shop": "mall",
+        "source": "Kaart Ground Survey 2017",
+        "website": "https://mustafa.com.sg",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8553164,
+          1.3101243
+        ]
+      },
+      "id": "way/47198841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/47345027",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "6",
+        "addr:street": "Shenton Way",
+        "building": "yes",
+        "name": "OUE Downtown",
+        "office": "yes",
+        "old_name": "DBS Building",
+        "shop": "mall",
+        "start_date": "1974",
+        "wheelchair": "yes",
+        "wikidata": "Q5204421",
+        "wikimedia_commons": "Category:OUE Downtown",
+        "wikipedia": "en:OUE Downtown",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8486711,
+          1.2774025
+        ]
+      },
+      "id": "way/47345027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48031573",
+        "addr:city": "Singapore",
+        "addr:housenumber": "201",
+        "addr:postcode": "188067",
+        "addr:street": "Victoria Street",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "building:levels": "7",
+        "email": "retail@capitaland.com",
+        "name": "Bugis+",
+        "name:en": "Bugis Plus",
+        "name:zh-Hans": "白沙浮娱乐广场",
+        "name:zh-Hant": "白沙浮娛樂廣場",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "CapitaLand Ltd",
+        "phone": "+65 6557 6557",
+        "shop": "mall",
+        "source": "Bing",
+        "start_date": "2009-06-01",
+        "stroller": "yes",
+        "website": "https://www.capitaland.com/sg/malls/bugisplus/en/",
+        "wheelchair": "yes",
+        "wikidata": "Q2927720",
+        "wikimedia_commons": "Category:Bugis+",
+        "wikipedia": "en:Bugis+",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8541655,
+          1.2996734
+        ]
+      },
+      "id": "way/48031573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48581160",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "30",
+        "addr:postcode": "757713",
+        "addr:street": "Sembawang Drive",
+        "building": "retail",
+        "height": "0",
+        "name": "Sun Plaza",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8195153,
+          1.4481927
+        ]
+      },
+      "id": "way/48581160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/52236347",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "313",
+        "addr:postcode": "238895",
+        "addr:street": "Orchard Road",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "name": "313@Somerset",
+        "opening_hours": "Su-Th 10:00-22:00; Fr-Sa 10:00-23:00",
+        "operator": "Lendlease",
+        "phone": "+65 6496 9313",
+        "shop": "mall",
+        "start_date": "2009-12",
+        "stroller": "yes",
+        "toilets": "yes",
+        "website": "https://www.313somerset.com.sg/",
+        "wheelchair": "yes",
+        "wikidata": "Q69627358",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8382874,
+          1.3010177
+        ]
+      },
+      "id": "way/52236347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/54032324",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "Depot Heights Shopping Centre",
+        "addr:housenumber": "108",
+        "addr:postcode": "100108",
+        "addr:street": "Depot Road",
+        "building": "retail",
+        "building:levels": "3",
+        "name": "Depot Heights Shopping Centre",
+        "shop": "mall",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8103282,
+          1.2811645
+        ]
+      },
+      "id": "way/54032324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/54519150",
+        "building": "yes",
+        "building:levels": "2",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7805052,
+          1.2830844
+        ]
+      },
+      "id": "way/54519150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/62204073",
+        "addr:city": "Sembawang",
+        "addr:housenumber": "604",
+        "addr:postcode": "758459",
+        "addr:street": "Sembawang Road",
+        "building": "yes",
+        "name": "Sembawang Shopping Centre",
+        "shop": "mall",
+        "wikidata": "Q54321838",
+        "wikipedia": "en:Sembawang Shopping Centre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.824931,
+          1.4418971
+        ]
+      },
+      "id": "way/62204073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/72660563",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "248",
+        "addr:postcode": "520248",
+        "addr:street": "Simei Street 3",
+        "amenity": "parking",
+        "building": "yes",
+        "building:levels": "4",
+        "building:use": "carpark;shops",
+        "height": "30",
+        "name": "Simei Plaza /Blk 248",
+        "parking": "multi-storey",
+        "postal_code": "520248",
+        "roof:shape": "flat",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9536221,
+          1.3435043
+        ]
+      },
+      "id": "way/72660563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94018008",
+        "building": "yes",
+        "layer": "2",
+        "name": "The Centris",
+        "name:en": "The Centris",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7052344,
+          1.3394539
+        ]
+      },
+      "id": "way/94018008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95594924",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "638",
+        "addr:postcode": "640638",
+        "addr:street": "Jurong West Street 61",
+        "building": "retail",
+        "building:colour": "#EAD5AD",
+        "building:levels": "4",
+        "building:material": "concrete",
+        "name": "Pioneer Mall",
+        "opening_hours": "Mo-Su,PH 00:00-24:00",
+        "roof:colour": "#45423D",
+        "roof:material": "concrete",
+        "shop": "mall",
+        "toilets": "yes",
+        "wikidata": "Q7196724",
+        "wikipedia": "en:Pioneer Mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6971791,
+          1.341702
+        ]
+      },
+      "id": "way/95594924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95939467",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "762",
+        "addr:postcode": "640762",
+        "addr:street": "Jurong West Street 75",
+        "building": "commercial",
+        "height": "0",
+        "name": "Gek Poh Shopping Centre",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6977256,
+          1.3490537
+        ]
+      },
+      "id": "way/95939467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102429452",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "City Square Mall",
+        "addr:housenumber": "180",
+        "addr:postcode": "208539",
+        "addr:street": "Kitchener Road",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "building:levels": "4",
+        "building:part": "yes",
+        "internet_access": "wlan",
+        "name": "City Square Mall",
+        "name:en": "City Square Mall",
+        "name:zh-Hant": "城市廣場",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "City Developments Limited",
+        "phone": "+65 6595 6595",
+        "shop": "mall",
+        "source": "Mapbox",
+        "start_date": "2009-09-19",
+        "stroller": "yes",
+        "toilets": "yes",
+        "website": "https://www.citysquaremall.com.sg/",
+        "wheelchair": "yes",
+        "wikidata": "Q5123434",
+        "wikimedia_commons": "Category:City Square Mall, Singapore",
+        "wikipedia": "en:City Square Mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8565834,
+          1.3113867
+        ]
+      },
+      "id": "way/102429452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/104352121",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "The Star Vista",
+        "addr:housenumber": "1",
+        "addr:postcode": "138617",
+        "addr:street": "Vista Exchange Green",
+        "building": "retail",
+        "building:levels": "11",
+        "height": "42",
+        "image": "https://images.mapillary.com/_imRP_lPRxx4XaCPIVXGDA/thumb-2048.jpg",
+        "mapillary": "2025824024223418",
+        "name": "The Star Vista",
+        "name:en": "The Star Vista",
+        "name:zh": "星悦汇",
+        "operator": "CapitaLand Ltd",
+        "operator:wikidata": "Q3272868",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7884524,
+          1.306826
+        ]
+      },
+      "id": "way/104352121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107578653",
+        "addr:city": "Singapore",
+        "addr:housenumber": "1",
+        "addr:postcode": "538692",
+        "addr:street": "Hougang Street 91",
+        "building": "retail",
+        "building:levels": "2",
+        "landuse": "retail",
+        "layer": "-1",
+        "location": "surface",
+        "name": "Hougang 1",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.879514,
+          1.3757064
+        ]
+      },
+      "id": "way/107578653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/111151622",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "321",
+        "addr:postcode": "159972",
+        "addr:street": "Alexandra Road",
+        "building": "yes",
+        "name": "Alexandra Central",
+        "operator": "Park Hotel Group",
+        "shop": "mall",
+        "website": "https://www.parkhotelgroup.com/alexandra/default-en.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8053276,
+          1.2873166
+        ]
+      },
+      "id": "way/111151622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/111610945",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "51",
+        "addr:postcode": "390051",
+        "addr:street": "Old Airport Road",
+        "building": "retail",
+        "building:levels": "2",
+        "name": "Old Airport Road Food Centre & Shopping Mall",
+        "name:zh": "旧机场路小贩中心",
+        "shop": "mall",
+        "source": "Kaart Ground Survey 2017",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8858301,
+          1.3082588
+        ]
+      },
+      "id": "way/111610945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/116782195",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "445",
+        "addr:postcode": "469661",
+        "addr:street": "Bedok North Street 1",
+        "building": "commercial",
+        "building:levels": "6",
+        "name": "Djitsun Mall Bedok",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9295546,
+          1.3261293
+        ]
+      },
+      "id": "way/116782195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/117035196",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "301",
+        "addr:postcode": "574408",
+        "addr:street": "Upper Thomson Road",
+        "building": "yes",
+        "building:levels": "3",
+        "building:levels:underground": "1",
+        "email": "feedback@thomsonplaza.com.sg",
+        "name": "Thomson Plaza",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "shop": "mall",
+        "start_date": "1979",
+        "website": "https://www.thomsonplaza.com.sg/",
+        "wheelchair": "yes",
+        "wikidata": "Q20983940",
+        "wikipedia": "en:Thomson Plaza",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8307608,
+          1.3546008
+        ]
+      },
+      "id": "way/117035196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/117450953",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "170",
+        "addr:postcode": "588179",
+        "addr:street": "Upper Bukit Timah Road",
+        "building": "commercial",
+        "building:colour": "#d7d7cb",
+        "building:levels": "5",
+        "building:material": "concrete",
+        "name": "Bukit Timah Shopping Center",
+        "name:zh": "武吉知马购物中心",
+        "roof:colour": "#59524c",
+        "roof:levels": "1",
+        "roof:material": "concrete",
+        "shop": "mall",
+        "website": "https://www.bukittimahshoppingcentre.sg/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7760509,
+          1.3432601
+        ]
+      },
+      "id": "way/117450953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/117450954",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "144",
+        "addr:postcode": "588177",
+        "addr:street": "Upper Bukit Timah Road",
+        "building": "commercial",
+        "building:colour": "#b3bfc0",
+        "building:levels": "4",
+        "building:material": "concrete",
+        "name": "Beauty World Centre",
+        "name:en": "Beauty World Centre",
+        "name:zh": "美世界中心",
+        "shop": "mall",
+        "website": "https://www.beautyworldcentre.net/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7765589,
+          1.3423587
+        ]
+      },
+      "id": "way/117450954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/117450957",
+        "addr:city": "Singapore",
+        "addr:housenumber": "140",
+        "addr:postcode": "588176",
+        "addr:street": "Upper Bukit Timah Road",
+        "building": "commercial",
+        "building:colour": "#babfb6",
+        "building:levels": "3",
+        "building:material": "concrete",
+        "name": "Beauty World Plaza",
+        "name:en": "Beauty World Plaza",
+        "name:zh": "美世界购物中心",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7763037,
+          1.3418287
+        ]
+      },
+      "id": "way/117450957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/118994815",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "The Clementi Mall",
+        "addr:housenumber": "3155",
+        "addr:postcode": "129588",
+        "addr:street": "Commonwealth Avenue West",
+        "building": "yes",
+        "building:levels": "5",
+        "layer": "1",
+        "name": "The Clementi Mall",
+        "name:zh": "金文泰广场",
+        "shop": "mall",
+        "source": "HDB",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7642331,
+          1.3149817
+        ]
+      },
+      "id": "way/118994815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119879842",
+        "addr:city": "Singapore",
+        "addr:housenumber": "3151",
+        "addr:postcode": "129581",
+        "addr:street": "Commonwealth Avenue West",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Grantral Mall @ Clementi",
+        "name:en": "Grantral Mall @ Clementi",
+        "name:zh": "君超广场",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7651379,
+          1.3142963
+        ]
+      },
+      "id": "way/119879842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/125303510",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "883",
+        "addr:street": "Woodlands Street 82",
+        "building": "commercial",
+        "name": "Woodlands North Plaza",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7908061,
+          1.4427432
+        ]
+      },
+      "id": "way/125303510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/127548081",
+        "building": "retail",
+        "name": "Greenwich V",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.869389,
+          1.3875058
+        ]
+      },
+      "id": "way/127548081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/139670204",
+        "addr:housenumber": "756",
+        "addr:postcode": "534626",
+        "addr:street": "Upper Serangoon Road",
+        "building": "yes",
+        "building:levels": "5",
+        "name": "Upper Serangoon Shopping Centre",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8788344,
+          1.3536238
+        ]
+      },
+      "id": "way/139670204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144381429",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "West Coast Plaza",
+        "addr:housenumber": "154",
+        "addr:postcode": "127371",
+        "addr:street": "West Coast Road",
+        "building": "retail",
+        "designation": "West Coast Plaza",
+        "name": "West Coast Plaza",
+        "name:zh": "西海岸广场",
+        "old_name": "Ginza Plaza",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.766276,
+          1.3036424
+        ]
+      },
+      "id": "way/144381429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152598430",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "10",
+        "addr:postcode": "078878",
+        "addr:street": "Gopeng St",
+        "building": "yes",
+        "building:colour": "#9099a0",
+        "building:levels": "7",
+        "building:material": "concrete",
+        "name": "Icon Village",
+        "roof:colour": "#9099a0",
+        "shop": "mall",
+        "start_date": "2007",
+        "website": "http://www.iconvillage.com.sg/",
+        "wikidata": "Q14874445",
+        "wikimedia_commons": "Category:Icon Loft",
+        "wikipedia": "en:Icon Loft",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8445351,
+          1.2751635
+        ]
+      },
+      "id": "way/152598430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152638469",
+        "addr:city": "Singapore",
+        "addr:housenumber": "211",
+        "addr:postcode": "278967",
+        "addr:street": "Holland Avenue",
+        "building": "retail",
+        "building:levels": "3",
+        "height": "9",
+        "name": "Holland Road Shopping Centre",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7953505,
+          1.3102935
+        ]
+      },
+      "id": "way/152638469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152752624",
+        "addr:city": "Singapore",
+        "addr:housenumber": "3",
+        "addr:postcode": "277725",
+        "addr:street": "Lorong Liput",
+        "building": "retail",
+        "building:levels": "2",
+        "height": "9",
+        "name": "Holland Piazza",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7952562,
+          1.3106791
+        ]
+      },
+      "id": "way/152752624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153136696",
+        "addr:city": "Singapore",
+        "addr:housename": "Ang Mo Kio Hub",
+        "addr:housenumber": "53",
+        "addr:postcode": "569933",
+        "addr:street": "Ang Mo Kio Avenue 3",
+        "building": "retail",
+        "building:levels": "5",
+        "email": "contactus@amkhub.linkreit.com",
+        "name": "Ang Mo Kio Hub",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "LINK REIT",
+        "phone": "+65 67539000",
+        "shop": "mall",
+        "short_name": "AMK Hub",
+        "start_date": "2007-05",
+        "stroller": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q4652658",
+        "wikimedia_commons": "Category:Ang_Mo_Kio_Hub",
+        "wikipedia": "en:AMK Hub",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8483419,
+          1.369444
+        ]
+      },
+      "id": "way/153136696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154157497",
+        "addr:housenumber": "678A",
+        "addr:street": "Woodlands Avenue 6",
+        "building": "yes",
+        "name": "Admiralty Place",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8012976,
+          1.4402582
+        ]
+      },
+      "id": "way/154157497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154178431",
+        "building": "yes",
+        "building:colour": "#c3d4df",
+        "building:levels": "4",
+        "building:material": "metal",
+        "name": "Leisure Park Kallang",
+        "roof:colour": "#c3bda9",
+        "roof:material": "concrete",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "wikidata": "Q6520295",
+        "wikipedia": "en:Leisure Park Kallang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8765537,
+          1.3021844
+        ]
+      },
+      "id": "way/154178431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154493306",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "402",
+        "addr:street": "Orchard Road",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Delfi Orchard",
+        "shop": "mall",
+        "wikimedia_commons": "Category:Delfi_Orchard",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8284739,
+          1.3071812
+        ]
+      },
+      "id": "way/154493306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155096524",
+        "addr:city": "Singapore",
+        "addr:housename": "Orchard Building",
+        "addr:housenumber": "1",
+        "addr:postcode": "239693",
+        "addr:street": "Grange Road",
+        "building": "office",
+        "name": "Orchard Building",
+        "shop": "mall",
+        "start_date": "1997",
+        "wheelchair": "yes",
+        "wikimedia_commons": "Category:Orchard_Building",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83735,
+          1.3014048
+        ]
+      },
+      "id": "way/155096524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155991343",
+        "addr:city": "Singapore",
+        "addr:housenumber": "2",
+        "addr:street": "Serangoon Road",
+        "amenity": "parking",
+        "building": "retail",
+        "height": "0",
+        "name": "Tekka Place",
+        "opening_hours": "10:00-22:00",
+        "parking": "multi-storey",
+        "shop": "mall",
+        "website": "https://www.tekkaplace.sg/",
+        "wikidata": "Q121834063",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8523178,
+          1.3045905
+        ]
+      },
+      "id": "way/155991343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/158234014",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "3",
+        "addr:postcode": "608532",
+        "addr:street": "Gateway Drive",
+        "building": "yes",
+        "building:colour": "#8b7f79",
+        "building:levels": "5",
+        "building:material": "stone",
+        "name": "Westgate",
+        "name:en": "Westgate",
+        "name:zh": "西城",
+        "opening_hours": "Mo-Su,PH 10:00-22:00",
+        "operator": "CapitaLand Ltd",
+        "shop": "mall",
+        "wikidata": "Q17054930",
+        "wikimedia_commons": "Category:Westgate (Singapore)",
+        "wikipedia": "en:Westgate (Singapore)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7428751,
+          1.3341755
+        ]
+      },
+      "id": "way/158234014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159940901",
+        "addr:city": "Singapore",
+        "addr:housenumber": "587",
+        "addr:postcode": "269707",
+        "addr:street": "Bukit Timah Road",
+        "building": "retail",
+        "building:levels": "3",
+        "name": "Coronation Plaza",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8100055,
+          1.3237824
+        ]
+      },
+      "id": "way/159940901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161136289",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "1",
+        "addr:postcode": "237994",
+        "addr:street": "Kim Seng Promenade",
+        "air_conditioning": "yes",
+        "building": "commercial",
+        "building:colour": "#6d6763",
+        "building:levels": "4",
+        "building:levels:underground": "2",
+        "building:material": "stone",
+        "name": "Great World City",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "Allgreen Properties",
+        "shop": "mall",
+        "stroller": "yes",
+        "website": "https://shop.greatworld.com.sg/",
+        "wikidata": "Q5600267",
+        "wikimedia_commons": "Category:Great World City",
+        "wikipedia": "en:Great World City",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8318929,
+          1.2936086
+        ]
+      },
+      "id": "way/161136289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/162524446",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "West Mall",
+        "addr:housenumber": "1",
+        "addr:postcode": "658713",
+        "addr:street": "Bukit Batok Central Link",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "fax": "+65 6794 1461",
+        "name": "West Mall",
+        "phone": "+65 6309 1166",
+        "shop": "mall",
+        "source": "Bing",
+        "start_date": "1998",
+        "website": "https://www.westmall.com.sg/",
+        "wikidata": "Q7985841",
+        "wikipedia": "en:West Mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7492868,
+          1.3500366
+        ]
+      },
+      "id": "way/162524446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/166194030",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "4",
+        "addr:postcode": "529509",
+        "addr:street": "Tampines Central 5",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "4",
+        "email": "retail@capitaland.com",
+        "name": "Tampines Mall",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "CapitaLand Ltd",
+        "phone": "+65 6788 8370",
+        "shop": "mall",
+        "start_date": "1995-12",
+        "website": "https://www.capitaland.com/sg/malls/tampinesmall/en.html",
+        "wheelchair": "limited",
+        "wikidata": "Q7681801",
+        "wikimedia_commons": "Category:Tampines Mall",
+        "wikipedia": "en:Tampines Mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9447233,
+          1.3525404
+        ]
+      },
+      "id": "way/166194030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/166194031",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "2",
+        "addr:postcode": "529509",
+        "addr:street": "Tampines Central 5",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "5",
+        "name": "Century Square",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "Frasers Property",
+        "phone": "+65 6789 6261",
+        "shop": "mall",
+        "start_date": "1995-07",
+        "website": "https://www.centurysquare.com.sg/",
+        "wikidata": "Q5063207",
+        "wikipedia": "en:Century Square, Singapore",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9437898,
+          1.3523858
+        ]
+      },
+      "id": "way/166194031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/166194476",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "10",
+        "addr:postcode": "529536",
+        "addr:street": "Tampines Central 1",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "6",
+        "name": "Tampines 1",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "Frasers Property",
+        "phone": "+65 6572 5522",
+        "shop": "mall",
+        "start_date": "2009-04",
+        "website": "https://www.tampines1.com.sg/",
+        "wikidata": "Q17054309",
+        "wikipedia": "en:Tampines 1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9450121,
+          1.3542178
+        ]
+      },
+      "id": "way/166194476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/167472305",
+        "addr:city": "Singapore",
+        "addr:housenumber": "35",
+        "addr:postcode": "138639",
+        "addr:street": "Rochester Drive",
+        "building": "commercial",
+        "height": "36",
+        "name": "Rochester Mall",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7882026,
+          1.3056598
+        ]
+      },
+      "id": "way/167472305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170403710",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "480",
+        "addr:postcode": "310480",
+        "addr:street": "Lorong 6 Toa Payoh",
+        "building": "office",
+        "height": "0",
+        "name": "HDB Hub",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "wikipedia": "en:HDB Hub",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8484823,
+          1.331993
+        ]
+      },
+      "id": "way/170403710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172024056",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "317",
+        "addr:postcode": "169075",
+        "addr:street": "Outram Road",
+        "building": "retail",
+        "height": "0",
+        "name": "Concorde Shopping Centre",
+        "shop": "mall",
+        "start_date": "1980",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8342288,
+          1.2889501
+        ]
+      },
+      "id": "way/172024056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172117296",
+        "addr:housenumber": "302",
+        "addr:street": "Tiong Bahru Road",
+        "building": "yes",
+        "name": "Tiong Bahru Plaza",
+        "name:zh": "中峇鲁广场",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "wikidata": "Q7808729",
+        "wikimedia_commons": "Category:Tiong Bahru Plaza and Central Plaza",
+        "wikipedia": "en:Tiong Bahru Plaza",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8273286,
+          1.2864016
+        ]
+      },
+      "id": "way/172117296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172364977",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "200",
+        "addr:postcode": "188021",
+        "addr:street": "Victoria Street",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "building:levels": "3",
+        "email": "retail@capitaland.com",
+        "internet_access": "wlan",
+        "name": "Bugis Junction",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "CapitaLand",
+        "phone": "+65 6557 6557",
+        "shop": "mall",
+        "start_date": "1995-07",
+        "stroller": "yes",
+        "website": "https://www.capitaland.com/sg/malls/bugisjunction/en.html",
+        "wheelchair": "yes",
+        "wikidata": "Q2927725",
+        "wikipedia": "en:Bugis Junction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8559023,
+          1.2998158
+        ]
+      },
+      "id": "way/172364977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172518481",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "545",
+        "addr:street": "Orchard Road",
+        "building": "yes",
+        "building:levels": "-1",
+        "name": "Far East Shopping Centre",
+        "shop": "mall",
+        "wikimedia_commons": "Category:Far_East_Shopping_Centre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8300911,
+          1.3055354
+        ]
+      },
+      "id": "way/172518481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172518487",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "583",
+        "addr:street": "Orchard Road",
+        "alt_name": "Forum Mall",
+        "building": "yes",
+        "building:colour": "#557579",
+        "building:levels": "4",
+        "building:material": "glass",
+        "name": "Forum The Shopping Mall",
+        "roof:colour": "#989675",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "wikidata": "Q5473080",
+        "wikimedia_commons": "Category:Forum_The_Shopping_Mall",
+        "wikipedia": "en:Forum The Shopping Mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8287068,
+          1.3060918
+        ]
+      },
+      "id": "way/172518487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172518491",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "541",
+        "addr:street": "Orchard Road",
+        "building": "yes",
+        "building:levels": "-1",
+        "name": "Liat Tower",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8307274,
+          1.3051056
+        ]
+      },
+      "id": "way/172518491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172518492",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "304",
+        "addr:postcode": "238863",
+        "addr:street": "Orchard Road",
+        "building": "yes",
+        "building:colour": "#c0c8dd",
+        "building:levels": "8",
+        "building:material": "metal",
+        "name": "Lucky Plaza",
+        "operator": "Far East",
+        "roof:colour": "#89898e",
+        "roof:material": "concrete",
+        "roof:shape": "flat",
+        "shop": "mall",
+        "website": "http://luckyplaza.com.sg/",
+        "wikidata": "Q6698001",
+        "wikimedia_commons": "Category:Lucky_Plaza,_Singapore",
+        "wikipedia": "en:Lucky Plaza",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.833963,
+          1.304515
+        ]
+      },
+      "id": "way/172518492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172518496",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "290",
+        "addr:postcode": "238859",
+        "addr:street": "Orchard Road",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "building:levels": "6",
+        "name": "Paragon",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "SPH REIT",
+        "phone": "+65 6738 5535",
+        "shop": "mall",
+        "start_date": "1998",
+        "stroller": "yes",
+        "website": "https://www.paragon.com.sg/",
+        "wheelchair": "yes",
+        "wikidata": "Q7756076",
+        "wikimedia_commons": "Category:The_Paragon,_Singapore",
+        "wikipedia": "en:Paragon, Singapore",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8356396,
+          1.3038335
+        ]
+      },
+      "id": "way/172518496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172518499",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "320",
+        "addr:street": "Orchard Road",
+        "building": "yes",
+        "building:levels": "-1",
+        "name": "Tang Plaza",
+        "name:zh": "董厦",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8330376,
+          1.3050171
+        ]
+      },
+      "id": "way/172518499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172518503",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "435",
+        "addr:postcode": "238877",
+        "addr:street": "Orchard Road",
+        "air_conditioning": "yes",
+        "building": "commercial",
+        "email": "marketing@wismaonline.com",
+        "name": "Wisma Atria",
+        "name:en": "Wisma Atria",
+        "name:zh-Hans": "威士玛广场",
+        "name:zh-Hant": "威士瑪廣場",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "Starhill Global REIT",
+        "phone": "+65 6235 2103",
+        "shop": "mall",
+        "start_date": "1986-11-13",
+        "stroller": "yes",
+        "website": "https://www.wismaonline.com/",
+        "wheelchair": "yes",
+        "wikidata": "Q337845",
+        "wikimedia_commons": "Category:Wisma_Atria",
+        "wikipedia": "en:Wisma Atria",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8332105,
+          1.3036801
+        ]
+      },
+      "id": "way/172518503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172521292",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "260",
+        "addr:street": "Orchard Road",
+        "building": "yes",
+        "name": "The Heeren",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "wikidata": "Q107803931",
+        "wikimedia_commons": "Category:The_Heeren",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8373397,
+          1.3026344
+        ]
+      },
+      "id": "way/172521292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172529118",
+        "addr:city": "Singapore",
+        "addr:housenumber": "238",
+        "addr:postcode": "307683",
+        "addr:street": "Thomson Road",
+        "building": "retail",
+        "name": "Velocity @ Novena Square",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8438327,
+          1.3197931
+        ]
+      },
+      "id": "way/172529118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172529121",
+        "addr:city": "Singapore",
+        "addr:housenumber": "10",
+        "addr:postcode": "307506",
+        "addr:street": "Sinaran Drive",
+        "building": "retail",
+        "height": "0",
+        "name": "Square 2",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8441378,
+          1.3207028
+        ]
+      },
+      "id": "way/172529121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172529122",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "101",
+        "addr:postcode": "307591",
+        "addr:street": "Thomson Road",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "height": "0",
+        "name": "United Square",
+        "phone": "+65 62515885",
+        "shop": "mall",
+        "website": "https://www.unitedsquare.com.sg/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8436059,
+          1.3171615
+        ]
+      },
+      "id": "way/172529122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173010412",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "60",
+        "addr:postcode": "819643",
+        "addr:street": "Airport Boulevard",
+        "aeroway": "terminal",
+        "building": "yes",
+        "foot": "yes",
+        "height": "30",
+        "layer": "2",
+        "name": "Changi Airport Terminal 2",
+        "name:en": "Changi Airport Terminal 2",
+        "name:zh": "樟宜机场2号航站楼",
+        "shop": "mall",
+        "short_name": "Terminal 2",
+        "short_name:zh": "2号航站楼",
+        "source": "Bing;Esri",
+        "start_date": "1990",
+        "wheelchair": "yes",
+        "wikidata": "Q55721633",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9904486,
+          1.3537945
+        ]
+      },
+      "id": "way/173010412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173010413",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "65",
+        "addr:postcode": "819663",
+        "addr:street": "Airport Boulevard",
+        "aeroway": "terminal",
+        "building": "yes",
+        "building:part": "yes",
+        "foot": "yes",
+        "height": "30",
+        "name": "Changi Airport Terminal 3",
+        "name:en": "Changi Airport Terminal 3",
+        "name:zh": "樟宜机场3号航站楼",
+        "shop": "mall",
+        "short_name": "Terminal 3",
+        "short_name:zh": "3号航站楼",
+        "start_date": "2008",
+        "wheelchair": "yes",
+        "wikidata": "Q21974333",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9850767,
+          1.3546069
+        ]
+      },
+      "id": "way/173010413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173028320",
+        "addr:housenumber": "1",
+        "building": "yes",
+        "name": "Plaza 8",
+        "shop": "mall",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9655221,
+          1.3335115
+        ]
+      },
+      "id": "way/173028320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173131856",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "21",
+        "addr:postcode": "689812",
+        "addr:street": "Choa Chu Kang Avenue 4",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "5",
+        "email": "retail@capitaland.com",
+        "internet_access": "wlan",
+        "name": "Lot One Shoppers' Mall",
+        "name:en": "Lot One Shoppers' Mall",
+        "name:zh-Hans": "第一乐广场",
+        "name:zh-Hant": "第一樂廣場",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "CapitaLand Ltd",
+        "phone": "+65 6631 9931",
+        "shop": "mall",
+        "start_date": "1996-08",
+        "website": "http://www.lot1.com.sg/",
+        "wikidata": "Q17053153",
+        "wikipedia": "en:Lot One",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745025,
+          1.385156
+        ]
+      },
+      "id": "way/173131856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173144799",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "1",
+        "addr:postcode": "677743",
+        "addr:street": "Jelebu Road",
+        "building": "commercial",
+        "building:levels": "4",
+        "check_date": "2024-12-26",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Bukit Panjang Plaza",
+        "name:en": "Bukit Panjang Plaza",
+        "name:zh": "武吉班让大厦",
+        "opening_hours": "10:00-22:00",
+        "operator": "CapitaLand Ltd",
+        "shop": "mall",
+        "source": "Bing",
+        "toilets": "yes",
+        "website": "https://www.capitaland.com/sg/malls/bukitpanjangplaza/en.html",
+        "wikipedia": "en:Bukit Panjang Plaza",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7643116,
+          1.3800081
+        ]
+      },
+      "id": "way/173144799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173222209",
+        "building": "yes",
+        "name": "Valley Point Shopping Centre",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8270506,
+          1.2931162
+        ]
+      },
+      "id": "way/173222209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173235510",
+        "addr:city": "Singapore",
+        "addr:housenumber": "1",
+        "addr:postcode": "519599",
+        "addr:street": "Pasir Ris Close",
+        "landuse": "commercial",
+        "name": "Downtown East",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9545899,
+          1.3773417
+        ]
+      },
+      "id": "way/173235510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/174035941",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "23",
+        "addr:postcode": "556083",
+        "addr:street": "Serangoon Central",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "7",
+        "email": "askus@nex.com.sg",
+        "layer": "1",
+        "name": "nex",
+        "name:en": "nex",
+        "opening_hours": "Mo-Su 10:30-22:30",
+        "phone": "+65 6416 6366",
+        "shop": "mall",
+        "source": "Bing",
+        "website": "https://www.nex.com.sg",
+        "wheelchair": "yes",
+        "wikidata": "Q7020855",
+        "wikimedia_commons": "Category:Nex_(shopping_mall)",
+        "wikipedia": "en:Nex, Singapore",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8723218,
+          1.3504477
+        ]
+      },
+      "id": "way/174035941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/175841411",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "1",
+        "addr:postcode": "138632",
+        "addr:street": "Fusionopolis Way",
+        "building": "yes",
+        "name": "Fusionopolis 1",
+        "name:zh": "启汇城 1",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7875698,
+          1.2992432
+        ]
+      },
+      "id": "way/175841411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/178437069",
+        "addr:housenumber": "171",
+        "addr:street": "Syed Alwi Road",
+        "building": "yes",
+        "building:levels": "5",
+        "name": "Mustafa Centre",
+        "shop": "mall",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856499,
+          1.3090727
+        ]
+      },
+      "id": "way/178437069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/178437070",
+        "addr:housenumber": "151",
+        "addr:street": "Syed Alwi Road",
+        "building": "yes",
+        "building:levels": "5",
+        "name": "Mustafa Centre",
+        "opening_hours": "24/7",
+        "shop": "mall",
+        "source": "Bing",
+        "website": "https://www.mustafa.com.sg/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8560571,
+          1.3094159
+        ]
+      },
+      "id": "way/178437070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/178437071",
+        "addr:housenumber": "147",
+        "addr:street": "Syed Alwi Road",
+        "building": "yes",
+        "building:levels": "5",
+        "name": "Mustafa Centre",
+        "opening_hours": "Mo-Su 09:00-02:00",
+        "shop": "mall",
+        "website": "https://mustafa.com.sg",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8557165,
+          1.3097608
+        ]
+      },
+      "id": "way/178437071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/182822196",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "220",
+        "addr:street": "Orchard Road",
+        "building": "yes",
+        "name": "Midpoint Orchard",
+        "shop": "mall",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8386507,
+          1.3017606
+        ]
+      },
+      "id": "way/182822196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/182822197",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "277",
+        "addr:postcode": "238858",
+        "addr:street": "Orchard Road",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "name": "Orchard Gateway",
+        "shop": "mall",
+        "start_date": "2014",
+        "website": "http://www.orchardgateway.sg/",
+        "wheelchair": "yes",
+        "wikidata": "Q18129005",
+        "wikipedia": "en:Orchard Gateway",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8393128,
+          1.3006994
+        ]
+      },
+      "id": "way/182822197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/182848383",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "475",
+        "addr:postcode": "680475",
+        "addr:street": "Choa Chu Kang Avenue 3",
+        "building": "retail",
+        "building:levels": "5",
+        "name": "Sunshine Place",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7390721,
+          1.3777679
+        ]
+      },
+      "id": "way/182848383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/182867955",
+        "addr:city": "Singapore",
+        "addr:housenumber": "360",
+        "addr:postcode": "329783",
+        "addr:street": "Balestier Road",
+        "building": "retail",
+        "building:levels": "6",
+        "contact:facebook": "https://www.facebook.com/shawplazaSG",
+        "contact:instagram": "https://www.instagram.com/shawplaza/",
+        "email": "feedback@shaw.com.sg",
+        "name": "Shaw Plaza",
+        "operator": "Shaw Foundation",
+        "operator:wikidata": "Q111914890",
+        "phone": "+65 8902 7149",
+        "shop": "mall",
+        "website": "https://shawplaza.sg/",
+        "wikipedia": "en:Shaw Plaza",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8512623,
+          1.3249589
+        ]
+      },
+      "id": "way/182867955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/201904038",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Joo Chiat Complex",
+        "name:zh": "如切购物商场",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8983948,
+          1.315894
+        ]
+      },
+      "id": "way/201904038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202562316",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "501",
+        "addr:postcode": "259760",
+        "addr:street": "Bukit Timah Road",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "2",
+        "check_date": "2024-01-23",
+        "shop": "mall",
+        "source": "KG Ground Survey 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8142376,
+          1.3225781
+        ]
+      },
+      "id": "way/202562316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/213582607",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "258",
+        "addr:street": "Pasir Ris Drive 2",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Loyang Point",
+        "shop": "mall",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9646242,
+          1.3669967
+        ]
+      },
+      "id": "way/213582607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/218215289",
+        "addr:city": "Singapore",
+        "addr:housenumber": "168",
+        "addr:postcode": "820168",
+        "addr:street": "Punggol Field",
+        "building": "retail",
+        "building:levels": "5",
+        "building:levels:underground": "1",
+        "name": "Punggol Plaza",
+        "shop": "mall",
+        "wikidata": "Q24944716",
+        "wikimedia_commons": "Category:Punggol Plaza",
+        "wikipedia": "en:Punggol Plaza",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9130446,
+          1.3942878
+        ]
+      },
+      "id": "way/218215289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/218269179",
+        "addr:city": "Singapore",
+        "addr:housenumber": "60",
+        "addr:postcode": "409051",
+        "addr:street": "Paya Lebar Road",
+        "air_conditioning": "yes",
+        "building": "commercial",
+        "building:colour": "#8ea5bc",
+        "building:levels": "3",
+        "building:levels:underground": "1",
+        "building:material": "glass",
+        "name": "Paya Lebar Square",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "+65 6702 3107",
+        "shop": "mall",
+        "website": "https://payalebarsquare.sg/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8926009,
+          1.3188127
+        ]
+      },
+      "id": "way/218269179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/222839478",
+        "air_conditioning": "yes",
+        "check_date": "2023-07-28",
+        "landuse": "retail",
+        "layer": "-1",
+        "level": "-1",
+        "location": "underground",
+        "name": "CityLink Mall",
+        "name:en": "CityLink Mall",
+        "shop": "mall",
+        "source": "Bing",
+        "wheelchair": "yes",
+        "wikidata": "Q5122966",
+        "wikimedia_commons": "Category:CityLink_Mall",
+        "wikipedia": "en:CityLink Mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8545385,
+          1.2922036
+        ]
+      },
+      "id": "way/222839478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/222839479",
+        "layer": "-1",
+        "name": "Esplanade Xchange",
+        "shop": "mall",
+        "source": "Bing",
+        "underground": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8550321,
+          1.2926076
+        ]
+      },
+      "id": "way/222839479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/222839548",
+        "name": "Marina Bay Link Mall",
+        "shop": "mall",
+        "source": "Bing",
+        "underground": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8537995,
+          1.2809091
+        ]
+      },
+      "id": "way/222839548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/224318439",
+        "addr:city": "Singapore",
+        "addr:housenumber": "21",
+        "addr:postcode": "689578",
+        "addr:street": "Choa Chu Kang North 6",
+        "building": "retail",
+        "building:levels": "2",
+        "building:levels:underground": "1",
+        "email": "cso@yewteepoint.com.sg",
+        "name": "YewTee Point",
+        "phone": "+65 6465 1986",
+        "shop": "mall",
+        "website": "https://www.yewteepoint.com.sg",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7466613,
+          1.3970877
+        ]
+      },
+      "id": "way/224318439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/231917869",
+        "addr:city": "Singapore",
+        "addr:housename": "ION Orchard",
+        "addr:housenumber": "2",
+        "addr:postcode": "238801",
+        "addr:street": "Orchard Turn",
+        "air_conditioning": "yes",
+        "building": "commercial",
+        "name": "ION Orchard",
+        "name:en": "ION Orchard",
+        "name:ko": "아이온 오차드",
+        "name:zh": "愛雍·烏節",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "CapitaLand Ltd",
+        "phone": "+65 62388228",
+        "shop": "mall",
+        "start_date": "2009-07-21",
+        "stroller": "yes",
+        "toilets": "yes",
+        "toilets:level": "4",
+        "toilets:panoramax": "a5f4187d-ab2f-4837-9371-09a057719911",
+        "website": "https://www.ionorchard.com/",
+        "wheelchair": "yes",
+        "wikidata": "Q3146786",
+        "wikimedia_commons": "Category:ION Orchard and The Orchard Residences",
+        "wikipedia": "en:ION Orchard",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8319742,
+          1.3039546
+        ]
+      },
+      "id": "way/231917869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/232164554",
+        "addr:city": "Singapore",
+        "addr:housenumber": "524A",
+        "addr:postcode": "671524",
+        "addr:street": "Jelapang Road",
+        "building": "yes",
+        "name": "Greenridge Shopping Centre",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7662295,
+          1.3853423
+        ]
+      },
+      "id": "way/232164554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233150122",
+        "addr:city": "Singapore",
+        "addr:housenumber": "33",
+        "addr:postcode": "797653",
+        "addr:street": "Sengkang West Avenue",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "4",
+        "building:levels:underground": "2",
+        "name": "The Seletar Mall",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "Allgreen Properties",
+        "shop": "mall",
+        "start_date": "2014-11-28",
+        "stroller": "yes",
+        "website": "https://theseletarmall.com.sg/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8761903,
+          1.3915468
+        ]
+      },
+      "id": "way/233150122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233927457",
+        "landuse": "commercial",
+        "name": "Yew Tee Square",
+        "name:th": "อิวตี๋สแควร์",
+        "name:zh": "油池广场",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7470206,
+          1.3982417
+        ]
+      },
+      "id": "way/233927457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233927712",
+        "addr:city": "Singapore",
+        "addr:housenumber": "532-534",
+        "addr:postcode": "680532",
+        "addr:street": "Choa Chu Kang Street 51",
+        "landuse": "commercial",
+        "name": "Limbang Shopping Centre",
+        "operator": "Housing Development Board",
+        "shop": "mall",
+        "website": "https://www.hdb.gov.sg/cs/infoweb/residential/where2shop/explore/choa-chu-kang/limbang-shopping-centre",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7432115,
+          1.3919798
+        ]
+      },
+      "id": "way/233927712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233928141",
+        "landuse": "commercial",
+        "name": "Fajar Shopping Centre",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.770853,
+          1.3838176
+        ]
+      },
+      "id": "way/233928141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245072068",
+        "addr:city": "Singapore",
+        "addr:housenumber": "1",
+        "addr:postcode": "677899",
+        "addr:street": "Woodlands Road",
+        "building": "yes",
+        "building:colour": "#a7a197",
+        "building:levels": "5",
+        "building:material": "metal",
+        "name": "Junction 10",
+        "old_name": "Ten Mile Junction",
+        "operator": "Far East Organization",
+        "phone": "+65 6773 6813",
+        "shop": "mall",
+        "source": "Survey",
+        "start_date": "1998",
+        "stroller": "yes",
+        "website": "https://www.fareastmalls.com.sg/en/junction-10",
+        "wheelchair": "yes",
+        "wikidata": "Q6311688",
+        "wikipedia": "en:Junction 10",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7601295,
+          1.3803507
+        ]
+      },
+      "id": "way/245072068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/251607400",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "Jurong Point Shopping Centre",
+        "addr:postcode": "648886",
+        "addr:street": "Jurong West Central 2",
+        "air_conditioning": "yes",
+        "amenity": "commercial",
+        "building": "commercial",
+        "building:colour": "#c3c3c1",
+        "building:levels": "3",
+        "building:material": "metal",
+        "layer": "1",
+        "name": "Jurong Point",
+        "name:zh": "裕廊坊",
+        "opening_hours": "24/7",
+        "roof:colour": "#b999a1",
+        "roof:material": "concrete",
+        "shop": "mall",
+        "toilets": "yes",
+        "wikidata": "Q6315372",
+        "wikimedia_commons": "Category:Jurong Point",
+        "wikipedia": "en:Jurong Point",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7057717,
+          1.3395495
+        ]
+      },
+      "id": "way/251607400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254815930",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "200",
+        "addr:postcode": "188021",
+        "addr:street": "Victoria Street",
+        "landuse": "commercial",
+        "name": "Bugis Junction",
+        "name:en": "Bugis Junction",
+        "operator": "CapitaLand Ltd",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "wikidata": "Q2927725",
+        "wikipedia": "en:Bugis Junction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8551667,
+          1.298913
+        ]
+      },
+      "id": "way/254815930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/260571322",
+        "building": "retail",
+        "email": "enquiry@royal-square.com.sg",
+        "height": "0",
+        "name": "Royal Square at Novena",
+        "phone": "+65 61001866",
+        "shop": "mall",
+        "toilets": "yes",
+        "website": "https://royal-square.com.sg/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8432202,
+          1.3205254
+        ]
+      },
+      "id": "way/260571322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/260954106",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "321",
+        "addr:postcode": "238866",
+        "addr:street": "Orchard Road",
+        "building": "commercial",
+        "name": "Orchard Shopping Centre",
+        "name:zh": "乌节购物中心",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8378882,
+          1.3014967
+        ]
+      },
+      "id": "way/260954106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/271791475",
+        "access": "yes",
+        "addr:city": "Singapore",
+        "addr:housenumber": "20",
+        "addr:postcode": "329984",
+        "addr:street": "Ah Hood Road",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "building:levels": "20",
+        "building:material": "glass",
+        "covered": "yes",
+        "fee": "yes",
+        "layer": "-1",
+        "name": "Zhongshan Mall",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "shop": "mall",
+        "source": "Bing",
+        "survey:date": "2020-07-29",
+        "toilets": "yes",
+        "website": "https://zhongshanmall.com.sg/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8463151,
+          1.3271466
+        ]
+      },
+      "id": "way/271791475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288997556",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "building:levels": "1",
+        "building:part": "yes",
+        "height": "5",
+        "layer": "1",
+        "name": "Kallang Wave Mall",
+        "roof:colour": "#dadace",
+        "roof:material": "concrete",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "wikidata": "Q54321786",
+        "wikipedia": "en:Kallang Wave Mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8732445,
+          1.3034697
+        ]
+      },
+      "id": "way/288997556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/297127018",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "218",
+        "addr:postcode": "238851",
+        "addr:street": "Orchard Road",
+        "building": "yes",
+        "name": "Orchard Gateway @ Emerald",
+        "shop": "mall",
+        "website": "http://www.orchardgateway.sg/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8388682,
+          1.301653
+        ]
+      },
+      "id": "way/297127018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/301736937",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "83",
+        "addr:neighbourhood": "Waterway Point",
+        "addr:postcode": "828763",
+        "addr:street": "Punggol Central",
+        "air_conditioning": "yes",
+        "alt_name": "Watertown",
+        "building": "retail",
+        "building:levels": "2",
+        "name": "Waterway Point",
+        "name:en": "Waterway Point",
+        "name:zh-Hant": "水濱坊",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "+65 6812 7300",
+        "shop": "mall",
+        "source": "Kaart Ground Survey 2017",
+        "start_date": "2016-01-18",
+        "stroller": "yes",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.waterwaypoint.com.sg/",
+        "wheelchair": "yes",
+        "wikidata": "Q14874473",
+        "wikipedia": "en:Waterway Point",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9022278,
+          1.4064594
+        ]
+      },
+      "id": "way/301736937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/303311927",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "6",
+        "addr:postcode": "039594",
+        "addr:street": "Raffles Boulevard",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "height": "0",
+        "name": "Marina Square",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "+65 6339 8787",
+        "shop": "mall",
+        "start_date": "1986",
+        "stroller": "yes",
+        "website": "https://www.marinasquare.com.sg/",
+        "wheelchair": "yes",
+        "wikidata": "Q6763917",
+        "wikimedia_commons": "Category:Marina Square",
+        "wikipedia": "en:Marina Square",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.857535,
+          1.291286
+        ]
+      },
+      "id": "way/303311927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/305882760",
+        "addr:city": "Singapore",
+        "addr:housenumber": "1",
+        "addr:postcode": "556679",
+        "addr:street": "Maju Avenue",
+        "air_conditioning": "yes",
+        "building": "commercial",
+        "building:levels": "3",
+        "name": "myVillage",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "shop": "mall",
+        "toilets": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8651556,
+          1.3651486
+        ]
+      },
+      "id": "way/305882760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/305950830",
+        "building": "commercial",
+        "name": "Kang Kar Mall",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8942289,
+          1.3717185
+        ]
+      },
+      "id": "way/305950830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/311724957",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "101",
+        "addr:postcode": "208511",
+        "addr:street": "Kitchener Road",
+        "building": "retail",
+        "height": "0",
+        "name": "Jalan Besar Plaza",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8580368,
+          1.3086303
+        ]
+      },
+      "id": "way/311724957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/328531477",
+        "addr:city": "Singapore",
+        "addr:housenumber": "400",
+        "addr:postcode": "329802",
+        "addr:street": "Balestier Road",
+        "air_conditioning": "yes",
+        "building": "apartments",
+        "name": "Balestier Plaza",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "shop": "mall",
+        "toilets": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8503815,
+          1.3257137
+        ]
+      },
+      "id": "way/328531477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/334111739",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "One KM Mall",
+        "addr:housenumber": "11",
+        "addr:postcode": "437157",
+        "addr:street": "Tanjong Katong Road",
+        "building": "commercial",
+        "building:colour": "#ded3c8",
+        "building:levels": "6",
+        "building:levels:underground": "1",
+        "building:material": "metal",
+        "name": "Kinex",
+        "note": "Formerly OneKM Shopping Mall",
+        "operator": "UOL Malls",
+        "shop": "mall",
+        "source": "Bing",
+        "website": "https://www.kinex.com.sg/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.894811,
+          1.3146526
+        ]
+      },
+      "id": "way/334111739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/334114071",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "50",
+        "addr:postcode": "428769",
+        "addr:street": "East Coast Road",
+        "building": "retail",
+        "building:levels": "5",
+        "name": "Roxy Square",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.904122,
+          1.3042854
+        ]
+      },
+      "id": "way/334114071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/364073828",
+        "addr:city": "Singapore",
+        "addr:housenumber": "17",
+        "addr:postcode": "678278",
+        "addr:street": "Petir Road",
+        "building": "commercial",
+        "building:levels": "4",
+        "check_date": "2025-10-20",
+        "contact:facebook": "https://www.facebook.com/HillionMall/",
+        "contact:instagram": "https://www.instagram.com/hillionmall",
+        "layer": "1",
+        "name": "Hillion Mall",
+        "opening_hours": "Mo-Su,PH 10:00-22:00",
+        "operator": "Sim Lian Group",
+        "phone": "+65 6769 0009",
+        "shop": "mall",
+        "start_date": "2017-02-24",
+        "stroller": "yes",
+        "website": "https://www.hillionmall.com.sg/",
+        "wheelchair": "yes",
+        "wikidata": "Q104842067",
+        "wikipedia": "en:Hillion Mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7632996,
+          1.3784413
+        ]
+      },
+      "id": "way/364073828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/364084242",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "1",
+        "addr:postcode": "629117",
+        "addr:street": "Joon Koon Circle",
+        "building": "commercial",
+        "name": "Fairprice Hub",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6783782,
+          1.3260464
+        ]
+      },
+      "id": "way/364084242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375020383",
+        "addr:city": "Singapore",
+        "addr:housenumber": "4",
+        "addr:postcode": "667979",
+        "addr:street": "Hillview Rise",
+        "building": "retail",
+        "building:levels": "2",
+        "layer": "1",
+        "name": "HillV2 Mall",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7643632,
+          1.3633978
+        ]
+      },
+      "id": "way/375020383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380512070",
+        "building": "yes",
+        "name": "South Beach Quarter",
+        "old_name": "Quarters at Beach Road Camp",
+        "shop": "mall",
+        "start_date": "1930",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8561555,
+          1.2957356
+        ]
+      },
+      "id": "way/380512070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380512075",
+        "building": "roof",
+        "building:levels": "3",
+        "building:min_level": "3",
+        "name": "South Beach Avenue",
+        "roof:colour": "orange",
+        "roof:levels": "0.5",
+        "roof:material": "wood",
+        "shop": "mall",
+        "start_date": "2015",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8559721,
+          1.294755
+        ]
+      },
+      "id": "way/380512075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/393100849",
+        "addr:city": "Singapore",
+        "addr:housenumber": "1",
+        "addr:postcode": "078881",
+        "addr:street": "Wallich Street",
+        "building": "yes",
+        "building:colour": "#546472",
+        "building:levels": "6",
+        "building:material": "glass",
+        "height": "30",
+        "name": "Guoco Tower",
+        "office": "yes",
+        "roof:colour": "#546472",
+        "shop": "mall",
+        "source": "Bing",
+        "start_date": "2016",
+        "wikidata": "Q28873239",
+        "wikimedia_commons": "Category:Guoco Tower",
+        "wikipedia": "en:Guoco Tower",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8454718,
+          1.2770148
+        ]
+      },
+      "id": "way/393100849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/393210508",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "Suntec City Mall",
+        "addr:housenumber": "3",
+        "addr:postcode": "038983",
+        "addr:street": "Temasek Boulevard",
+        "building": "yes",
+        "building:colour": "#595f5f",
+        "height": "20",
+        "name": "Suntec City",
+        "name:zh": "新达城",
+        "shop": "mall",
+        "start_date": "1997",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8601422,
+          1.2949832
+        ]
+      },
+      "id": "way/393210508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/393210509",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "Suntec City Mall",
+        "addr:housenumber": "3",
+        "addr:postcode": "038983",
+        "addr:street": "Temasek Boulevard",
+        "building": "yes",
+        "height": "20",
+        "min_height": "5",
+        "name": "Suntec City",
+        "shop": "mall",
+        "start_date": "1997",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8594878,
+          1.2957767
+        ]
+      },
+      "id": "way/393210509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/395022655",
+        "addr:housenumber": "511",
+        "addr:postcode": "399849",
+        "addr:street": "Guillemard Road",
+        "building": "retail",
+        "building:levels": "5",
+        "name": "Grandlink Square",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8915347,
+          1.3142925
+        ]
+      },
+      "id": "way/395022655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/397426426",
+        "addr:city": "Singapore",
+        "addr:housenumber": "991",
+        "addr:postcode": "530991",
+        "addr:street": "Buangkok Link",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "Buangkok Square Mall",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8816182,
+          1.3842992
+        ]
+      },
+      "id": "way/397426426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/397586378",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "418",
+        "addr:neighbourhood": "Northshore Plaza II",
+        "addr:postcode": "820418",
+        "addr:street": "Northshore Drive",
+        "building": "yes",
+        "name": "Northshore Plaza II",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9013214,
+          1.4178949
+        ]
+      },
+      "id": "way/397586378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410463765",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "The Star Vista",
+        "addr:housenumber": "1",
+        "addr:postcode": "138617",
+        "addr:street": "Vista Exchange Green",
+        "bench": "yes",
+        "bin": "yes",
+        "building": "retail",
+        "building:levels": "11",
+        "building:part": "no",
+        "bus": "yes",
+        "height": "0",
+        "highway": "bus_stop",
+        "image": "https://images.mapillary.com/_imRP_lPRxx4XaCPIVXGDA/thumb-2048.jpg",
+        "lit": "yes",
+        "location": "Commonwealth Avenue West",
+        "mapillary": "2025824024223418",
+        "name": "The Star Vista",
+        "name:en": "The Star Vista",
+        "name:zh": "星悦汇",
+        "operator": "CapitaLand Ltd",
+        "public_transport": "platform",
+        "ref": "11191",
+        "route_ref": "14;105;106;147;185;NR5;NR8",
+        "shelter": "yes",
+        "shop": "mall",
+        "tactile_paving": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q4998006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7883825,
+          1.3080015
+        ]
+      },
+      "id": "node/410463765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/424896140",
+        "landuse": "mixed",
+        "name": "Marina One",
+        "name:zh": "滨海盛景",
+        "shop": "mall",
+        "start_date": "2017",
+        "website": "https://www.marinaone.com.sg/",
+        "wikidata": "Q15247672",
+        "wikipedia": "en:Marina One",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8529601,
+          1.2772634
+        ]
+      },
+      "id": "way/424896140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/427064874",
+        "building:part": "residential",
+        "image": "https://images.mapillary.com/gJNkSSXlJPNRfGQFHGICuw/thumb-2048.jpg",
+        "mapillary": "158753939528009",
+        "name": "Duo Residences",
+        "residential": "condominium",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8586495,
+          1.2998789
+        ]
+      },
+      "id": "way/427064874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428901639",
+        "building": "train_station",
+        "layer": "1",
+        "name": "Bukit Panjang Plaza",
+        "shop": "mall",
+        "train_station_name": "Bukit Panjang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7621096,
+          1.378632
+        ]
+      },
+      "id": "way/428901639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/430678763",
+        "name": "Scotts Square",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "wikidata": "Q7438167",
+        "wikimedia_commons": "Category:Scotts Square",
+        "wikipedia": "en:Scotts Shopping Centre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8329328,
+          1.3058338
+        ]
+      },
+      "id": "way/430678763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/432515092",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "107",
+        "addr:postcode": "179105",
+        "addr:street": "North Bridge Road",
+        "air_conditioning": "yes",
+        "building": "commercial",
+        "name": "Funan",
+        "name:en": "Funan",
+        "name:zh": "福南",
+        "opening_hours": "Mo-Su, PH 09:00-22:00",
+        "operator": "CapitaLand Ltd",
+        "shop": "mall",
+        "start_date": "2019",
+        "website": "https://www.capitaland.com/sg/malls/funan/en.html",
+        "wikidata": "Q5508728",
+        "wikipedia": "en:Funan, Singapore",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8499874,
+          1.2913892
+        ]
+      },
+      "id": "way/432515092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/432868544",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "321",
+        "addr:postcode": "120321",
+        "addr:street": "Clementi Avenue 3",
+        "building": "commercial",
+        "building:colour": "#626C6C",
+        "building:levels": "7",
+        "building:material": "glass",
+        "description": "Cinema and mini mall",
+        "name": "Clementi 321",
+        "operator": "2",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7650214,
+          1.3119852
+        ]
+      },
+      "id": "way/432868544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445001361",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "598",
+        "addr:postcode": "768698",
+        "addr:street": "Yishun Ring Road",
+        "building": "yes",
+        "name": "Wisteria Mall",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "+65 63590255",
+        "shop": "mall",
+        "source": "Kaart Ground Survey 2017",
+        "website": "https://www.wisteriamall.com.sg/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8412699,
+          1.41826
+        ]
+      },
+      "id": "way/445001361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/446775872",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "18",
+        "addr:postcode": "539775",
+        "addr:street": "Tai Seng Street",
+        "building": "commercial",
+        "height": "0",
+        "name": "18 Tai Seng",
+        "old_name": "Mapletree 18",
+        "operator": "Mapletree",
+        "shop": "mall",
+        "website": "http://www.mapletree.com.sg/en/All-Properties/MIT/Singapore/18%20Tai%20Seng.aspx",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8888324,
+          1.3362972
+        ]
+      },
+      "id": "way/446775872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/447213139",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "501",
+        "addr:postcode": "238880",
+        "addr:street": "Orchard Road",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "name": "Wheelock Place",
+        "name:zh-Hant": "偉樂坊",
+        "old_name": "Lane Crawford Place",
+        "operator": "Wharf Estates Singapore",
+        "shop": "mall",
+        "start_date": "1993",
+        "website": "https://wheelockplace.com/",
+        "wheelchair": "yes",
+        "wikidata": "Q7992332",
+        "wikimedia_commons": "Category:Wheelock_Place",
+        "wikipedia": "en:Wheelock Place",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8306774,
+          1.3046867
+        ]
+      },
+      "id": "way/447213139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/455200744",
+        "building": "yes",
+        "name": "Junction Nine",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8416997,
+          1.4331099
+        ]
+      },
+      "id": "way/455200744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/463063306",
+        "building": "yes",
+        "building:colour": "#c6d1d7",
+        "building:levels": "8",
+        "building:material": "metal",
+        "building:part": "yes",
+        "name": "SingPost Centre",
+        "old_name": "Singapore Post Centre",
+        "roof:colour": "#797e7d",
+        "roof:material": "concrete",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8947938,
+          1.3189978
+        ]
+      },
+      "id": "way/463063306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/465145060",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "12",
+        "addr:postcode": "339511",
+        "addr:street": "Kallang Avenue",
+        "air_conditioning": "yes",
+        "baby_feeding": "room",
+        "building": "retail",
+        "contact:facebook": "aperia.mall",
+        "contact:instagram": "aperia.mall",
+        "height": "0",
+        "name": "Aperia Mall",
+        "opening_hours": "10:00-22:00",
+        "operator": "CapitaLand",
+        "shop": "mall",
+        "website": "https://www.aperia.com.sg/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8639739,
+          1.3102913
+        ]
+      },
+      "id": "way/465145060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474909150",
+        "addr:street": "MacPherson Road",
+        "building": "yes",
+        "building:levels": "10",
+        "name": "MacPherson Mall",
+        "shop": "mall",
+        "source": "Kaart Ground Survey 2017",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8793578,
+          1.331794
+        ]
+      },
+      "id": "way/474909150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/492114727",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "Suntec City Mall",
+        "addr:housenumber": "3",
+        "addr:postcode": "038983",
+        "addr:street": "Temasek Boulevard",
+        "building": "yes",
+        "building:colour": "#595f5f",
+        "building:part": "yes",
+        "height": "20",
+        "internet_access": "wlan",
+        "name": "Suntec City",
+        "name:ar": "مول كبير",
+        "name:zh": "新达城购物中心",
+        "operator": "Suntec REIT",
+        "shop": "mall",
+        "start_date": "1997",
+        "toilets": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8587498,
+          1.2960525
+        ]
+      },
+      "id": "way/492114727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/502013652",
+        "addr:city": "Singapore",
+        "addr:housenumber": "4",
+        "addr:postcode": "738623",
+        "addr:street": "Woodlands Street 12",
+        "building": "yes",
+        "name": "Marsiling Mall Hawker Centre",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7799603,
+          1.4335488
+        ]
+      },
+      "id": "way/502013652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/510901696",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "Downtown Gallery",
+        "addr:housenumber": "6A",
+        "addr:postcode": "068815",
+        "addr:street": "Shenton Way",
+        "building": "retail",
+        "email": "concierge@downtowngallery.com.sg",
+        "height": "39",
+        "name": "Downtown Gallery",
+        "phone": "+65 65137727",
+        "roof:colour": "#777976",
+        "shop": "mall",
+        "start_date": "1974",
+        "website": "https://downtowngallery.com.sg/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8483666,
+          1.2769037
+        ]
+      },
+      "id": "way/510901696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/539668158",
+        "building": "yes",
+        "building:colour": "#f6f7fb",
+        "building:levels": "3",
+        "building:material": "metal",
+        "name": "Liat Towers",
+        "roof:colour": "#d1d5b6",
+        "roof:material": "concrete",
+        "shop": "mall",
+        "wikidata": "Q54321701",
+        "wikipedia": "en:Liat Towers",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8307274,
+          1.3051056
+        ]
+      },
+      "id": "way/539668158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/539668175",
+        "building:colour": "#bcc5be",
+        "building:levels": "5",
+        "building:material": "stone",
+        "building:part": "yes",
+        "roof:colour": "#b2a696",
+        "roof:material": "concrete",
+        "roof:shape": "flat",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8330776,
+          1.3050285
+        ]
+      },
+      "id": "way/539668175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/539767937",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "68",
+        "addr:postcode": "238839",
+        "addr:street": "Orchard Road",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "building:levels": "7",
+        "email": "retail@capitaland.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Plaza Singapura",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "CapitaLand Ltd",
+        "phone": "+65 6332 9248",
+        "shop": "mall",
+        "start_date": "1974-09-14",
+        "stroller": "yes",
+        "website": "https://www.capitaland.com/sg/malls/plazasingapura/en.html",
+        "wheelchair": "yes",
+        "wikidata": "Q3392153",
+        "wikimedia_commons": "Category:Plaza_Singapura",
+        "wikipedia": "en:Plaza Singapura",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8452085,
+          1.3004574
+        ]
+      },
+      "id": "way/539767937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/543400239",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "87",
+        "addr:postcode": "118260",
+        "addr:street": "Science Park Drive",
+        "building": "retail",
+        "building:colour": "grey",
+        "building:levels": "3",
+        "check_date": "2024-04-13",
+        "name": "The Oasis",
+        "roof:colour": "grey",
+        "shop": "mall",
+        "website": "https://www.capitaland.com/sg/en/lease/businesspark-industrial-logistics-listing/the-rutherford-oasis.html",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7903736,
+          1.2876789
+        ]
+      },
+      "id": "way/543400239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547383951",
+        "air_conditioning": "yes",
+        "building": "commercial",
+        "building:levels": "0",
+        "building:levels:underground": "5",
+        "layer": "-1",
+        "name": "Jewel Changi Basement",
+        "opening_date": "2019",
+        "operator": "Changi Group",
+        "shop": "mall",
+        "toilets": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9897711,
+          1.3602685
+        ]
+      },
+      "id": "way/547383951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/561552023",
+        "addr:city": "Singapore",
+        "addr:housenumber": "86",
+        "addr:postcode": "428788",
+        "addr:street": "East Coast Road",
+        "building:colour": "#eaeaec",
+        "building:levels": "5",
+        "building:material": "metal",
+        "building:part": "yes",
+        "fixme": "geometry",
+        "name": "Katong Square",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9047193,
+          1.3047052
+        ]
+      },
+      "id": "way/561552023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/561552026",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "The Flow",
+        "addr:housenumber": "66",
+        "addr:street": "East Coast Road",
+        "alt_name": "The Flow",
+        "building": "retail",
+        "building:levels": "7",
+        "name": "The Flow Mall",
+        "opening_hours": "09:00-22:00",
+        "shop": "mall",
+        "website": "http://thefloweastcoast.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9042113,
+          1.3045628
+        ]
+      },
+      "id": "way/561552026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/599416637",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "4",
+        "addr:neighbourhood": "Le Quest",
+        "addr:postcode": "657991",
+        "addr:street": "Bukit Batok Street 41",
+        "building": "retail",
+        "building:levels": "4",
+        "name": "Le Quest Mall",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7411527,
+          1.3559795
+        ]
+      },
+      "id": "way/599416637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620515713",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "9",
+        "addr:postcode": "579837",
+        "addr:street": "Bishan Place",
+        "building": "retail",
+        "height": "0",
+        "name": "Junction 8",
+        "name:en": "Junction 8",
+        "name:zh": "碧山第8站",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "CapitaLand Ltd",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "wikidata": "Q6311694",
+        "wikimedia_commons": "Category:Junction 8 Shopping Centre",
+        "wikipedia": "en:Junction 8",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8486604,
+          1.3505856
+        ]
+      },
+      "id": "way/620515713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/655792110",
+        "addr:city": "Singapore",
+        "addr:housenumber": "250",
+        "addr:postcode": "238905",
+        "addr:street": "Orchard Road",
+        "building": "yes",
+        "name": "Design Orchard",
+        "shop": "mall",
+        "start_date": "2019-04-05",
+        "website": "https://www.designorchard.sg/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8379316,
+          1.3020646
+        ]
+      },
+      "id": "way/655792110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/675585724",
+        "addr:city": "Singapore",
+        "addr:housenumber": "12",
+        "addr:postcode": "465492",
+        "addr:street": "New Upper Changi Road",
+        "building": "yes",
+        "height": "0",
+        "name": "Bedok Mall",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.929246,
+          1.3248368
+        ]
+      },
+      "id": "way/675585724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/699168484",
+        "addr:city": "Singapore",
+        "addr:housenumber": "6",
+        "addr:postcode": "059817",
+        "addr:street": "Eu Tong Sen Street",
+        "air_conditioning": "yes",
+        "building:part": "yes",
+        "height": "0",
+        "name": "Clarke Quay Central",
+        "operator": "Far East Malls",
+        "phone": "+65 6532 9922",
+        "roof:colour": "#DBE1CF",
+        "shop": "mall",
+        "start_date": "2007",
+        "website": "https://www.fareastmalls.com.sg/en/clarke-quay-central/",
+        "wikidata": "Q7721911",
+        "wikimedia_commons": "Category:The Central, Singapore",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846628,
+          1.2889895
+        ]
+      },
+      "id": "way/699168484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/707600485",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "930",
+        "addr:postcode": "769098",
+        "addr:street": "Yishun Avenue 2",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "name": "Northpoint City",
+        "opening_hours": "Mo-Su 10:30-22:30",
+        "operator": "Frasers Property",
+        "phone": "+65 6754 2300",
+        "shop": "mall",
+        "start_date": "1992-11",
+        "stroller": "yes",
+        "website": "https://www.northpointcity.com.sg/",
+        "wheelchair": "yes",
+        "wikidata": "Q7059615",
+        "wikipedia": "en:Northpoint City",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8362366,
+          1.4281701
+        ]
+      },
+      "id": "way/707600485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/720898306",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "133",
+        "addr:postcode": "750133",
+        "addr:street": "Canberra View",
+        "building": "commercial",
+        "building:levels": "3",
+        "building:levels:underground": "1",
+        "name": "Canberra Plaza",
+        "name:en": "Canberra Plaza",
+        "name:zh-Hant": "坎貝拉廣場",
+        "operator": "Knight Frank",
+        "shop": "mall",
+        "source": "Wikipedia",
+        "start_date": "2020-12-18",
+        "wheelchair": "yes",
+        "wikidata": "Q54321762",
+        "wikipedia": "en:Canberra Plaza, Singapore",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8305208,
+          1.4431827
+        ]
+      },
+      "id": "way/720898306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/728027960",
+        "addr:city": "Singapore",
+        "addr:housenumber": "270",
+        "addr:postcode": "238857",
+        "addr:street": "Orchard Rd,",
+        "building": "yes",
+        "name": "Knightsbridge",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8363628,
+          1.3031228
+        ]
+      },
+      "id": "way/728027960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/728368561",
+        "building": "retail",
+        "name": "Mandarin Gallery",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8365421,
+          1.3020175
+        ]
+      },
+      "id": "way/728368561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/743764000",
+        "landuse": "retail",
+        "level": "-1",
+        "location": "underground",
+        "name": "Bencoolen",
+        "name:zh": "明古莲",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8499177,
+          1.2984401
+        ]
+      },
+      "id": "way/743764000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/744520551",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "78",
+        "addr:postcode": "819666",
+        "addr:street": "Airport Boulevard",
+        "air_conditioning": "yes",
+        "building": "commercial",
+        "building:colour": "#ADAFBB",
+        "building:levels": "5",
+        "building:levels:underground": "5",
+        "building:material": "metal",
+        "height": "37",
+        "name": "Jewel Changi Airport",
+        "name:en": "Jewel Changi Airport",
+        "name:zh": "星耀樟宜",
+        "opening_date": "2019",
+        "operator": "Changi Group/CapitaLand Ltd",
+        "phone": "+65 6713 2888",
+        "roof:colour": "#516272",
+        "roof:height": "27",
+        "roof:material": "glass",
+        "roof:shape": "dome",
+        "shop": "mall",
+        "start_date": "2019-04-17",
+        "website": "https://www.jewelchangiairport.com/",
+        "wheelchair": "yes",
+        "wikidata": "Q28419359",
+        "wikimedia_commons": "Category:Jewel Changi Airport",
+        "wikipedia": "en:Jewel Changi Airport",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9896831,
+          1.3602194
+        ]
+      },
+      "id": "way/744520551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/747734200",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "9",
+        "addr:postcode": "039596",
+        "addr:street": "Raffles Boulevard",
+        "building": "yes;retail",
+        "building:levels": "3",
+        "height": "46.5",
+        "name": "Millenia Walk",
+        "opening_hours": "10:00-22:00",
+        "phone": "+65 68831122",
+        "shop": "mall",
+        "start_date": "1995",
+        "website": "https://www.milleniawalk.com/",
+        "wikidata": "Q6858752",
+        "wikimedia_commons": "Category:Millenia Walk",
+        "wikipedia": "en:Millenia Walk",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8593181,
+          1.2926443
+        ]
+      },
+      "id": "way/747734200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/764434018",
+        "addr:city": "Singapore",
+        "addr:housenumber": "5",
+        "addr:postcode": "449410",
+        "addr:street": "Marine Parade Central",
+        "building": "retail",
+        "building:levels": "6",
+        "building:levels:underground": "4",
+        "name": "imall",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9065773,
+          1.303112
+        ]
+      },
+      "id": "way/764434018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/764586885",
+        "addr:city": "Singapore",
+        "addr:housenumber": "31",
+        "addr:postcode": "098375",
+        "addr:street": "Ocean Way",
+        "building": "retail",
+        "building:levels": "2",
+        "name": "Quayside Isle",
+        "shop": "mall",
+        "website": "https://www.quaysideisle.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8421833,
+          1.2470884
+        ]
+      },
+      "id": "way/764586885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/764586886",
+        "addr:city": "Singapore",
+        "addr:housenumber": "31",
+        "addr:postcode": "098375",
+        "addr:street": "Ocean Way",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Quayside Isle",
+        "shop": "mall",
+        "website": "https://www.quaysideisle.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8416778,
+          1.2479587
+        ]
+      },
+      "id": "way/764586886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775267642",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "PSA Building",
+        "addr:housenumber": "460",
+        "addr:postcode": "119963",
+        "addr:street": "Alexandra Road",
+        "air_conditioning": "yes",
+        "alt_name": "ARC",
+        "building": "retail",
+        "building:levels": "2",
+        "check_date": "2023-05-26",
+        "height": "10",
+        "name": "Alexandra Retail Centre",
+        "name:zh": "亚历山大零售中心",
+        "opening_hours": "06:00-23:00",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8014062,
+          1.2738572
+        ]
+      },
+      "id": "way/775267642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/830592799",
+        "building": "yes",
+        "name": "Changi City Point",
+        "operator": "Frasers Centrepoint Malls",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "wikidata": "Q5071987",
+        "wikimedia_commons": "Category:Changi City Point",
+        "wikipedia": "en:Changi City Point",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9630451,
+          1.3340339
+        ]
+      },
+      "id": "way/830592799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846636702",
+        "building": "yes",
+        "name": "Liv@Changi",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9694484,
+          1.3586506
+        ]
+      },
+      "id": "way/846636702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/882665431",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "127",
+        "addr:postcode": "690127",
+        "addr:street": "Tengah Drive",
+        "building": "retail",
+        "building:levels": "4",
+        "name": "Plantation Plaza",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7341702,
+          1.3575333
+        ]
+      },
+      "id": "way/882665431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/882665708",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "302",
+        "addr:postcode": "690302",
+        "addr:street": "Tengah Park Avenue",
+        "building": "garage",
+        "building:levels": "3",
+        "name": "Parc Point",
+        "roof:material": "grass",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7387585,
+          1.3607004
+        ]
+      },
+      "id": "way/882665708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/987083325",
+        "addr:housenumber": "29",
+        "addr:street": "Sam Leong Road",
+        "building": "yes",
+        "check_date": "2024-01-28",
+        "name": "Trio",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856928,
+          1.3090874
+        ]
+      },
+      "id": "way/987083325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1028775892",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "11",
+        "addr:street": "Bidadari Park Drive",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "The Woodleigh Mall",
+        "roof:levels": "1",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8717098,
+          1.3386981
+        ]
+      },
+      "id": "way/1028775892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1077992827",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "302",
+        "addr:postcode": "199600",
+        "addr:street": "Beach Road",
+        "building": "retail",
+        "height": "0",
+        "name": "The Concourse",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8618842,
+          1.3008746
+        ]
+      },
+      "id": "way/1077992827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1119658173",
+        "addr:city": "Singapore",
+        "addr:housenumber": "11",
+        "addr:postcode": "737736",
+        "addr:street": "Woodlands Square",
+        "building:levels:underground": "1",
+        "building:part": "retail",
+        "layer": "-1",
+        "name": "STELLAR@TE2",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7881753,
+          1.4350534
+        ]
+      },
+      "id": "way/1119658173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1122039326",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "70",
+        "addr:postcode": "544692",
+        "addr:street": "Compassvale Bow",
+        "building": "retail",
+        "building:levels": "3",
+        "building:levels:underground": "1",
+        "name": "Sengkang Grand Mall",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8922549,
+          1.3832033
+        ]
+      },
+      "id": "way/1122039326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1162445410",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "7",
+        "addr:postcode": "519612",
+        "addr:street": "Pasir Ris Central",
+        "building": "commercial",
+        "building:levels": "4",
+        "building:levels:underground": "2",
+        "name": "Pasir Ris Mall",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9487932,
+          1.3738493
+        ]
+      },
+      "id": "way/1162445410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1167087012",
+        "addr:city": "Singapore",
+        "addr:housenumber": "8",
+        "addr:postcode": "529543",
+        "addr:street": "Tampines Central 1",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Eastlink Mall",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9442853,
+          1.3543611
+        ]
+      },
+      "id": "way/1167087012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1184145477",
+        "building": "retail",
+        "name": "Dairy Farm Mall",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7750268,
+          1.3660137
+        ]
+      },
+      "id": "way/1184145477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1219289317",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Balmoral Plaza",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8354561,
+          1.3164924
+        ]
+      },
+      "id": "way/1219289317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1224044152",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "1",
+        "addr:postcode": "788887",
+        "addr:street": "Lentor Central",
+        "building": "retail",
+        "building:levels": "3",
+        "roof:levels": "1",
+        "roof:shape": "flat",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8345464,
+          1.3857396
+        ]
+      },
+      "id": "way/1224044152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1226724186",
+        "addr:city": "Singapore",
+        "addr:housenumber": "7",
+        "addr:postcode": "275748",
+        "addr:street": "Holland Village Way",
+        "building": "yes",
+        "name": "One Holland Village",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7941049,
+          1.3111168
+        ]
+      },
+      "id": "way/1226724186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1242216902",
+        "addr:city": "Singapore",
+        "addr:housenumber": "501",
+        "addr:postcode": "259760",
+        "addr:street": "Bukit Timah Road",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "2",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8140844,
+          1.3227569
+        ]
+      },
+      "id": "way/1242216902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1242216903",
+        "addr:city": "Singapore",
+        "addr:housenumber": "501",
+        "addr:postcode": "259760",
+        "addr:street": "Bukit Timah Road",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "2",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8141285,
+          1.3227493
+        ]
+      },
+      "id": "way/1242216903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1242216904",
+        "addr:city": "Singapore",
+        "addr:housenumber": "501",
+        "addr:postcode": "259760",
+        "addr:street": "Bukit Timah Road",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "2",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8141725,
+          1.3227418
+        ]
+      },
+      "id": "way/1242216904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1242216905",
+        "addr:city": "Singapore",
+        "addr:housenumber": "501",
+        "addr:postcode": "259760",
+        "addr:street": "Bukit Timah Road",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "2",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8142161,
+          1.3227343
+        ]
+      },
+      "id": "way/1242216905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1242216906",
+        "addr:city": "Singapore",
+        "addr:housenumber": "501",
+        "addr:postcode": "259760",
+        "addr:street": "Bukit Timah Road",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "2",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8142596,
+          1.3227268
+        ]
+      },
+      "id": "way/1242216906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1242216907",
+        "addr:city": "Singapore",
+        "addr:housenumber": "501",
+        "addr:postcode": "259760",
+        "addr:street": "Bukit Timah Road",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "2",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8143032,
+          1.3227193
+        ]
+      },
+      "id": "way/1242216907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1242216908",
+        "addr:city": "Singapore",
+        "addr:housenumber": "501",
+        "addr:postcode": "259760",
+        "addr:street": "Bukit Timah Road",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "2",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8143467,
+          1.3227119
+        ]
+      },
+      "id": "way/1242216908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1242216909",
+        "addr:city": "Singapore",
+        "addr:housenumber": "501",
+        "addr:postcode": "259760",
+        "addr:street": "Bukit Timah Road",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "2",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8143899,
+          1.3227045
+        ]
+      },
+      "id": "way/1242216909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1242216910",
+        "addr:city": "Singapore",
+        "addr:housenumber": "501",
+        "addr:postcode": "259760",
+        "addr:street": "Bukit Timah Road",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "2",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8144327,
+          1.3226971
+        ]
+      },
+      "id": "way/1242216910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1242216911",
+        "addr:city": "Singapore",
+        "addr:housenumber": "501",
+        "addr:postcode": "259760",
+        "addr:street": "Bukit Timah Road",
+        "air_conditioning": "yes",
+        "building": "retail",
+        "building:levels": "2",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.814487,
+          1.3226155
+        ]
+      },
+      "id": "way/1242216911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1294482731",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "46",
+        "addr:postcode": "239351",
+        "addr:street": "Kim Yam Road",
+        "building": "retail",
+        "name": "Big Block",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "The Lo & Behold Group",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8389747,
+          1.292551
+        ]
+      },
+      "id": "way/1294482731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1385980996",
+        "air_conditioning": "yes",
+        "landuse": "retail",
+        "layer": "-1",
+        "level": "-1",
+        "location": "underground",
+        "name": "Icon Link @ Club Street",
+        "shop": "mall",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846816,
+          1.2831971
+        ]
+      },
+      "id": "way/1385980996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1395633020",
+        "addr:housenumber": "1",
+        "addr:postcode": "738099",
+        "addr:street": "Woodlands Square",
+        "baby_feeding": "room",
+        "building": "retail",
+        "building:levels": "7",
+        "building:levels:underground": "3",
+        "name": "Causeway Point",
+        "name:zh": "长堤坊",
+        "shop": "mall",
+        "source": "Ground Survey 2025",
+        "wheelchair": "limited",
+        "wikidata": "Q5054652",
+        "wikipedia": "en:Causeway Point",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7860055,
+          1.4360462
+        ]
+      },
+      "id": "way/1395633020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1422947828",
+        "building:part": "yes",
+        "name": "NTP+",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.861709,
+          1.351377
+        ]
+      },
+      "id": "way/1422947828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1432554042",
+        "addr:city": "Singapore",
+        "addr:housenumber": "713A",
+        "addr:postcode": "561713",
+        "addr:street": "Ang Mo Kio Avenue 6",
+        "building": "yes",
+        "name": "Sprout @ AMK",
+        "shop": "mall",
+        "website": "https://www.instagram.com/sprout.amk",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8460142,
+          1.3716745
+        ]
+      },
+      "id": "way/1432554042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1489454435",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "91",
+        "addr:postcode": "529887",
+        "addr:street": "Tampines Street 94",
+        "building": "retail",
+        "name": "Pinery Mall",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.938949,
+          1.3437251
+        ]
+      },
+      "id": "way/1489454435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4233370769",
+        "air_conditioning": "yes",
+        "check_date": "2024-03-12",
+        "level": "-1",
+        "name": "Bencoolen Underground Mall",
+        "shop": "mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8496472,
+          1.2981814
+        ]
+      },
+      "id": "node/4233370769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4233370770",
+        "air_conditioning": "yes",
+        "name": "Bencoolen Underground Mall",
+        "shop": "mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8507551,
+          1.2992237
+        ]
+      },
+      "id": "node/4233370770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4682788852",
+        "addr:street": "Marine Parade Road",
+        "name": "Katong V",
+        "shop": "mall",
+        "source": "Kaart Ground Survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9032312,
+          1.3031334
+        ]
+      },
+      "id": "node/4682788852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6440064328",
+        "addr:city": "Singapore",
+        "addr:housenumber": "51",
+        "addr:postcode": "347697",
+        "addr:street": "Upper Serangoon Road",
+        "air_conditioning": "yes",
+        "currency:SGD": "yes",
+        "fixme": "need to plot area of mall grounds",
+        "name": "The Poiz Centre",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "MCC Singapore",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "mall",
+        "website": "https://thepoizcentre.com.sg/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8685709,
+          1.331436
+        ]
+      },
+      "id": "node/6440064328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11816822660",
+        "check_date": "2024-04-09",
+        "name": "Excelsior Shopping Centre",
+        "shop": "mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8496887,
+          1.2920995
+        ]
+      },
+      "id": "node/11816822660"
+    }
+  ]
+}

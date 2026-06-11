@@ -1,0 +1,10 @@
+# Slim runtime deps for the deployed server (Hugging Face Space).
+# No torch / opencv / geopandas — GradCAM auto-skips, pipeline still runs fully on
+# OneMap + ACRA + TripAdvisor + Mapillary + GPT-4o vision/NLP.
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+python-dotenv>=1.0.0
+httpx>=0.27.0
+requests>=2.31.0

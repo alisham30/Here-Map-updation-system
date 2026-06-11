@@ -1,0 +1,8095 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-26T10:27:28Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9574726",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "8",
+        "addr:postcode": "098269",
+        "addr:street": "Sentosa Gateway",
+        "email": "enquiries@rwsentosa.com",
+        "landuse": "retail",
+        "leisure": "resort",
+        "name": "Resorts World Sentosa",
+        "name:en": "Resorts World Sentosa",
+        "name:zh": "圣淘沙名胜世界",
+        "tourism": "attraction",
+        "type": "multipolygon",
+        "website": "https://www.rwsentosa.com/",
+        "wikidata": "Q5955134",
+        "wikipedia": "en:Resorts World Sentosa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8202644,
+          1.2559228
+        ]
+      },
+      "id": "relation/9574726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/18007977",
+        "layer": "1",
+        "man_made": "bridge",
+        "name": "Helix Bridge",
+        "name:en": "The Helix Bridge",
+        "name:ms": "Jambatan Helix",
+        "name:zh": "雙螺旋橋",
+        "tourism": "attraction",
+        "type": "multipolygon",
+        "wikidata": "Q2681107",
+        "wikipedia": "en:Helix Bridge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8604428,
+          1.2874768
+        ]
+      },
+      "id": "relation/18007977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32489943",
+        "highway": "living_street",
+        "lanes": "1",
+        "lit": "yes",
+        "motor_vehicle:conditional": "no @ (Mo-Fr 15:00 - 1:00, Sa-Su 12:00 - 1:00, PH -1 day-PH 12:00 - 1:00)",
+        "name": "Haji Lane",
+        "name:zh": "哈芝巷",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8587337,
+          1.3012267
+        ]
+      },
+      "id": "way/32489943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41662089",
+        "description": "Emerald Hill, Chinese Baroque Shop Houses",
+        "name": "Emerald Hill",
+        "place": "neighbourhood",
+        "tourism": "attraction",
+        "wikidata": "Q5370441",
+        "wikipedia": "en:Emerald Hill, Singapore",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8393539,
+          1.303058
+        ]
+      },
+      "id": "way/41662089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41662548",
+        "landuse": "commercial",
+        "name": "Little India",
+        "name:en": "Little India",
+        "name:ko": "리틀 인디아",
+        "name:ms": "Little India",
+        "name:ta": "லிட்டில் இந்தியா",
+        "name:th": "ลิตเติลอินเดีย",
+        "name:zh": "小印度",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8536548,
+          1.3076465
+        ]
+      },
+      "id": "way/41662548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41665003",
+        "bicycle": "dismount",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1",
+        "motor_vehicle": "no",
+        "name": "Henderson Waves Bridge",
+        "name:ms": "Jambatan Henderson Waves",
+        "name:zh": "亨德申波浪桥",
+        "surface": "wood",
+        "tourism": "attraction",
+        "wikidata": "Q100288026",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8154607,
+          1.2762473
+        ]
+      },
+      "id": "way/41665003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/44414592",
+        "name": "Speakers' Corner",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8459025,
+          1.2864788
+        ]
+      },
+      "id": "way/44414592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46671412",
+        "area": "yes",
+        "ele": "106",
+        "fixme": "outline",
+        "fixme:zh": "-",
+        "highway": "pedestrian",
+        "name": "Faber Point",
+        "name:zh": "花柏坊",
+        "natural": "peak",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8176689,
+          1.2735918
+        ]
+      },
+      "id": "way/46671412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/54519182",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "262",
+        "addr:postcode": "118628",
+        "addr:street": "Pasir Panjang Road",
+        "leisure": "park",
+        "name": "Haw Par Villa",
+        "name:zh": "虎豹别墅",
+        "opening_hours": "09:00-19:00",
+        "tourism": "attraction",
+        "wikidata": "Q1018484",
+        "wikipedia": "en:Haw Par Villa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7824654,
+          1.2841831
+        ]
+      },
+      "id": "way/54519182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/150819013",
+        "building": "service",
+        "name": "Marina Barrage Pump House",
+        "name:zh": "滨海堤坝水泵房",
+        "start_date": "2008-10-31",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8703316,
+          1.2806838
+        ]
+      },
+      "id": "way/150819013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/160827378",
+        "name": "Marine Aquaculture Centre",
+        "name:zh": "海洋水产养殖中心",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8494949,
+          1.2163132
+        ]
+      },
+      "id": "way/160827378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/160827380",
+        "name": "Tropical Marine Science Institute",
+        "name:zh": "热带海洋科学研究所",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8509117,
+          1.2162552
+        ]
+      },
+      "id": "way/160827380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/166802543",
+        "barrier": "fence",
+        "name": "Sembawang Hot Spring",
+        "name:zh": "三巴旺温泉",
+        "source": "http://en.wikipedia.org/wiki/Sembawang_Hot_Spring",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8226128,
+          1.4344368
+        ]
+      },
+      "id": "way/166802543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/171979082",
+        "leisure": "garden",
+        "name": "Secret Life of Trees",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.864952,
+          1.282677
+        ]
+      },
+      "id": "way/171979082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/171979084",
+        "image": "https://images.mapillary.com/VoHBP9Xk15ZQ823iwznyWg/thumb-2048.jpg",
+        "leisure": "garden",
+        "mapillary": "932365724267908",
+        "name": "Supertree Grove",
+        "name:zh": "擎天树丛",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8640021,
+          1.2820667
+        ]
+      },
+      "id": "way/171979084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/171979098",
+        "leisure": "garden",
+        "name": "Colonial Garden",
+        "name:en": "Colonial Garden",
+        "name:zh": "殖民花园",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8628514,
+          1.2813707
+        ]
+      },
+      "id": "way/171979098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/171981665",
+        "name": "Golden Garden",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8658122,
+          1.2823904
+        ]
+      },
+      "id": "way/171981665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172288945",
+        "name": "Silver Garden",
+        "name:zh": "银色花园",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8634956,
+          1.2842578
+        ]
+      },
+      "id": "way/172288945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173623373",
+        "building": "yes",
+        "name": "Shaw Foundation Symphony Stage",
+        "name:en": "Shaw Foundation Symphony Stage",
+        "name:ms": "Pentas Simfoni Yayasan Shaw",
+        "name:zh": "邵氏基金交响乐台",
+        "tourism": "attraction",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8150435,
+          1.3137599
+        ]
+      },
+      "id": "way/173623373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/176839464",
+        "building": "yes",
+        "description": "An open-air panoramic ride that replaced the Tiger Sky Tower. Brings visitors to a height of 79m above sea level. Opened on 15 December 2021",
+        "height": "35",
+        "man_made": "tower",
+        "name": "SkyHelix Sentosa",
+        "name:zh": "圣淘沙\"天空喜立\"",
+        "opening_hours": "10:00-21:30",
+        "tourism": "attraction",
+        "tower:construction": "lattice",
+        "tower:type": "observation",
+        "website": "https://www.sentosa.com.sg/en/things-to-do/attractions/skyhelix-sentosa/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8176119,
+          1.2549571
+        ]
+      },
+      "id": "way/176839464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/178436852",
+        "addr:housenumber": "37",
+        "addr:street": "Kerbau Road",
+        "building": "retail",
+        "building:levels": "2",
+        "image": "https://images.mapillary.com/wPOn4iSjSl3LGpbkjlaTTg/thumb-2048.jpg",
+        "mapillary": "485997879381934",
+        "name": "House of Tan Teng Niah",
+        "source": "Bing",
+        "tourism": "attraction",
+        "wikidata": "Q120703742",
+        "wikipedia": "en:House of Tan Teng Niah",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8509346,
+          1.3070589
+        ]
+      },
+      "id": "way/178436852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262861253",
+        "barrier": "fence",
+        "name": "Australasia",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7934073,
+          1.4060031
+        ]
+      },
+      "id": "way/262861253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262861264",
+        "attraction": "animal",
+        "barrier": "fence",
+        "image": "https://images.mapillary.com/FH5JBbSOJKwM_k58kJVTXg/thumb-2048.jpg",
+        "mapillary": "825162794780627",
+        "name": "Elephants Of Asia",
+        "name:zh": "亚洲的大象",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7956887,
+          1.4052531
+        ]
+      },
+      "id": "way/262861264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262885888",
+        "attraction": "animal",
+        "name": "Babirusa",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7877576,
+          1.4015799
+        ]
+      },
+      "id": "way/262885888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262885891",
+        "attraction": "animal",
+        "name": "Babirusa",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7876923,
+          1.4023846
+        ]
+      },
+      "id": "way/262885891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262885894",
+        "attraction": "animal",
+        "name": "Bearded Pig",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7879074,
+          1.401919
+        ]
+      },
+      "id": "way/262885894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262885895",
+        "attraction": "animal",
+        "name": "Bharal",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7890329,
+          1.4025586
+        ]
+      },
+      "id": "way/262885895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262885897",
+        "attraction": "animal",
+        "name": "Bongo",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7879055,
+          1.4012475
+        ]
+      },
+      "id": "way/262885897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262885901",
+        "attraction": "animal",
+        "name": "Elephant",
+        "name:zh": "大象",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7852708,
+          1.4027171
+        ]
+      },
+      "id": "way/262885901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262885907",
+        "attraction": "animal",
+        "name": "Giraffe",
+        "name:zh": "长颈鹿",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7891296,
+          1.3995052
+        ]
+      },
+      "id": "way/262885907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262885909",
+        "attraction": "animal",
+        "name": "Hippo",
+        "name:zh": "河马",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7872443,
+          1.4011223
+        ]
+      },
+      "id": "way/262885909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262885911",
+        "attraction": "animal",
+        "name": "Red River Hog",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7875131,
+          1.4019969
+        ]
+      },
+      "id": "way/262885911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262885912",
+        "attraction": "animal",
+        "name": "Hyena",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7900063,
+          1.4015275
+        ]
+      },
+      "id": "way/262885912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262885914",
+        "attraction": "animal",
+        "name": "Leopard",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7906369,
+          1.4010612
+        ]
+      },
+      "id": "way/262885914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262885916",
+        "attraction": "animal",
+        "name": "Lions",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7895697,
+          1.4012973
+        ]
+      },
+      "id": "way/262885916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262885917",
+        "attraction": "animal",
+        "name": "Markhor",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7893269,
+          1.402375
+        ]
+      },
+      "id": "way/262885917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262885919",
+        "attraction": "animal",
+        "name": "Marsh Birds",
+        "species": "Marsh Birds",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7897991,
+          1.4020131
+        ]
+      },
+      "id": "way/262885919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262885920",
+        "attraction": "animal",
+        "name": "Mouflon",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.789654,
+          1.4022146
+        ]
+      },
+      "id": "way/262885920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262885926",
+        "attraction": "animal",
+        "name": "Otter",
+        "name:zh": "水獭",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7900706,
+          1.4022451
+        ]
+      },
+      "id": "way/262885926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262885933",
+        "attraction": "animal",
+        "name": "Spotted Hyena",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7881861,
+          1.4009273
+        ]
+      },
+      "id": "way/262885933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262885935",
+        "attraction": "animal",
+        "name": "Thamin",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.787054,
+          1.4034052
+        ]
+      },
+      "id": "way/262885935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262885937",
+        "attraction": "animal",
+        "name": "Tiger",
+        "name:zh": "老虎",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7882864,
+          1.4021874
+        ]
+      },
+      "id": "way/262885937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/269909056",
+        "bicycle": "yes",
+        "covered": "yes",
+        "description": "Food street in Chinatown",
+        "highway": "pedestrian",
+        "name": "Smith Street",
+        "name:en": "Smith Street",
+        "name:en:signed": "yes",
+        "name:zh": "史密斯街",
+        "name:zh:signed": "yes",
+        "old_name": "Smith Street",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8444783,
+          1.282134
+        ]
+      },
+      "id": "way/269909056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/319830199",
+        "name": "Bonsai Garden",
+        "name:zh": "盆栽园",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7300601,
+          1.3382963
+        ]
+      },
+      "id": "node/319830199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380599765",
+        "building": "yes",
+        "building:levels": "2",
+        "description": "Aquarium",
+        "height": "20",
+        "name": "Amazon Flooded Forest",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7904469,
+          1.4032379
+        ]
+      },
+      "id": "way/380599765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380599774",
+        "attraction": "animal",
+        "building": "yes",
+        "name": "Giant Panda Forest",
+        "name:en": "Giant Panda Forest",
+        "name:zh": "大熊猫竹林",
+        "opening_hours": "1000-1815",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7925034,
+          1.4037275
+        ]
+      },
+      "id": "way/380599774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380599776",
+        "building": "yes",
+        "name": "Giant Panda Forest",
+        "name:ru": "Лес панд",
+        "name:zh": "大熊猫竹林",
+        "source": "Bing",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7927652,
+          1.4035994
+        ]
+      },
+      "id": "way/380599776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380599814",
+        "building": "roof",
+        "building:levels": "1",
+        "name": "Congo River",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7910204,
+          1.4039832
+        ]
+      },
+      "id": "way/380599814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380599822",
+        "building": "yes",
+        "name": "Boat Plaza",
+        "source": "Bing",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7921879,
+          1.4010518
+        ]
+      },
+      "id": "way/380599822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380599835",
+        "building": "yes",
+        "name": "Mary River",
+        "source": "Bing",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7918174,
+          1.4037425
+        ]
+      },
+      "id": "way/380599835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380599859",
+        "building": "roof",
+        "building:levels": "1",
+        "name": "Yangtze River",
+        "name:zh": "长江",
+        "source": "Bing",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7921658,
+          1.4038566
+        ]
+      },
+      "id": "way/380599859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439331320",
+        "building": "temple",
+        "building:levels": "1",
+        "name": "Wayang Stage",
+        "source": "Mapbox",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8526892,
+          1.321594
+        ]
+      },
+      "id": "way/439331320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/482507809",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8867556,
+          1.2967666
+        ]
+      },
+      "id": "way/482507809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/489365459",
+        "fee": "yes",
+        "leisure": "garden",
+        "name": "National Orchid Garden",
+        "name:de": "Nationaler Orchideengarten",
+        "name:en": "National Orchid Garden",
+        "name:ja": "国立蘭園",
+        "name:ko": "국립난정원",
+        "name:ms": "Taman Orkid Nasional",
+        "name:th": "สวนกล้วยไม้แห่งชาติ",
+        "name:zh": "国家胡姬园",
+        "opening_hours": "Mo-Su 08:30-19:00",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8137141,
+          1.3127466
+        ]
+      },
+      "id": "way/489365459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/489366770",
+        "leisure": "garden",
+        "name": "Jacob Ballas Children's Garden",
+        "name:zh": "雅格巴拉斯儿童花园",
+        "opening_hours": "Tu-Su 08:00-19:00",
+        "phone": "+656465016",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q98270252",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8184582,
+          1.3214959
+        ]
+      },
+      "id": "way/489366770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/489368546",
+        "leisure": "garden",
+        "name": "Evolution Garden",
+        "name:zh": "进化园",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8159821,
+          1.3170381
+        ]
+      },
+      "id": "way/489368546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/512090776",
+        "name": "Southernmost Point of Continental Asia",
+        "name:zh": "亚洲大陆最南端",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8213159,
+          1.2480157
+        ]
+      },
+      "id": "node/512090776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/602090006",
+        "name": "Sundial Garden",
+        "name:zh": "日晷花园",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8163133,
+          1.3095121
+        ]
+      },
+      "id": "node/602090006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/602090007",
+        "name": "Hoya House",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8162532,
+          1.3099652
+        ]
+      },
+      "id": "node/602090007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/602090009",
+        "name": "Ginger Garden",
+        "name:zh": "姜园",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8150737,
+          1.310897
+        ]
+      },
+      "id": "node/602090009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/602090012",
+        "name": "Bandstand",
+        "name:zh": "演奏台凉亭",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8163537,
+          1.3103872
+        ]
+      },
+      "id": "node/602090012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/602165422",
+        "fixme:zh": "=",
+        "name": "Herbs and Spices",
+        "name:zh": "香草香料花园",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8156956,
+          1.3203161
+        ]
+      },
+      "id": "node/602165422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/648707161",
+        "access": "yes",
+        "leisure": "garden",
+        "name": "Ethnobotany Garden",
+        "name:zh": "民族植物学花园",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8164881,
+          1.3197304
+        ]
+      },
+      "id": "way/648707161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/684985134",
+        "name": "Tidal Twister, Pipeline Plunge",
+        "name:zh": "旋风滑道、激流滑道",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.817957,
+          1.2570918
+        ]
+      },
+      "id": "way/684985134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/684985135",
+        "name": "Riptide Rocket",
+        "name:zh": "喷射滑道",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8177506,
+          1.2571757
+        ]
+      },
+      "id": "way/684985135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/684985136",
+        "name": "Dueling Racer",
+        "name:zh": "飞跃极限滑道",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8176533,
+          1.2572673
+        ]
+      },
+      "id": "way/684985136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/684985138",
+        "name": "Whirlpool & Spiral Washout",
+        "name:zh": "漩涡滑道、螺旋滑道",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8182466,
+          1.2578503
+        ]
+      },
+      "id": "way/684985138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/684985139",
+        "name": "Wet Maze",
+        "name:zh": "水迷宫",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8188092,
+          1.2581757
+        ]
+      },
+      "id": "way/684985139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/684985140",
+        "name": "Big Bucket Treehouse",
+        "name:zh": "灌水屋",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8179945,
+          1.2580052
+        ]
+      },
+      "id": "way/684985140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/687915906",
+        "bridge": "yes",
+        "height": "22",
+        "highway": "footway",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/OCBC_Skyway%2C_Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120617.jpg/800px-OCBC_Skyway%2C_Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120617.jpg",
+        "layer": "1",
+        "lit": "yes",
+        "min_height": "21.5",
+        "name": "OCBC Skyway",
+        "name:zh": "华侨银行空中走廊",
+        "surface": "metal_grid",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8638933,
+          1.2819571
+        ]
+      },
+      "id": "way/687915906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/692793011",
+        "area": "yes",
+        "building": "ruins",
+        "image": "https://images.mapillary.com/NaBOSea1PLg11QPAkfz3Ug/thumb-2048.jpg",
+        "mapillary": "4065053720253195",
+        "name": "Silo Ruins",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7763391,
+          1.3590292
+        ]
+      },
+      "id": "way/692793011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/692845673",
+        "building": "yes",
+        "image": "https://images.mapillary.com/ODQHTqbY5XiZ9ZOkbAJmdQ/thumb-2048.jpg",
+        "man_made": "tower",
+        "mapillary": "2916384361951303",
+        "name": "Amber Tower",
+        "tourism": "attraction",
+        "tower:type": "observation",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9057892,
+          1.2978599
+        ]
+      },
+      "id": "way/692845673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/720156421",
+        "leisure": "garden",
+        "level": "4",
+        "name": "Hedge Maze",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9904802,
+          1.360113
+        ]
+      },
+      "id": "way/720156421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/722269842",
+        "name": "Clusia Cove",
+        "name:zh": "Clusia 小湾",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.724881,
+          1.3402969
+        ]
+      },
+      "id": "way/722269842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/744513535",
+        "indoor": "room",
+        "level": "3",
+        "name": "Changi Experience Studio",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9893211,
+          1.3601403
+        ]
+      },
+      "id": "way/744513535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/839311222",
+        "attraction": "animal",
+        "barrier": "fence",
+        "name": "Primate Kingdom",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7946927,
+          1.4052948
+        ]
+      },
+      "id": "way/839311222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1006761124",
+        "barrier": "fence",
+        "name": "Tortoise Shell-ter",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7950174,
+          1.4031533
+        ]
+      },
+      "id": "way/1006761124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1006761125",
+        "contact:facebook": "houbiispotsg",
+        "contact:instagram": "houbiispotsg",
+        "name": "Houbii Spot Rope Course",
+        "tourism": "attraction",
+        "website": "https://houbiispotsingapore.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7954871,
+          1.4031416
+        ]
+      },
+      "id": "way/1006761125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1006761154",
+        "building": "yes",
+        "name": "Panda Outdoor Viewing Gallery",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.792457,
+          1.403576
+        ]
+      },
+      "id": "way/1006761154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1006761157",
+        "building": "yes",
+        "name": "Ganges River",
+        "source": "Bing",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7916855,
+          1.4038106
+        ]
+      },
+      "id": "way/1006761157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1006761159",
+        "building": "roof",
+        "building:levels": "1",
+        "name": "Once Upon A River",
+        "opening_hours": "1130;1430;1630",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7919241,
+          1.4013019
+        ]
+      },
+      "id": "way/1006761159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1006761160",
+        "landuse": "forest",
+        "name": "Squirrel Monkey Forest",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7911912,
+          1.4030892
+        ]
+      },
+      "id": "way/1006761160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1006761161",
+        "name": "Amazon River Quest",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7912374,
+          1.4023196
+        ]
+      },
+      "id": "way/1006761161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1006761175",
+        "building": "roof",
+        "building:levels": "1",
+        "name": "River Nile",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7913729,
+          1.4038236
+        ]
+      },
+      "id": "way/1006761175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1006761181",
+        "building": "roof",
+        "building:levels": "1",
+        "name": "River Gems",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7909811,
+          1.4041718
+        ]
+      },
+      "id": "way/1006761181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1006761185",
+        "building": "roof",
+        "building:levels": "1",
+        "height": "20",
+        "name": "Animal Playground",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7931325,
+          1.4037542
+        ]
+      },
+      "id": "way/1006761185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1006761197",
+        "building": "roof",
+        "building:levels": "1",
+        "name": "Mekong River",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7919653,
+          1.4040163
+        ]
+      },
+      "id": "way/1006761197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1021316396",
+        "leaf_type": "broadleaved",
+        "name": "Haw Par Beach Villa",
+        "name:zh": "虎豹沙滩别墅小径",
+        "natural": "tree_row",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9229648,
+          1.4107902
+        ]
+      },
+      "id": "way/1021316396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1148718861",
+        "alt_name": "The Deck",
+        "area": "yes",
+        "bridge": "yes",
+        "highway": "pedestrian",
+        "layer": "1",
+        "material": "wood",
+        "name": "The Lost Ark",
+        "name:zh": "失落的方舟",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7977092,
+          1.2882855
+        ]
+      },
+      "id": "way/1148718861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1159195824",
+        "name": "Therapeutic Garden (Adult's Section)",
+        "opening_hours": "24/7",
+        "tourism": "attraction",
+        "website": "https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/attractions/therapeutic-garden",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7278032,
+          1.3352074
+        ]
+      },
+      "id": "way/1159195824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1159195825",
+        "name": "Therapeutic Garden (Children's Discovery Area)",
+        "opening_hours": "24/7",
+        "tourism": "attraction",
+        "website": "https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/attractions/therapeutic-garden",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7276888,
+          1.3354463
+        ]
+      },
+      "id": "way/1159195825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1159195826",
+        "name": "Butterfly Maze",
+        "opening_hours": "07:00-19:00",
+        "tourism": "attraction",
+        "website": "https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/attractions/butterfly-maze",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7275796,
+          1.335712
+        ]
+      },
+      "id": "way/1159195826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1165406854",
+        "attraction": "animal",
+        "building": "yes",
+        "name": "Ocean Network Express Penguin Cove",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7826069,
+          1.4065524
+        ]
+      },
+      "id": "way/1165406854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1166189242",
+        "area": "yes",
+        "attraction": "animal",
+        "name": "Australia Outback",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7820867,
+          1.406076
+        ]
+      },
+      "id": "way/1166189242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1166189243",
+        "area": "yes",
+        "attraction": "animal",
+        "name": "Mysterious Papua",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7817595,
+          1.4057622
+        ]
+      },
+      "id": "way/1166189243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1166189244",
+        "area": "yes",
+        "attraction": "animal",
+        "name": "Heart of Africa",
+        "name:zh": "非洲中心",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7808002,
+          1.4067904
+        ]
+      },
+      "id": "way/1166189244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1166189245",
+        "alt_name": "Wings of Asia",
+        "area": "yes",
+        "attraction": "animal",
+        "name": "Kuok Group Wings of Asia",
+        "name:zh": "郭氏集团亚洲之翼鸟舍",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7804723,
+          1.4059029
+        ]
+      },
+      "id": "way/1166189245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1166189246",
+        "area": "yes",
+        "attraction": "animal",
+        "name": "Winged Sanctuary",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7831048,
+          1.4067926
+        ]
+      },
+      "id": "way/1166189246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1166189250",
+        "area": "yes",
+        "attraction": "animal",
+        "name": "Lory Loft",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.781558,
+          1.4051768
+        ]
+      },
+      "id": "way/1166189250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1166189251",
+        "area": "yes",
+        "attraction": "animal",
+        "name": "Songs of the Forest",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7813697,
+          1.4046663
+        ]
+      },
+      "id": "way/1166189251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1166189252",
+        "area": "yes",
+        "attraction": "animal",
+        "name": "Amazonian Jewels",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7814348,
+          1.4041566
+        ]
+      },
+      "id": "way/1166189252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1166189253",
+        "alt_name": "Crimson Wetlands",
+        "area": "yes",
+        "attraction": "animal",
+        "name": "Hong Leong Foundation Crimson Wetlands",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.780957,
+          1.4039223
+        ]
+      },
+      "id": "way/1166189253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1167538761",
+        "alt_name": "Berlayar Point Lighthouse",
+        "disused": "yes",
+        "height:range": "2.5-6",
+        "man_made": "lighthouse",
+        "name": "Berlayer Point Lighthouse",
+        "name:zh": "柏莱雅广场灯塔",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8051123,
+          1.262378
+        ]
+      },
+      "id": "way/1167538761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1169319427",
+        "access": "yes",
+        "barrier": "swing_gate",
+        "door": "yes",
+        "entrance": "gate",
+        "name": "Bukit Brown Cemetery gates",
+        "name:zh": "武吉布朗墓地大门",
+        "note": "Moved from original position 25 July 2016",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8210549,
+          1.335101
+        ]
+      },
+      "id": "way/1169319427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1364036068",
+        "area": "yes",
+        "attraction": "animal",
+        "name": "Entrance Gorge",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7807458,
+          1.4091844
+        ]
+      },
+      "id": "way/1364036068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1364036069",
+        "area": "yes",
+        "attraction": "animal",
+        "name": "Watering Hole",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7818683,
+          1.4090109
+        ]
+      },
+      "id": "way/1364036069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1364036076",
+        "area": "yes",
+        "attraction": "animal",
+        "name": "The Cavern",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7817072,
+          1.4085658
+        ]
+      },
+      "id": "way/1364036076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1364036077",
+        "area": "yes",
+        "attraction": "animal",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7814894,
+          1.4101856
+        ]
+      },
+      "id": "way/1364036077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1364036078",
+        "area": "yes",
+        "attraction": "animal",
+        "description": "Malayan Tiger",
+        "name": "Rock Cascade",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7824916,
+          1.4101408
+        ]
+      },
+      "id": "way/1364036078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1364036079",
+        "area": "yes",
+        "attraction": "animal",
+        "name": "The Canopy",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7835531,
+          1.4102007
+        ]
+      },
+      "id": "way/1364036079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1364036080",
+        "area": "yes",
+        "attraction": "animal",
+        "name": "The Karsts",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7798567,
+          1.4098411
+        ]
+      },
+      "id": "way/1364036080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1364036081",
+        "area": "yes",
+        "attraction": "animal",
+        "name": "Forest Floor",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7808576,
+          1.4099824
+        ]
+      },
+      "id": "way/1364036081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1391127348",
+        "area": "yes",
+        "layer": "-1",
+        "man_made": "tunnel",
+        "name": "Maju Camp Tunnel",
+        "name:zh": "马裕兵营隧道",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7754278,
+          1.3260769
+        ]
+      },
+      "id": "way/1391127348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1408555573",
+        "leisure": "garden",
+        "name": "Healing Garden",
+        "name:en": "Healing Garden",
+        "name:zh": "百草园",
+        "opening_hours": "We-Mo 05:00-19:30",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8171626,
+          1.3172628
+        ]
+      },
+      "id": "way/1408555573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1766486405",
+        "addr:city": "Singapore",
+        "addr:housenumber": "1",
+        "addr:postcode": "189673",
+        "addr:street": "Beach Road",
+        "amenity": "bar",
+        "check_date": "2025-03-28",
+        "contact:cntraveler": "https://cntraveler.com/bars/long-bar",
+        "contact:email": "dining.singapore@raffles.com",
+        "contact:phone": "+65 6412 1816",
+        "contact:tripadvisor": "https://tripadvisor.com/Attraction_Review-g294265-d446993-Reviews-Long_Bar-Singapore.html",
+        "contact:yelp": "https://yelp.com/biz/long-bar-singapore-2",
+        "description": "The Long Bar at Raffles Hotel in Singapore is renowned as the birthplace of the Singapore Sling cocktail, offering colonial charm and a vibrant atmosphere. Guests can enjoy signature cocktails and traditional snacks, like monkey nuts, in a relaxed setting",
+        "description:en": "The Long Bar at Raffles Hotel in Singapore is renowned as the birthplace of the Singapore Sling cocktail, offering colonial charm and a vibrant atmosphere. Guests can enjoy signature cocktails and traditional snacks, like monkey nuts, in a relaxed setting",
+        "description:ja": "ラッフルズホテルのロングバーは、シンガポールスリングカクテルの発祥地として知られ、コロニアルな魅力と活気ある雰囲気を提供しています。ゲストは、リラックスした雰囲気の中で、シグネチャーカクテルや伝統的なスナック（ピーナッツなど）を楽しむことができます。",
+        "description:ko": "싱가포르 라플스 호텔의 롱 바는 싱가포르 슬링 칵테일의 발상지로 유명하며, 식민지 시대의 매력과 활기찬 분위기를 제공합니다. 손님들은 편안한 환경에서 시그니처 칵테일과 전통 스낵인 땅콩을 즐길 수 있습니다.",
+        "description:ms": "Long Bar di Raffles Hotel, Singapura, terkenal sebagai tempat kelahiran koktel Singapore Sling, dengan daya tarikan kolonial dan suasana meriah. Tetamu boleh menikmati koktel khas dan snek tradisional seperti kacang monyet dalam suasana santai.",
+        "description:zh": "新加坡拉弗尔酒店的长吧以新加坡斯林鸡尾酒的发源地而闻名，融合了殖民魅力和生动的氛围。客人可以在轻松的环境中享用招牌鸡尾酒和传统小吃，如猴子坚果。",
+        "drink:cocktail": "served",
+        "drink:singapore_sling": "served",
+        "image": "https://commons.wikimedia.org/wiki/Category:Long_Bar#/media/File:Wikimania_2023-Raffles_Hotel-Long_Bar-Singapore_Sling-185503.jpg",
+        "name": "Long Bar",
+        "opening_hours": "Su-Th 11:00-00:30; Fr-Sa 11:00-01:30",
+        "reservation": "no",
+        "tourism": "attraction",
+        "website": "https://raffles.com/singapore/dining/long-bar",
+        "wheelchair": "yes",
+        "wikimedia_commons": "Category:Long_Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8534677,
+          1.2951307
+        ]
+      },
+      "id": "node/1766486405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1844016094",
+        "fixme:zh": "-",
+        "name": "Marsh Garden",
+        "name:zh": "沼泽花园",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8170484,
+          1.306808
+        ]
+      },
+      "id": "node/1844016094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1844016097",
+        "name": "Orchid Breeding and Micropropagation Lab",
+        "name:zh": "兰花育种与快殖中心",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8181312,
+          1.3085082
+        ]
+      },
+      "id": "node/1844016097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1844016099",
+        "name": "Vanda Miss Joaquim",
+        "name:zh": "卓锦万代兰",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8160046,
+          1.3106108
+        ]
+      },
+      "id": "node/1844016099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1873233368",
+        "name": "Far Far Away",
+        "name:en": "Far Far Away",
+        "name:zh": "遥远王国",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8236226,
+          1.254964
+        ]
+      },
+      "id": "node/1873233368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1873233370",
+        "name": "Hollywood",
+        "name:en": "Hollywood",
+        "name:zh": "好莱坞",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8220744,
+          1.2559302
+        ]
+      },
+      "id": "node/1873233370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1873233371",
+        "name": "Madagascar",
+        "name:en": "Madagascar",
+        "name:zh": "马达加斯加",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8228409,
+          1.2554986
+        ]
+      },
+      "id": "node/1873233371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1873233373",
+        "name": "New York",
+        "name:en": "New York",
+        "name:zh": "纽约",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8212738,
+          1.2545643
+        ]
+      },
+      "id": "node/1873233373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1873233374",
+        "name": "Sci-Fi City",
+        "name:en": "Sci-Fi City",
+        "name:zh": "科幻城市",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8219998,
+          1.2536771
+        ]
+      },
+      "id": "node/1873233374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1948666505",
+        "alt_name": "Long Ya Men",
+        "name": "Dragon's Teeth Gate",
+        "name:ms": "Batu Berlayar",
+        "name:zh": "龙牙门",
+        "name:zh-Hant": "龍牙門",
+        "not:name:ms": "Batu Berlayer",
+        "note": "replica",
+        "start_date": "2005",
+        "tourism": "attraction",
+        "wikidata": "Q573956",
+        "wikimedia_commons": "File:LongYaMen-20060813.jpg",
+        "wikipedia": "en:Long Ya Men"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8053462,
+          1.2629688
+        ]
+      },
+      "id": "node/1948666505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2292008861",
+        "historic": "battlefield",
+        "name": "Machine Gun Post",
+        "name:zh": "机关枪",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8049811,
+          1.2626929
+        ]
+      },
+      "id": "node/2292008861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2292011571",
+        "historic": "battlefield",
+        "name": "The Fourth Gun Position",
+        "name:zh": "第四炮位",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8038744,
+          1.2652209
+        ]
+      },
+      "id": "node/2292011571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2292012664",
+        "historic": "battlefield",
+        "name": "Gun Emplacement IV",
+        "name:zh": "第四炮位",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8034502,
+          1.2656483
+        ]
+      },
+      "id": "node/2292012664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2292014664",
+        "historic": "battlefield",
+        "name": "The Tunnel",
+        "name:zh": "隧道",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8029917,
+          1.2667462
+        ]
+      },
+      "id": "node/2292014664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2511049756",
+        "admin_level": "7",
+        "alt_name": "Chinatown Singapore",
+        "name": "Chinatown",
+        "name:en": "Chinatown",
+        "name:ru": "Район Чайна-таун",
+        "name:zh": "牛车水",
+        "place": "neighbourhood",
+        "tourism": "attraction",
+        "type": "boundary",
+        "wheelchair": "no",
+        "wikidata": "Q1318670",
+        "wikipedia": "en:Chinatown, Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8436879,
+          1.2799695
+        ]
+      },
+      "id": "node/2511049756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2656671597",
+        "name": "Kartright Speedway",
+        "tourism": "attraction",
+        "website": "https://www.kartright.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6823339,
+          1.3289694
+        ]
+      },
+      "id": "node/2656671597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4008733889",
+        "name": "Haw Par Beach Villa",
+        "name:zh": "虎豹沙滩别墅",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9222681,
+          1.4103963
+        ]
+      },
+      "id": "node/4008733889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4232943395",
+        "addr:housenumber": "210",
+        "addr:postcode": "670210",
+        "addr:street": "Petir Road",
+        "name": "Pocket Greens Urban Farm & Barn",
+        "opening_hours": "Tu-Th 08:30-11:30; Fr-Su 15:00-18:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7770068,
+          1.3718548
+        ]
+      },
+      "id": "node/4232943395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4289598390",
+        "name": "Arab street shops",
+        "name:zh": "阿拉伯街店铺",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8598028,
+          1.3004402
+        ]
+      },
+      "id": "node/4289598390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4300422591",
+        "name": "Chek Jawa Wetlands",
+        "name:zh": "仄爪哇湿地",
+        "tourism": "attraction",
+        "wikidata": "Q5089731",
+        "wikipedia": "en:Chek Jawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9907677,
+          1.408688
+        ]
+      },
+      "id": "node/4300422591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4309387623",
+        "name": "bunker",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.826719,
+          1.4568311
+        ]
+      },
+      "id": "node/4309387623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4309401506",
+        "name": "bunker",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8228486,
+          1.4582
+        ]
+      },
+      "id": "node/4309401506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4309430621",
+        "name": "bunker",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8266131,
+          1.4547873
+        ]
+      },
+      "id": "node/4309430621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4314443191",
+        "fixme:zh": "-",
+        "name": "Primary Rainforest Urban Walk",
+        "name:zh": "原始雨林城市走道",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8158633,
+          1.3123211
+        ]
+      },
+      "id": "node/4314443191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965576",
+        "attraction": "animal",
+        "name": "African White Lion",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7882941,
+          1.4024246
+        ]
+      },
+      "id": "node/4400965576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965580",
+        "attraction": "animal",
+        "name": "Asian Wild Dog",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7863757,
+          1.4023575
+        ]
+      },
+      "id": "node/4400965580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965584",
+        "attraction": "animal",
+        "name": "Bearded Pig",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7861852,
+          1.4022087
+        ]
+      },
+      "id": "node/4400965584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965586",
+        "attraction": "animal",
+        "name": "Buffalo",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7877543,
+          1.4007634
+        ]
+      },
+      "id": "node/4400965586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965589",
+        "attraction": "animal",
+        "name": "Chawang the Elephant",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.784527,
+          1.4022396
+        ]
+      },
+      "id": "node/4400965589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965593",
+        "attraction": "animal",
+        "name": "Clouded Leopard",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7896721,
+          1.4008975
+        ]
+      },
+      "id": "node/4400965593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965594",
+        "attraction": "animal",
+        "name": "Elephant",
+        "name:zh": "大象",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7852042,
+          1.402312
+        ]
+      },
+      "id": "node/4400965594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965608",
+        "attraction": "animal",
+        "name": "Indian Wolves",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7838645,
+          1.4030038
+        ]
+      },
+      "id": "node/4400965608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965610",
+        "attraction": "animal",
+        "name": "Malayan Tapir",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7867311,
+          1.4030493
+        ]
+      },
+      "id": "node/4400965610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965616",
+        "attraction": "animal",
+        "name": "Nyala",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7879153,
+          1.4006334
+        ]
+      },
+      "id": "node/4400965616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965617",
+        "attraction": "animal",
+        "name": "Oryx",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7891216,
+          1.3996426
+        ]
+      },
+      "id": "node/4400965617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965620",
+        "attraction": "animal",
+        "name": "Possum",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7878308,
+          1.4030648
+        ]
+      },
+      "id": "node/4400965620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965623",
+        "attraction": "animal",
+        "name": "Sambar Deer",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7841266,
+          1.4018239
+        ]
+      },
+      "id": "node/4400965623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965625",
+        "attraction": "animal",
+        "name": "Sloth Bear",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7889265,
+          1.4001481
+        ]
+      },
+      "id": "node/4400965625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965627",
+        "attraction": "animal",
+        "name": "Slow Loris",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7900275,
+          1.4027477
+        ]
+      },
+      "id": "node/4400965627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965629",
+        "attraction": "animal",
+        "name": "Spiral Horned Antelope",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7880567,
+          1.4005677
+        ]
+      },
+      "id": "node/4400965629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965632",
+        "attraction": "animal",
+        "name": "Sugar Glider",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7878844,
+          1.4031083
+        ]
+      },
+      "id": "node/4400965632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965633",
+        "attraction": "animal",
+        "name": "Tawny Frogmouth Owl",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7874829,
+          1.4029448
+        ]
+      },
+      "id": "node/4400965633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965635",
+        "attraction": "animal",
+        "name": "Tiger",
+        "name:zh": "老虎",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7861443,
+          1.4036138
+        ]
+      },
+      "id": "node/4400965635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965638",
+        "attraction": "animal",
+        "name": "Wallaby",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7880802,
+          1.4027839
+        ]
+      },
+      "id": "node/4400965638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965639",
+        "attraction": "animal",
+        "name": "White Lipped Python",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7875051,
+          1.4028599
+        ]
+      },
+      "id": "node/4400965639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400965640",
+        "attraction": "animal",
+        "name": "Zebra",
+        "name:zh": "斑马",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.788962,
+          1.3996413
+        ]
+      },
+      "id": "node/4400965640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4402052494",
+        "addr:postcode": "098967",
+        "addr:street": "Imbiah Hill Road",
+        "name": "megazip adventure park",
+        "name:en": "megazip adventure park",
+        "name:zh": "飞龙探险乐园",
+        "tourism": "attraction",
+        "wikidata": "Q6808067",
+        "wikimedia_commons": "Category:MegaZip Adventure Park",
+        "wikipedia": "en:Mega Adventure Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.814305,
+          1.2568794
+        ]
+      },
+      "id": "node/4402052494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4421872093",
+        "addr:housenumber": "55",
+        "addr:postcode": "537887",
+        "addr:street": "Jalan Lokam",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8843023,
+          1.3470603
+        ]
+      },
+      "id": "node/4421872093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4443157289",
+        "addr:housenumber": "51",
+        "addr:street": "Sixth Avenue",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7947386,
+          1.3287467
+        ]
+      },
+      "id": "node/4443157289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4443190990",
+        "addr:housenumber": "12b",
+        "addr:street": "Queen Astrid Park",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7904578,
+          1.3177465
+        ]
+      },
+      "id": "node/4443190990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4478220189",
+        "addr:housenumber": "3",
+        "addr:street": "Woodlands Industrial Park E1",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7947769,
+          1.4529154
+        ]
+      },
+      "id": "node/4478220189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4484869393",
+        "name": "Tortoise Shelter",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8608616,
+          1.2236891
+        ]
+      },
+      "id": "node/4484869393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4489711691",
+        "addr:housenumber": "5",
+        "addr:street": "Astrid Hill",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7920724,
+          1.3203669
+        ]
+      },
+      "id": "node/4489711691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4513022389",
+        "addr:housenumber": "6",
+        "addr:street": "Vanda Drive",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.799213,
+          1.3320624
+        ]
+      },
+      "id": "node/4513022389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4513107192",
+        "addr:housenumber": "41",
+        "addr:street": "Ridout Road",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.804066,
+          1.302519
+        ]
+      },
+      "id": "node/4513107192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523600291",
+        "addr:housenumber": "11",
+        "addr:postcode": "609159",
+        "addr:street": "Penjuru Road",
+        "name": "Paddle Lodge Pandan Reservoir",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7366181,
+          1.3200331
+        ]
+      },
+      "id": "node/4523600291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537990591",
+        "addr:housenumber": "10A",
+        "addr:postcode": "609082",
+        "addr:street": "Science Centre Road",
+        "name": "Certis Cisco west hub",
+        "name:en": "Certis Cisco west hub",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7385721,
+          1.3305704
+        ]
+      },
+      "id": "node/4537990591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4564589708",
+        "name": "Condom Lorry",
+        "name:zh": "避孕套罗里车",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7837818,
+          1.3767507
+        ]
+      },
+      "id": "node/4564589708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4564608589",
+        "name": "Former Thai Temple",
+        "name:zh": "前泰国庙",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9521052,
+          1.4168486
+        ]
+      },
+      "id": "node/4564608589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4564614398",
+        "name": "Chancery Lane Pill Box",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8385138,
+          1.3221485
+        ]
+      },
+      "id": "node/4564614398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4568833161",
+        "building": "bunker",
+        "military": "bunker",
+        "name": "Imbiah Bunkers",
+        "name:zh": "英比奥地堡",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8147474,
+          1.2569011
+        ]
+      },
+      "id": "node/4568833161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4746147039",
+        "name": "Talbot Hill",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7899138,
+          1.4578442
+        ]
+      },
+      "id": "node/4746147039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4746819482",
+        "name": "Ruins",
+        "name:zh": "废墟",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.782535,
+          1.3201875
+        ]
+      },
+      "id": "node/4746819482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4746819559",
+        "name": "Ruins",
+        "name:zh": "废墟",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7822902,
+          1.3204468
+        ]
+      },
+      "id": "node/4746819559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4747069527",
+        "name": "Former Buona Vista Battery No. 2 Gun",
+        "name:zh": "波那维斯达前2号枪",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7753593,
+          1.3187031
+        ]
+      },
+      "id": "node/4747069527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4747135557",
+        "name": "Seah Im Air Raid Shelter",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8173732,
+          1.2688747
+        ]
+      },
+      "id": "node/4747135557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4772535860",
+        "fixme:zh": "-",
+        "name": "Learning Forest",
+        "name:zh": "学习树林",
+        "opening_hours": "Mo-Su 05:00-00:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8142292,
+          1.3091744
+        ]
+      },
+      "id": "node/4772535860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4838324641",
+        "name": "Ruins",
+        "name:zh": "废墟",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8233783,
+          1.3603133
+        ]
+      },
+      "id": "node/4838324641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4907674520",
+        "name": "Obelisk",
+        "name:zh": "方尖碑",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8049521,
+          1.2628295
+        ]
+      },
+      "id": "node/4907674520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4907708671",
+        "name": "Pillbox",
+        "name:zh": "地堡",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8035416,
+          1.2648422
+        ]
+      },
+      "id": "node/4907708671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4961680421",
+        "name": "Ruins",
+        "name:en": "Ruins",
+        "name:zh": "废墟",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8221125,
+          1.3607876
+        ]
+      },
+      "id": "node/4961680421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5018207223",
+        "attraction": "historic",
+        "description": "With pintu pagar (swinging doors)",
+        "name": "Peranakan Terrace houses",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.902457,
+          1.3103725
+        ]
+      },
+      "id": "node/5018207223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5026572225",
+        "name": "Street of Peranakan shophouses",
+        "name:en": "Street of Peranakan shophouses",
+        "name:zh": "娘惹店屋街",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8989857,
+          1.3141955
+        ]
+      },
+      "id": "node/5026572225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5134227021",
+        "addr:housenumber": "31",
+        "addr:street": "Sunset Square",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7680586,
+          1.3272619
+        ]
+      },
+      "id": "node/5134227021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5140584427",
+        "name": "Arab Street",
+        "name:zh": "阿拉伯街",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8583262,
+          1.3021612
+        ]
+      },
+      "id": "node/5140584427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5273189422",
+        "name": "Ruins",
+        "name:zh": "废墟",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8211534,
+          1.3599759
+        ]
+      },
+      "id": "node/5273189422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5283108421",
+        "name": "Lithe House",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8527464,
+          1.3049244
+        ]
+      },
+      "id": "node/5283108421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5344372224",
+        "name": "Peranakan Terrace Houses",
+        "name:zh": "娘惹排屋",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90286,
+          1.3137524
+        ]
+      },
+      "id": "node/5344372224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452694",
+        "attraction": "animal",
+        "name": "Binturong",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7893234,
+          1.403056
+        ]
+      },
+      "id": "node/5423452694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452695",
+        "attraction": "animal",
+        "name": "Himilayan Tahr",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7890485,
+          1.4032652
+        ]
+      },
+      "id": "node/5423452695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452696",
+        "attraction": "animal",
+        "name": "Mouse Deer",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7892255,
+          1.4034435
+        ]
+      },
+      "id": "node/5423452696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452697",
+        "attraction": "animal",
+        "name": "Fishing Cat",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7895259,
+          1.4031418
+        ]
+      },
+      "id": "node/5423452697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452698",
+        "attraction": "animal",
+        "name": "Fishing Cat",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7896587,
+          1.4030279
+        ]
+      },
+      "id": "node/5423452698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452699",
+        "attraction": "animal",
+        "name": "Pangolin",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7896332,
+          1.4028938
+        ]
+      },
+      "id": "node/5423452699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452700",
+        "attraction": "animal",
+        "name": "Mouse Deer",
+        "note": "Not sure about location -- my records disagree with published map",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7898237,
+          1.4028563
+        ]
+      },
+      "id": "node/5423452700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452701",
+        "attraction": "animal",
+        "name": "Civit",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7897767,
+          1.4027316
+        ]
+      },
+      "id": "node/5423452701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452702",
+        "attraction": "animal",
+        "name": "Flying Fox",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7897579,
+          1.4025399
+        ]
+      },
+      "id": "node/5423452702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452703",
+        "attraction": "animal",
+        "name": "Indian Gharial",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7899336,
+          1.4026123
+        ]
+      },
+      "id": "node/5423452703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452704",
+        "attraction": "animal",
+        "name": "Barking Deer",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7899886,
+          1.4028683
+        ]
+      },
+      "id": "node/5423452704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452705",
+        "attraction": "animal",
+        "name": "Asian Otter",
+        "name:zh": "亚洲水獭",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7899148,
+          1.4029957
+        ]
+      },
+      "id": "node/5423452705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452706",
+        "attraction": "animal",
+        "name": "Barasingha",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7903842,
+          1.4017649
+        ]
+      },
+      "id": "node/5423452706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452707",
+        "attraction": "animal",
+        "name": "Storks",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7903695,
+          1.4023334
+        ]
+      },
+      "id": "node/5423452707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452708",
+        "attraction": "animal",
+        "name": "Fruit Bat",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.790918,
+          1.4003223
+        ]
+      },
+      "id": "node/5423452708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452709",
+        "attraction": "animal",
+        "name": "Spectral Tarsier",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7907436,
+          1.4005369
+        ]
+      },
+      "id": "node/5423452709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452710",
+        "attraction": "animal",
+        "name": "Civit",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7909099,
+          1.4006334
+        ]
+      },
+      "id": "node/5423452710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452711",
+        "attraction": "animal",
+        "name": "Porcupine",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7906276,
+          1.4007728
+        ]
+      },
+      "id": "node/5423452711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452712",
+        "attraction": "animal",
+        "name": "Leopard Cat",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7904446,
+          1.4006374
+        ]
+      },
+      "id": "node/5423452712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452713",
+        "attraction": "animal",
+        "name": "Hog Badger",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7901998,
+          1.4007071
+        ]
+      },
+      "id": "node/5423452713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452714",
+        "attraction": "animal",
+        "name": "Giant Flying Squirrel",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7900617,
+          1.4007406
+        ]
+      },
+      "id": "node/5423452714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452715",
+        "attraction": "animal",
+        "name": "Asian Otter",
+        "name:zh": "亚洲水獭",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.790228,
+          1.4008439
+        ]
+      },
+      "id": "node/5423452715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452716",
+        "attraction": "animal",
+        "name": "Golden Cat",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7902099,
+          1.4010731
+        ]
+      },
+      "id": "node/5423452716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452717",
+        "attraction": "animal",
+        "name": "Slow Loris",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7905492,
+          1.4013601
+        ]
+      },
+      "id": "node/5423452717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452718",
+        "attraction": "animal",
+        "name": "Sumatran Ourang Utan",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7943197,
+          1.4034462
+        ]
+      },
+      "id": "node/5423452718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452719",
+        "attraction": "animal",
+        "name": "Malayan Sun Bear",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7944444,
+          1.4033081
+        ]
+      },
+      "id": "node/5423452719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423452720",
+        "attraction": "animal",
+        "name": "Spiny Hill Turtle",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7945417,
+          1.4030735
+        ]
+      },
+      "id": "node/5423452720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423453421",
+        "attraction": "animal",
+        "name": "Komodo Dragon",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7948005,
+          1.4031137
+        ]
+      },
+      "id": "node/5423453421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423453422",
+        "attraction": "animal",
+        "name": "Monitor",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7950191,
+          1.4030172
+        ]
+      },
+      "id": "node/5423453422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423453423",
+        "attraction": "animal",
+        "name": "Giant Tortoise",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7946355,
+          1.402875
+        ]
+      },
+      "id": "node/5423453423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423453424",
+        "attraction": "animal",
+        "name": "Horned Lizard",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7948367,
+          1.4028482
+        ]
+      },
+      "id": "node/5423453424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423453425",
+        "attraction": "animal",
+        "name": "Snakes",
+        "name:zh": "蛇",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7947643,
+          1.4025211
+        ]
+      },
+      "id": "node/5423453425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5450272625",
+        "addr:housenumber": "#01-06",
+        "name": "Archery Range Indoor",
+        "opening_hours": "Mo, We, Fr 09:00-21:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8670265,
+          1.3327551
+        ]
+      },
+      "id": "node/5450272625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5486212721",
+        "name": "Henderson Waves",
+        "name:zh": "亨德申波浪桥桥",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8154142,
+          1.2760507
+        ]
+      },
+      "id": "node/5486212721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5549593967",
+        "name": "Bambusetum",
+        "name:zh": "竹林",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8128795,
+          1.3112897
+        ]
+      },
+      "id": "node/5549593967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5647751955",
+        "description": "Free-to-public light and sound show every evening at the Supertree Grove",
+        "fee": "no",
+        "name": "Light Show: Garden Rhapsody",
+        "name:zh": "灯光秀",
+        "opening_hours": "Mo-Su 19:45-20:00, 20:45-21:00",
+        "tourism": "attraction",
+        "website": "https://m.gardensbythebay.com.sg/en/whats-on/calendar-of-events/garden-rhapsody-light-show.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8639782,
+          1.2821068
+        ]
+      },
+      "id": "node/5647751955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5708459524",
+        "name": "Fragrant Garden",
+        "name:zh": "馨香园",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8163834,
+          1.3174422
+        ]
+      },
+      "id": "node/5708459524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5708926389",
+        "name": "Ruins",
+        "name:zh": "废墟",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8037294,
+          1.2782692
+        ]
+      },
+      "id": "node/5708926389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5754100521",
+        "name": "Forest Walk",
+        "name:zh": "森林步道",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8030222,
+          1.2799997
+        ]
+      },
+      "id": "node/5754100521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6008885785",
+        "name": "Terminal 2 Orchid Garden",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9887044,
+          1.3540762
+        ]
+      },
+      "id": "node/6008885785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6009344392",
+        "alt_name:en": "Bells of Happiness (Dar Pomorza)",
+        "image": "https://images.mapillary.com/2aksWO0SHKa9SeSmNG0PGw/thumb-2048.jpg",
+        "man_made": "tower",
+        "mapillary": "526024798782828",
+        "name": "Poland's Bells of Happiness (Dar Pomorza)",
+        "name:ar": "أجراس السعادة في بولندا",
+        "name:be": "Польскія званы шчасця (Dar Pomorza)",
+        "name:cs": "Polské zvony štěstí (Dar Pomorza)",
+        "name:de": "Polens Glücksglocken (Dar Pomorza)",
+        "name:en": "Poland's Bells of Happiness (Dar Pomorza)",
+        "name:es": "Campanas de la felicidad de Polonia (Dar Pomorza)",
+        "name:fa": "ناقوس‌های شادی لهستان (Dar Pomorza)",
+        "name:fil": "Mga kampana ng kaligayahan ng Poland (Dar Pomorza)",
+        "name:fr": "Cloches du bonheur de la Pologne (Dar Pomorza)",
+        "name:he": "פעמוני האושר של פולין (Dar Pomorza)",
+        "name:hi": "पोलैंड की खुशियों की घंटियाँ (Dar Pomorza)",
+        "name:id": "Lonceng kebahagiaan Polandia (Dar Pomorza)",
+        "name:ja": "ポーランドの幸福の鐘 (Dar Pomorza)",
+        "name:km": "កណ្តឹងនៃសុភមង្គលរបស់ប្រទេសប៉ូឡូញ (Dar Pomorza)",
+        "name:ko": "폴란드의 행복의 종소리 (Dar Pomorza)",
+        "name:lo": "ລະຄັງແຫ່ງຄວາມສຸກຂອງໂປແລນ (Dar Pomorza)",
+        "name:lt": "Lenkijos laimės varpai (Dar Pomorza)",
+        "name:lv": "Polijas laimes zvani (Dar Pomorza)",
+        "name:ms": "Loceng kebahagiaan Poland (Dar Pomorza)",
+        "name:my": "ပိုလန်ရဲ့ ပျော်ရွှင်မှုခေါင်းလောင်းတွေ (Dar Pomorza)",
+        "name:nl": "De geluksklokken van Polen (Dar Pomorza)",
+        "name:pa": "پولینڈ دیاں خوشی دیاں گھنٹیاں (Dar Pomorza)",
+        "name:pl": "Polskie dzwony szczęścia (dar Pomorza)",
+        "name:pt": "Sinos da felicidade da Polónia (Dar Pomorza)",
+        "name:ru": "Польские колокола счастья (Dar Pomorza)",
+        "name:sk": "Poľské zvony šťastia (Dar Pomorza)",
+        "name:ta": "போலந்தின் மகிழ்ச்சி மணிகள் (Dar Pomorza)",
+        "name:th": "ระฆังแห่งความสุขของโปแลนด์ (Dar Pomorza)",
+        "name:tr": "Polonya'nın mutluluk çanları (Dar Pomorza)",
+        "name:uk": "Дзвони щастя Польщі (Dar Pomorza)",
+        "name:vi": "Những tiếng chuông hạnh phúc của Ba Lan (Dar Pomorza)",
+        "name:zh": "波蘭的幸福之鐘 (Dar Pomorza)",
+        "tourism": "attraction",
+        "tower:type": "bell_tower",
+        "website": "https://historia.trojmiasto.pl/Kto-rozwikla-tajemnice-dzwonu-Dar-Pomorza-z-Singapuru-n77894.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8189686,
+          1.2716597
+        ]
+      },
+      "id": "node/6009344392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6021713085",
+        "name": "MacRitchie Reservoir Submerged Boardwalk",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8315193,
+          1.3413737
+        ]
+      },
+      "id": "node/6021713085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6024473086",
+        "attraction": "animal",
+        "name": "Proboscis Monkey",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7958293,
+          1.4020099
+        ]
+      },
+      "id": "node/6024473086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6075719088",
+        "name": "Forest Canopy Walk",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8093385,
+          1.2785287
+        ]
+      },
+      "id": "node/6075719088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6082964185",
+        "name": "Local market",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7575012,
+          1.3482625
+        ]
+      },
+      "id": "node/6082964185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6084050885",
+        "name": "Banyan Tree & Ruin",
+        "name:zh": "榕树、废墟",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8663997,
+          1.3066832
+        ]
+      },
+      "id": "node/6084050885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6209861844",
+        "name": "Stream",
+        "name:zh": "小溪",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7575638,
+          1.3558024
+        ]
+      },
+      "id": "node/6209861844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6209912502",
+        "name": "Log Bridge",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7892303,
+          1.386493
+        ]
+      },
+      "id": "node/6209912502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6260971088",
+        "name": "Hidden underground Japanese era structure",
+        "name:en": "Hidden underground Japanese era structure",
+        "name:zh": "水下二战时期建筑",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8138053,
+          1.3467942
+        ]
+      },
+      "id": "node/6260971088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6411349985",
+        "name": "Plant House",
+        "name:zh": "植物屋",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8174937,
+          1.3101143
+        ]
+      },
+      "id": "node/6411349985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6425362881",
+        "image": "https://images.mapillary.com/_vE4M4AeaFTjvHsI-A2f5Q/thumb-2048.jpg",
+        "mapillary": "392242285178537",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8590397,
+          1.3005868
+        ]
+      },
+      "id": "node/6425362881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6512510561",
+        "name": "PUB Water Rapid Flow",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8045715,
+          1.3571032
+        ]
+      },
+      "id": "node/6512510561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6776050785",
+        "name": "Old terraced houses",
+        "name:zh": "旧排屋",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9005788,
+          1.3145414
+        ]
+      },
+      "id": "node/6776050785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6813590943",
+        "name": "The Bunker",
+        "name:zh": "地堡",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8178503,
+          1.3200847
+        ]
+      },
+      "id": "node/6813590943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6912346185",
+        "name": "Haji lane",
+        "name:zh": "哈芝巷",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.858471,
+          1.3015475
+        ]
+      },
+      "id": "node/6912346185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6953424385",
+        "name": "Colourful house in little India",
+        "name:zh": "小印度多彩屋",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8510017,
+          1.3071451
+        ]
+      },
+      "id": "node/6953424385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6956299292",
+        "level": "4",
+        "name": "Petal Garden",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9893688,
+          1.3607744
+        ]
+      },
+      "id": "node/6956299292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7176607485",
+        "name": "Discovery Garden",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9917464,
+          1.3619506
+        ]
+      },
+      "id": "node/7176607485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7194716360",
+        "name": "Bunker",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8241717,
+          1.4474625
+        ]
+      },
+      "id": "node/7194716360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7215457385",
+        "description": "Popular photo spot at the southern exit of pedestrian underpass.",
+        "name": "Fort Canning Tree Tunnel",
+        "name:zh": "福康寧隧道旋轉階梯",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846395,
+          1.2972574
+        ]
+      },
+      "id": "node/7215457385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7287289985",
+        "name": "Rainbow Bridge",
+        "name:zh": "彩虹桥",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7606836,
+          1.4331759
+        ]
+      },
+      "id": "node/7287289985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7733212537",
+        "name": "Jurassic MIle Start/End",
+        "name:zh": "侏罗纪步道 起点/终点",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.983489,
+          1.3350499
+        ]
+      },
+      "id": "node/7733212537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7733212539",
+        "name": "Jurassic Mile Start/End",
+        "name:zh": "侏罗纪步道 起点/终点",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9807338,
+          1.327532
+        ]
+      },
+      "id": "node/7733212539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7733212551",
+        "name": "Jurassic Mile",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9830849,
+          1.3331625
+        ]
+      },
+      "id": "node/7733212551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7832186141",
+        "attraction": "animal",
+        "name": "Douc Langur",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.794496,
+          1.4053462
+        ]
+      },
+      "id": "node/7832186141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7832186142",
+        "attraction": "animal",
+        "name": "Colobus Monkey",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7949822,
+          1.405266
+        ]
+      },
+      "id": "node/7832186142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7832186143",
+        "attraction": "animal",
+        "name": "Cassowary",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7935963,
+          1.4060753
+        ]
+      },
+      "id": "node/7832186143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7832186144",
+        "attraction": "animal",
+        "name": "Tree Kangaroo",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7933102,
+          1.405976
+        ]
+      },
+      "id": "node/7832186144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7832186145",
+        "attraction": "animal",
+        "name": "Wallaby",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79304,
+          1.4058372
+        ]
+      },
+      "id": "node/7832186145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7832186146",
+        "attraction": "animal",
+        "name": "Meerkat",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7933181,
+          1.405231
+        ]
+      },
+      "id": "node/7832186146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7832186147",
+        "attraction": "animal",
+        "name": "Red-ruffed Lemur",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7931666,
+          1.404113
+        ]
+      },
+      "id": "node/7832186147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7836789018",
+        "attraction": "animal",
+        "name": "Butterfly Aviary",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7954988,
+          1.4021457
+        ]
+      },
+      "id": "node/7836789018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7836789019",
+        "attraction": "animal",
+        "name": "Flying Fox",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7954807,
+          1.4024351
+        ]
+      },
+      "id": "node/7836789019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7836789020",
+        "attraction": "animal",
+        "name": "Ring-tailed Lemur",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7952545,
+          1.4023989
+        ]
+      },
+      "id": "node/7836789020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7836789021",
+        "attraction": "animal",
+        "name": "Pigmy Marmoset",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7961366,
+          1.4022542
+        ]
+      },
+      "id": "node/7836789021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7836789022",
+        "attraction": "animal",
+        "name": "Naked Mole Rat",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7948067,
+          1.4019105
+        ]
+      },
+      "id": "node/7836789022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7900880085",
+        "name": "Living Off The Land",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8222861,
+          1.382448
+        ]
+      },
+      "id": "node/7900880085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7900890085",
+        "name": "HAN Family",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8232709,
+          1.3827701
+        ]
+      },
+      "id": "node/7900890085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8108537848",
+        "addr:housenumber": "17",
+        "addr:street": "Martaban Road",
+        "name": "Colourful Shophouses",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8510073,
+          1.3235587
+        ]
+      },
+      "id": "node/8108537848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8108578052",
+        "fixme:zh": "-",
+        "name": "Beaded Collection",
+        "name:zh": "串珠系列",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8167142,
+          1.3198501
+        ]
+      },
+      "id": "node/8108578052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8132716617",
+        "demolished:building": "yes",
+        "name": "Former Mandai Hut (demolished)",
+        "name:zh": "前万礼小屋",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7764542,
+          1.4026328
+        ]
+      },
+      "id": "node/8132716617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8209633718",
+        "name": "Seletar Aerospace Park",
+        "name:zh": "实里达航空园区",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8682223,
+          1.4087181
+        ]
+      },
+      "id": "node/8209633718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8209633719",
+        "name": "Hyde Park Gate Garden",
+        "name:zh": "海德公园门花园",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8665365,
+          1.409485
+        ]
+      },
+      "id": "node/8209633719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8209633817",
+        "name": "Boardwalk @ Seletar airport",
+        "name:zh": "实里达机场木板走道",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.866495,
+          1.4098004
+        ]
+      },
+      "id": "node/8209633817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8389088599",
+        "description": "Lamp post turned tourist attraction.",
+        "highway": "street_lamp",
+        "name": "Tuas Lamp Post 1",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6149693,
+          1.2417202
+        ]
+      },
+      "id": "node/8389088599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8573358107",
+        "description": "The go-to filming location for Chinese dramas in the 90s.",
+        "name": "Former Tuas TV World Site",
+        "name:zh": "前大士电视世界区",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6398656,
+          1.3472497
+        ]
+      },
+      "id": "node/8573358107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8573367917",
+        "name": "Gate",
+        "name:zh": "仿建南洋大學牌坊",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6850606,
+          1.3425102
+        ]
+      },
+      "id": "node/8573367917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8588406245",
+        "addr:city": "Singapore",
+        "addr:housenumber": "78",
+        "addr:postcode": "160078",
+        "addr:street": "Guan Chuan Street",
+        "name": "Tiong Bahru Air Raid Shelter",
+        "name:zh": "中峇鲁防空壕",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8308367,
+          1.2834152
+        ]
+      },
+      "id": "node/8588406245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8602874913",
+        "name": "Abandoned car",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8216533,
+          1.3313174
+        ]
+      },
+      "id": "node/8602874913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8696320617",
+        "fixme:zh": "-",
+        "name": "Abandoned Motorbike",
+        "name:zh": "废弃的摩头车",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8192156,
+          1.268565
+        ]
+      },
+      "id": "node/8696320617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8696320717",
+        "name": "Big Banyan Tree",
+        "name:zh": "大榕树",
+        "natural": "tree",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8199623,
+          1.2702295
+        ]
+      },
+      "id": "node/8696320717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8735385317",
+        "name": "ruins",
+        "name:zh": "废墟",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.822368,
+          1.3819818
+        ]
+      },
+      "id": "node/8735385317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9043808171",
+        "name": "Botanical Art Gallery",
+        "name:zh": "植物美术馆",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8099841,
+          1.3145593
+        ]
+      },
+      "id": "node/9043808171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9043819288",
+        "name": "Forest Discovery Centre",
+        "name:zh": "树林知新馆",
+        "opening_hours": "09:00-18:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.810677,
+          1.3137975
+        ]
+      },
+      "id": "node/9043819288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9176436459",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6849923,
+          1.3437504
+        ]
+      },
+      "id": "node/9176436459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9240327951",
+        "name": "Ruins",
+        "name:zh": "废墟",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.814482,
+          1.2721544
+        ]
+      },
+      "id": "node/9240327951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9284717787",
+        "name": "Motorbike (NBE)",
+        "name:zh": "摩托车（未探索）",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.784848,
+          1.365281
+        ]
+      },
+      "id": "node/9284717787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288364791",
+        "attraction": "animal",
+        "name": "Estuarine Crocodile",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7953868,
+          1.4027356
+        ]
+      },
+      "id": "node/9288364791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288364792",
+        "attraction": "animal",
+        "name": "Indian Gharial",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7947954,
+          1.4034623
+        ]
+      },
+      "id": "node/9288364792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288364800",
+        "attraction": "animal",
+        "name": "Ploughshare Tortoise",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7949845,
+          1.4031995
+        ]
+      },
+      "id": "node/9288364800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368317",
+        "attraction": "animal",
+        "name": "Goat",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7967447,
+          1.4032444
+        ]
+      },
+      "id": "node/9288368317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368318",
+        "attraction": "animal",
+        "name": "Rabbit",
+        "name:zh": "兔子",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7969398,
+          1.4032297
+        ]
+      },
+      "id": "node/9288368318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368319",
+        "name": "Animal Friends",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7964651,
+          1.4035722
+        ]
+      },
+      "id": "node/9288368319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368358",
+        "attraction": "animal",
+        "name": "Fossa",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7948169,
+          1.4020519
+        ]
+      },
+      "id": "node/9288368358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368359",
+        "attraction": "animal",
+        "name": "Leopard",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7946412,
+          1.4016765
+        ]
+      },
+      "id": "node/9288368359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368360",
+        "attraction": "animal",
+        "name": "Lion",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7943488,
+          1.4016202
+        ]
+      },
+      "id": "node/9288368360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368361",
+        "attraction": "animal",
+        "name": "Giraffe",
+        "name:zh": "长颈鹿",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7941691,
+          1.4012555
+        ]
+      },
+      "id": "node/9288368361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368362",
+        "attraction": "animal",
+        "name": "Zebra",
+        "name:zh": "斑马",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7939143,
+          1.4016604
+        ]
+      },
+      "id": "node/9288368362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368363",
+        "attraction": "animal",
+        "name": "Warthog",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7942201,
+          1.4020438
+        ]
+      },
+      "id": "node/9288368363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368364",
+        "attraction": "animal",
+        "name": "African Painted Dog",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7939572,
+          1.4029367
+        ]
+      },
+      "id": "node/9288368364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368365",
+        "attraction": "animal",
+        "name": "Cheetah",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7941182,
+          1.4024943
+        ]
+      },
+      "id": "node/9288368365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368366",
+        "attraction": "animal",
+        "name": "White Tailed Gnu",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7937292,
+          1.4023066
+        ]
+      },
+      "id": "node/9288368366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368367",
+        "attraction": "animal",
+        "name": "Eland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7934664,
+          1.4026391
+        ]
+      },
+      "id": "node/9288368367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368368",
+        "attraction": "animal",
+        "name": "White Rhinoceros",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7933779,
+          1.4028697
+        ]
+      },
+      "id": "node/9288368368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368369",
+        "attraction": "animal",
+        "name": "Mandrill",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7959582,
+          1.402257
+        ]
+      },
+      "id": "node/9288368369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368373",
+        "attraction": "animal",
+        "name": "Chimpanzee",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7960601,
+          1.4027544
+        ]
+      },
+      "id": "node/9288368373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368378",
+        "attraction": "animal",
+        "image": "https://images.mapillary.com/Qs-cR2fiVEZfaZWafkerjg/thumb-2048.jpg",
+        "mapillary": "795456071343704",
+        "name": "Bornean Orang Utan",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7939787,
+          1.4035333
+        ]
+      },
+      "id": "node/9288368378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368379",
+        "attraction": "animal",
+        "name": "Nubian Ibex",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7935656,
+          1.4058849
+        ]
+      },
+      "id": "node/9288368379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368380",
+        "attraction": "animal",
+        "name": "Cotton-top Tamarin",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.794259,
+          1.4052079
+        ]
+      },
+      "id": "node/9288368380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368381",
+        "attraction": "animal",
+        "name": "Spider Monkey",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7945111,
+          1.4048861
+        ]
+      },
+      "id": "node/9288368381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368382",
+        "name": "Splash Safari",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7949456,
+          1.4044946
+        ]
+      },
+      "id": "node/9288368382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368398",
+        "attraction": "animal",
+        "name": "Africa Penguin",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7941276,
+          1.4039664
+        ]
+      },
+      "id": "node/9288368398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368399",
+        "attraction": "animal",
+        "name": "Black-and-white Ruffed Lemur",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7952581,
+          1.4051583
+        ]
+      },
+      "id": "node/9288368399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368400",
+        "attraction": "animal",
+        "name": "Capuchin Monkey",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7952863,
+          1.4052213
+        ]
+      },
+      "id": "node/9288368400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368401",
+        "attraction": "animal",
+        "name": "Lion-Tailed Macaque",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.794959,
+          1.4049518
+        ]
+      },
+      "id": "node/9288368401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368402",
+        "attraction": "animal",
+        "name": "Asian Elephant",
+        "name:zh": "亚洲大象",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79582,
+          1.4052897
+        ]
+      },
+      "id": "node/9288368402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368427",
+        "name": "Brickosaurs",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7949161,
+          1.4060217
+        ]
+      },
+      "id": "node/9288368427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368439",
+        "name": "Rainforest Fights Back",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7950301,
+          1.4045174
+        ]
+      },
+      "id": "node/9288368439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368440",
+        "attraction": "animal",
+        "name": "Serval",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7937078,
+          1.4049706
+        ]
+      },
+      "id": "node/9288368440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368441",
+        "attraction": "animal",
+        "name": "Hamadryas Baboon",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7935804,
+          1.4055404
+        ]
+      },
+      "id": "node/9288368441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368443",
+        "attraction": "animal",
+        "name": "Grey Kangaroo",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7932357,
+          1.4060565
+        ]
+      },
+      "id": "node/9288368443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368444",
+        "attraction": "animal",
+        "name": "Red River Hog",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7930185,
+          1.4055149
+        ]
+      },
+      "id": "node/9288368444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368445",
+        "attraction": "animal",
+        "name": "Pygmy Hippo",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7930077,
+          1.4052213
+        ]
+      },
+      "id": "node/9288368445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368446",
+        "attraction": "animal",
+        "name": "Pelican",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7927885,
+          1.4041983
+        ]
+      },
+      "id": "node/9288368446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368447",
+        "attraction": "animal",
+        "name": "Gibbon",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7930238,
+          1.40413
+        ]
+      },
+      "id": "node/9288368447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368454",
+        "attraction": "animal",
+        "name": "Polar Bear",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7931029,
+          1.4035535
+        ]
+      },
+      "id": "node/9288368454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368461",
+        "attraction": "animal",
+        "name": "White Tiger",
+        "name:zh": "白老虎",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7930506,
+          1.4047588
+        ]
+      },
+      "id": "node/9288368461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368513",
+        "attraction": "animal",
+        "name": "Anoa",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.792256,
+          1.4048057
+        ]
+      },
+      "id": "node/9288368513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368517",
+        "name": "Valley of Brickosaurs",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7921501,
+          1.4046676
+        ]
+      },
+      "id": "node/9288368517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368522",
+        "attraction": "animal",
+        "image": "https://images.mapillary.com/aozX8qza58IDIAQ7lkYdfw/thumb-2048.jpg",
+        "mapillary": "304277478067796",
+        "name": "Babirusa",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7925142,
+          1.4046837
+        ]
+      },
+      "id": "node/9288368522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368523",
+        "attraction": "animal",
+        "name": "Asian Small-Clawed Otter",
+        "name:zh": "水獭",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7920234,
+          1.4047226
+        ]
+      },
+      "id": "node/9288368523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368524",
+        "attraction": "animal",
+        "name": "Proboscis Monkey",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7915084,
+          1.4046455
+        ]
+      },
+      "id": "node/9288368524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368528",
+        "attraction": "animal",
+        "name": "Siamang",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7917129,
+          1.4051248
+        ]
+      },
+      "id": "node/9288368528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368585",
+        "attraction": "animal",
+        "name": "Pacu",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7903953,
+          1.4032692
+        ]
+      },
+      "id": "node/9288368585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368586",
+        "attraction": "animal",
+        "name": "Arapaima",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7903443,
+          1.4033349
+        ]
+      },
+      "id": "node/9288368586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368587",
+        "attraction": "animal",
+        "name": "Manatee",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7904556,
+          1.4033416
+        ]
+      },
+      "id": "node/9288368587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368588",
+        "attraction": "animal",
+        "name": "Red-tailed Catfish",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7904167,
+          1.4034073
+        ]
+      },
+      "id": "node/9288368588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368589",
+        "attraction": "animal",
+        "name": "Red-bellied Piranha",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7905253,
+          1.4033993
+        ]
+      },
+      "id": "node/9288368589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368590",
+        "attraction": "animal",
+        "name": "Electric Eel",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.790524,
+          1.4030018
+        ]
+      },
+      "id": "node/9288368590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368591",
+        "attraction": "animal",
+        "name": "Giant River Otter",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7906098,
+          1.4031975
+        ]
+      },
+      "id": "node/9288368591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368593",
+        "attraction": "animal",
+        "name": "Cuvier's Dwarf Caiman",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7911905,
+          1.4031901
+        ]
+      },
+      "id": "node/9288368593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368600",
+        "attraction": "animal",
+        "name": "Yellow-footed Tortoise",
+        "name:zh": "黄脚乌龟",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7913052,
+          1.4028751
+        ]
+      },
+      "id": "node/9288368600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368603",
+        "attraction": "animal",
+        "name": "Bare-faced Curassow",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7915922,
+          1.4027745
+        ]
+      },
+      "id": "node/9288368603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368604",
+        "attraction": "animal",
+        "name": "Golden Headed Lion Tamarin",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.791617,
+          1.4027303
+        ]
+      },
+      "id": "node/9288368604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368605",
+        "attraction": "animal",
+        "name": "Green Anacondo",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7916525,
+          1.4026673
+        ]
+      },
+      "id": "node/9288368605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368606",
+        "attraction": "animal",
+        "name": "Carribbean Flamingo",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7910698,
+          1.4028523
+        ]
+      },
+      "id": "node/9288368606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368634",
+        "attraction": "animal",
+        "name": "Capybara",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7914574,
+          1.4025882
+        ]
+      },
+      "id": "node/9288368634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368635",
+        "attraction": "animal",
+        "name": "Silver Arowana",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7915439,
+          1.4028335
+        ]
+      },
+      "id": "node/9288368635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368639",
+        "attraction": "animal",
+        "name": "White-faced Saki Monkey",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7908962,
+          1.4031921
+        ]
+      },
+      "id": "node/9288368639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368640",
+        "attraction": "animal",
+        "name": "Squirrel Monkey",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7913018,
+          1.4029555
+        ]
+      },
+      "id": "node/9288368640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368641",
+        "attraction": "animal",
+        "name": "Black Howler Monkey",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7910779,
+          1.4030306
+        ]
+      },
+      "id": "node/9288368641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368656",
+        "attraction": "animal",
+        "name": "Brazilian Tapir",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7906863,
+          1.4028509
+        ]
+      },
+      "id": "node/9288368656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368657",
+        "attraction": "animal",
+        "name": "Brazilian Tapir",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7908338,
+          1.4025104
+        ]
+      },
+      "id": "node/9288368657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368658",
+        "attraction": "animal",
+        "name": "Guanaco",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.791212,
+          1.4021913
+        ]
+      },
+      "id": "node/9288368658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368705",
+        "attraction": "animal",
+        "name": "Giant Anteater",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7914903,
+          1.4017536
+        ]
+      },
+      "id": "node/9288368705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368714",
+        "attraction": "animal",
+        "name": "Red Howler Monkey",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7916378,
+          1.4016745
+        ]
+      },
+      "id": "node/9288368714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368737",
+        "attraction": "animal",
+        "name": "Bearded Saki",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7915325,
+          1.4015585
+        ]
+      },
+      "id": "node/9288368737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368738",
+        "attraction": "animal",
+        "name": "Tufted Capuchin",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7917525,
+          1.4015451
+        ]
+      },
+      "id": "node/9288368738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368750",
+        "attraction": "animal",
+        "name": "Collared Peccary",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7917974,
+          1.4017449
+        ]
+      },
+      "id": "node/9288368750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368780",
+        "attraction": "animal",
+        "name": "Giant Panda",
+        "name:zh": "大熊猫",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7924733,
+          1.4037639
+        ]
+      },
+      "id": "node/9288368780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368781",
+        "attraction": "animal",
+        "name": "Red Panda",
+        "name:zh": "红熊猫",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7923305,
+          1.4038149
+        ]
+      },
+      "id": "node/9288368781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368782",
+        "attraction": "animal",
+        "name": "Sturgeon",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7922198,
+          1.4038853
+        ]
+      },
+      "id": "node/9288368782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368783",
+        "attraction": "animal",
+        "name": "Chinese Giant Salamander",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7922353,
+          1.4039369
+        ]
+      },
+      "id": "node/9288368783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368784",
+        "attraction": "animal",
+        "name": "Yangtze Alligator",
+        "name:zh": "长江鳄鱼",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7922487,
+          1.4039825
+        ]
+      },
+      "id": "node/9288368784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368793",
+        "attraction": "animal",
+        "name": "Giant Freshwater Stingray",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7918597,
+          1.4041675
+        ]
+      },
+      "id": "node/9288368793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368799",
+        "attraction": "animal",
+        "name": "Mekong Giant Catfish",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7918879,
+          1.4042218
+        ]
+      },
+      "id": "node/9288368799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368800",
+        "attraction": "animal",
+        "name": "Storks",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7920649,
+          1.4041065
+        ]
+      },
+      "id": "node/9288368800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368801",
+        "attraction": "animal",
+        "name": "Fire Eel",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7920267,
+          1.4040596
+        ]
+      },
+      "id": "node/9288368801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368802",
+        "attraction": "animal",
+        "name": "Lion-Tailed Macaque",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7919436,
+          1.4039496
+        ]
+      },
+      "id": "node/9288368802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368803",
+        "attraction": "animal",
+        "name": "Horseshoe Crab",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7918708,
+          1.4037288
+        ]
+      },
+      "id": "node/9288368803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368804",
+        "attraction": "animal",
+        "name": "Mudskipper",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7918369,
+          1.4037509
+        ]
+      },
+      "id": "node/9288368804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368805",
+        "attraction": "animal",
+        "name": "Archerfish",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7918145,
+          1.4037656
+        ]
+      },
+      "id": "node/9288368805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368806",
+        "attraction": "animal",
+        "name": "Australian Lungfish",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7917726,
+          1.4037921
+        ]
+      },
+      "id": "node/9288368806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368807",
+        "attraction": "animal",
+        "name": "Indian Gharial",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7916623,
+          1.4038152
+        ]
+      },
+      "id": "node/9288368807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368808",
+        "attraction": "animal",
+        "name": "Tigerfish",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.791043,
+          1.4039292
+        ]
+      },
+      "id": "node/9288368808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368809",
+        "attraction": "animal",
+        "name": "African Dwarf Crocodile",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7909612,
+          1.4039925
+        ]
+      },
+      "id": "node/9288368809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368810",
+        "attraction": "animal",
+        "name": "Kribensis",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7911521,
+          1.4040737
+        ]
+      },
+      "id": "node/9288368810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368811",
+        "attraction": "animal",
+        "name": "Reedfish",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7911526,
+          1.4040631
+        ]
+      },
+      "id": "node/9288368811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368812",
+        "attraction": "animal",
+        "name": "Elephantnose Fish",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.791091,
+          1.4040559
+        ]
+      },
+      "id": "node/9288368812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368813",
+        "attraction": "animal",
+        "name": "Eastern Battlenose",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7910759,
+          1.4040569
+        ]
+      },
+      "id": "node/9288368813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368814",
+        "attraction": "animal",
+        "name": "Tigerfish",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7910343,
+          1.4040579
+        ]
+      },
+      "id": "node/9288368814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368815",
+        "attraction": "animal",
+        "name": "Atlantic Tarpons",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7909927,
+          1.4040592
+        ]
+      },
+      "id": "node/9288368815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288368816",
+        "attraction": "animal",
+        "name": "Trumpeter Hornbill",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7910618,
+          1.4041809
+        ]
+      },
+      "id": "node/9288368816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9328830708",
+        "fixme:zh": "-",
+        "name": "Shrine",
+        "name:zh": "圣陵",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8171795,
+          1.2730334
+        ]
+      },
+      "id": "node/9328830708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9329489595",
+        "name": "Storage Ruin",
+        "name:zh": "仓库废墟",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.81336,
+          1.272132
+        ]
+      },
+      "id": "node/9329489595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9420127457",
+        "name": "Switch Room Ruin #NBE",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.775771,
+          1.324965
+        ]
+      },
+      "id": "node/9420127457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9444725476",
+        "name": "Gibraltar Crescent Bunker",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835147,
+          1.457724
+        ]
+      },
+      "id": "node/9444725476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9455014398",
+        "name": "Switch 3272 NBE",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.756232,
+          1.411226
+        ]
+      },
+      "id": "node/9455014398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9457700734",
+        "name": "Aqueduct",
+        "name:zh": "渡槽",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.81527,
+          1.335364
+        ]
+      },
+      "id": "node/9457700734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9482434887",
+        "addr:city": "Singapore",
+        "addr:housenumber": "88",
+        "addr:postcode": "577239",
+        "addr:street": "Jalan Pemimpin",
+        "changing_table": "no",
+        "description": "A magical tree along Jalan Pemimpin which exudes a mystical shroud of mystery. Transforms to match seasonal holidays.",
+        "image": "https://imgur.com/a/71MzZXq",
+        "name": "Coral Park Magic Tree",
+        "opening_hours": "24/7",
+        "toilets:access": "private",
+        "toilets:wheelchair": "no",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8436927,
+          1.3539848
+        ]
+      },
+      "id": "node/9482434887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9671017625",
+        "name": "Lonely tree",
+        "natural": "tree",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9582006,
+          1.3994012
+        ]
+      },
+      "id": "node/9671017625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9671017628",
+        "name": "Conserved Terrace Houses",
+        "name:zh": "遗产排屋",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9061586,
+          1.3057409
+        ]
+      },
+      "id": "node/9671017628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9671017632",
+        "name": "Old Jurong railway",
+        "name:zh": "旧裕廊铁路",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.780294,
+          1.32846
+        ]
+      },
+      "id": "node/9671017632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9671017634",
+        "name": "Railway corridor entry point",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8323796,
+          1.2752149
+        ]
+      },
+      "id": "node/9671017634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9821433868",
+        "name": "rock markings by visitors, stone balancing art",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7826453,
+          1.3556929
+        ]
+      },
+      "id": "node/9821433868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9893218556",
+        "name": "Penarakan Houses",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9041935,
+          1.3109516
+        ]
+      },
+      "id": "node/9893218556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10186111420",
+        "name": "Rock Sorter",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7813695,
+          1.3439377
+        ]
+      },
+      "id": "node/10186111420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10310520680",
+        "description": "Light and Water Show at Marina Bay Sands",
+        "name": "Spectra",
+        "opening_hours": "Mo-Th,Su 20:00-20:15,21:00-21:15; Fr-Sa 20:00-20:15,21:00-21:15,22:00-22:15",
+        "tourism": "attraction",
+        "website": "https://www.marinabaysands.com/attractions/spectra.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8579351,
+          1.2844155
+        ]
+      },
+      "id": "node/10310520680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10310525733",
+        "name": "Pipes",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7850961,
+          1.3507915
+        ]
+      },
+      "id": "node/10310525733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10692285105",
+        "name": "Tan Hoon Siang Mist House",
+        "name:zh": "陈温详雾室",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.814459,
+          1.3133077
+        ]
+      },
+      "id": "node/10692285105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11146208305",
+        "name": "Kampong Glam",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8622729,
+          1.3015486
+        ]
+      },
+      "id": "node/11146208305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11246971144",
+        "amenity": "fountain",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.867212,
+          1.2973465
+        ]
+      },
+      "id": "node/11246971144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11288867468",
+        "addr:housenumber": "8",
+        "addr:street": "Jalan Ampas",
+        "alt_name": "Shaw Studio",
+        "name": "Former Malay Film Productions",
+        "tourism": "attraction",
+        "wikidata": "Q12696705",
+        "wikipedia": "en:Malay Film Productions"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8514982,
+          1.326446
+        ]
+      },
+      "id": "node/11288867468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11472827660",
+        "name": "Bugis Street Back Lane",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8550275,
+          1.3009022
+        ]
+      },
+      "id": "node/11472827660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11762038779",
+        "ceremonial_gate": "paifang",
+        "inscription": "萬水匯歸環海銀濤收眼底，金樽共賞前山翠黛展蛾眉",
+        "man_made": "ceremonial_gate",
+        "name": "Entrance portal",
+        "name:zh": "主入口牌坊",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.781357,
+          1.2841796
+        ]
+      },
+      "id": "node/11762038779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11762046209",
+        "name": "Tiger Car",
+        "name:zh": "虎车装饰",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7817827,
+          1.2840974
+        ]
+      },
+      "id": "node/11762046209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11806649909",
+        "addr:city": "Singapore",
+        "addr:housenumber": "230",
+        "addr:street": "Balestier Road",
+        "name": "Balestier Art Deco shophouses",
+        "tourism": "attraction",
+        "wikidata": "Q111914778",
+        "wikipedia": "en:Balestier Art Deco shophouses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8530549,
+          1.3216239
+        ]
+      },
+      "id": "node/11806649909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11818534979",
+        "name": "Sim Kwong Ho shophouses",
+        "tourism": "attraction",
+        "wikidata": "Q111915364",
+        "wikipedia": "en:Sim Kwong Ho shophouses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8525342,
+          1.323241
+        ]
+      },
+      "id": "node/11818534979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11819634278",
+        "name": "Symphony Streams",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8182518,
+          1.2525766
+        ]
+      },
+      "id": "node/11819634278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11819634279",
+        "name": "Scented Sphere",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8185643,
+          1.2530247
+        ]
+      },
+      "id": "node/11819634279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11819634280",
+        "name": "Tactile Trellis",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8188211,
+          1.2534744
+        ]
+      },
+      "id": "node/11819634280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11819634282",
+        "name": "Glow Garden",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8180991,
+          1.2521276
+        ]
+      },
+      "id": "node/11819634282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11828532018",
+        "name": "Kwan Loon Yen Shophouses",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8497048,
+          1.3257075
+        ]
+      },
+      "id": "node/11828532018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11862049582",
+        "name": "VIP Orchid Garden",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8136894,
+          1.3124833
+        ]
+      },
+      "id": "node/11862049582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12389540382",
+        "access": "yes",
+        "buried:wikidata": "Q7682143",
+        "cemetery": "grave",
+        "historic": "tomb",
+        "name": "Grave of Tan Tock Seng",
+        "name:zh": "陈笃生之墓",
+        "subject:wikidata": "Q7682143",
+        "subject:wikipedia": "en:Tan Tock Seng",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835076,
+          1.2860508
+        ]
+      },
+      "id": "node/12389540382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12533886455",
+        "description": "Decomissioned SBS bus. Used by TTSH for rehabilitation purposes",
+        "name": "Decomissioned Bus",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8464627,
+          1.3240028
+        ]
+      },
+      "id": "node/12533886455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12541123301",
+        "name": "KidZania Singapore",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "phone": "+65 6653 6888",
+        "tourism": "attraction",
+        "website": "https://www.kidzania.com.sg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8203676,
+          1.2513879
+        ]
+      },
+      "id": "node/12541123301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12630420019",
+        "name": "Wild Cavern Adventure",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7823191,
+          1.4081331
+        ]
+      },
+      "id": "node/12630420019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12630420020",
+        "name": "Wild Apex Adventure",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7797486,
+          1.4100242
+        ]
+      },
+      "id": "node/12630420020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12630420021",
+        "name": "Canopy Jump",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7823814,
+          1.4098631
+        ]
+      },
+      "id": "node/12630420021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12630420028",
+        "attraction": "animal",
+        "name": "Blind Cave Fish",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7818683,
+          1.4082451
+        ]
+      },
+      "id": "node/12630420028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12630420050",
+        "attraction": "animal",
+        "name": "Estuarine Crocodile",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7815149,
+          1.4085907
+        ]
+      },
+      "id": "node/12630420050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12630420051",
+        "attraction": "animal",
+        "name": "Phillipine Spotted Deer",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7836819,
+          1.4104371
+        ]
+      },
+      "id": "node/12630420051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12630420052",
+        "attraction": "animal",
+        "name": "Siamang",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7833604,
+          1.4099773
+        ]
+      },
+      "id": "node/12630420052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12630420053",
+        "attraction": "animal",
+        "name": "Red-Shanked Douc Langur",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7835872,
+          1.4101145
+        ]
+      },
+      "id": "node/12630420053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12630420054",
+        "attraction": "animal",
+        "name": "Javan Langur",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7833381,
+          1.410239
+        ]
+      },
+      "id": "node/12630420054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12630420055",
+        "attraction": "animal",
+        "name": "Asian Brown Tortoise",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7806625,
+          1.4098888
+        ]
+      },
+      "id": "node/12630420055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12630420056",
+        "attraction": "animal",
+        "name": "Southern River Terrapin",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.780942,
+          1.4092631
+        ]
+      },
+      "id": "node/12630420056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12630420057",
+        "attraction": "animal",
+        "name": "Asian Black Scorpion",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7812736,
+          1.4085985
+        ]
+      },
+      "id": "node/12630420057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12630420058",
+        "attraction": "animal",
+        "name": "Madagascar Hissing Cockroach",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.782277,
+          1.4080778
+        ]
+      },
+      "id": "node/12630420058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12630420059",
+        "attraction": "animal",
+        "description": "type of snake",
+        "name": "Cave Racer",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7815289,
+          1.4084179
+        ]
+      },
+      "id": "node/12630420059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12630420060",
+        "attraction": "animal",
+        "name": "Hog Deer",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7808906,
+          1.4099604
+        ]
+      },
+      "id": "node/12630420060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12630449339",
+        "attraction": "animal",
+        "name": "Francois' Langur",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7798054,
+          1.4098592
+        ]
+      },
+      "id": "node/12630449339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12630449340",
+        "attraction": "animal",
+        "name": "Malayan Tiger",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7823354,
+          1.4102156
+        ]
+      },
+      "id": "node/12630449340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12630449341",
+        "attraction": "animal",
+        "name": "Red Dhole",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7814768,
+          1.4101759
+        ]
+      },
+      "id": "node/12630449341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13032602188",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8419388,
+          1.2871502
+        ]
+      },
+      "id": "node/13032602188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13042628603",
+        "name": "Mural: Samsui Lady with Cigarette",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8450868,
+          1.2812004
+        ]
+      },
+      "id": "node/13042628603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13049604601",
+        "name": "Ring-tailed Lemur",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7950278,
+          1.4055206
+        ]
+      },
+      "id": "node/13049604601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13049604701",
+        "name": "Giant Gourami",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7946887,
+          1.405497
+        ]
+      },
+      "id": "node/13049604701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13049604801",
+        "name": "Arapaima",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7942534,
+          1.405289
+        ]
+      },
+      "id": "node/13049604801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13049610003",
+        "name": "Mini Monkeys",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7942377,
+          1.4052567
+        ]
+      },
+      "id": "node/13049610003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13049610901",
+        "name": "Hamadryas Baboon",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7939919,
+          1.4056769
+        ]
+      },
+      "id": "node/13049610901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13300508001",
+        "addr:housenumber": "10",
+        "addr:street": "Airport Boulevard",
+        "name": "The Chandelier Slide",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9843723,
+          1.3398349
+        ]
+      },
+      "id": "node/13300508001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13439388801",
+        "name": "Wetlands",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8138728,
+          1.310183
+        ]
+      },
+      "id": "node/13439388801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13439431001",
+        "name": "Frangipani Garden",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8165823,
+          1.3100318
+        ]
+      },
+      "id": "node/13439431001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13495680401",
+        "name": "Amphitheater",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7892601,
+          1.4036464
+        ]
+      },
+      "id": "node/13495680401"
+    }
+  ]
+}

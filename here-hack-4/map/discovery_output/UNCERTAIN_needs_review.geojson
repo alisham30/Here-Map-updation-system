@@ -1,0 +1,328 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8318,
+          1.2847
+        ]
+      },
+      "properties": {
+        "name": "Tiong Bahru Sourdough Co.",
+        "confidence": 0.8,
+        "detected_by": "Grab",
+        "category": "food_beverage",
+        "nearest_osm": "Tiong Bahru Sourdough Co.",
+        "match_score_vs_osm": 0.7,
+        "status": "REVIEW — possible OSM match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8272,
+          1.286
+        ]
+      },
+      "properties": {
+        "name": "Nasi Lemak Queen",
+        "confidence": 0.8,
+        "detected_by": "Grab",
+        "category": "food_beverage",
+        "nearest_osm": "Nasi Lemak Queen",
+        "match_score_vs_osm": 0.7,
+        "status": "REVIEW — possible OSM match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.906,
+          1.3052
+        ]
+      },
+      "properties": {
+        "name": "East Coast Brew Lab",
+        "confidence": 0.8,
+        "detected_by": "Grab",
+        "category": "food_beverage",
+        "nearest_osm": "East Coast Brew Lab",
+        "match_score_vs_osm": 0.7,
+        "status": "REVIEW — possible OSM match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9492,
+          1.3721
+        ]
+      },
+      "properties": {
+        "name": "Green Apothecary Pte Ltd",
+        "confidence": 1.0,
+        "detected_by": "ACRA, Grab",
+        "category": "retail",
+        "nearest_osm": "Green Apothecary Pte Ltd",
+        "match_score_vs_osm": 0.7,
+        "status": "REVIEW — possible OSM match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8203,
+          1.2644
+        ]
+      },
+      "properties": {
+        "name": "HarbourFront Mart Express",
+        "confidence": 0.88,
+        "detected_by": "ACRA, Grab",
+        "category": "retail",
+        "nearest_osm": "HarbourFront Mart Express",
+        "match_score_vs_osm": 0.7,
+        "status": "REVIEW — possible OSM match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8314,
+          1.2845
+        ]
+      },
+      "properties": {
+        "name": "Tiong Bahru Sourdough Co.",
+        "confidence": 0.8,
+        "detected_by": "ACRA",
+        "category": "food_beverage",
+        "nearest_osm": "Tiong Bahru Sourdough Co.",
+        "match_score_vs_osm": 0.7,
+        "status": "REVIEW — possible OSM match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82695,
+          1.2857500000000002
+        ]
+      },
+      "properties": {
+        "name": "Nasi Lemak Queen Pte Ltd",
+        "confidence": 0.88,
+        "detected_by": "ACRA, Yelp",
+        "category": "food_beverage",
+        "nearest_osm": "Nasi Lemak Queen Pte Ltd",
+        "match_score_vs_osm": 0.7,
+        "status": "REVIEW — possible OSM match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9893,
+          1.3604
+        ]
+      },
+      "properties": {
+        "name": "Jewel Fresh Market",
+        "confidence": 0.8,
+        "detected_by": "ACRA",
+        "category": "retail",
+        "nearest_osm": "Jewel Fresh Market",
+        "match_score_vs_osm": 0.7,
+        "status": "REVIEW — possible OSM match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8607,
+          1.2834
+        ]
+      },
+      "properties": {
+        "name": "Cloud Nine Hotel & Suites",
+        "confidence": 0.88,
+        "detected_by": "STB, ACRA",
+        "category": "accommodation",
+        "nearest_osm": "Cloud Nine Hotel & Suites",
+        "match_score_vs_osm": 0.7,
+        "status": "REVIEW — possible OSM match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8267,
+          1.249
+        ]
+      },
+      "properties": {
+        "name": "Sunset Grill Singapore",
+        "confidence": 1.0,
+        "detected_by": "ACRA, Yelp",
+        "category": "food_beverage",
+        "nearest_osm": "Sunset Grill Singapore",
+        "match_score_vs_osm": 0.7,
+        "status": "REVIEW — possible OSM match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9058,
+          1.3054
+        ]
+      },
+      "properties": {
+        "name": "East Coast Brew Lab",
+        "confidence": 0.88,
+        "detected_by": "ACRA, Yelp",
+        "category": "food_beverage",
+        "nearest_osm": "East Coast Brew Lab",
+        "match_score_vs_osm": 0.7,
+        "status": "REVIEW — possible OSM match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8359,
+          1.3014
+        ]
+      },
+      "properties": {
+        "name": "Orchard Wellness Pharmacy",
+        "confidence": 0.95,
+        "detected_by": "ACRA",
+        "category": "retail",
+        "nearest_osm": "Orchard Wellness Pharmacy",
+        "match_score_vs_osm": 0.7,
+        "status": "REVIEW — possible OSM match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8505,
+          1.2806
+        ]
+      },
+      "properties": {
+        "name": "Lau Pa Sat Fusion Kitchen",
+        "confidence": 0.88,
+        "detected_by": "ACRA, Yelp",
+        "category": "food_beverage",
+        "nearest_osm": "Lau Pa Sat",
+        "match_score_vs_osm": 0.74,
+        "status": "REVIEW — possible OSM match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8316,
+          1.2845
+        ]
+      },
+      "properties": {
+        "name": "Tiong Bahru Sourdough",
+        "confidence": 0.8,
+        "detected_by": "Yelp",
+        "category": "food_beverage",
+        "nearest_osm": "Tiong Bahru Sourdough",
+        "match_score_vs_osm": 0.7,
+        "status": "REVIEW — possible OSM match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7764,
+          1.3394
+        ]
+      },
+      "properties": {
+        "name": "Bukit Timah Taco Bar",
+        "confidence": 0.95,
+        "detected_by": "Yelp",
+        "category": "food_beverage",
+        "nearest_osm": "Bukit Timah Taco Bar",
+        "match_score_vs_osm": 0.7,
+        "status": "REVIEW — possible OSM match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7649,
+          1.3149
+        ]
+      },
+      "properties": {
+        "name": "Clementi Açaí Bowl",
+        "confidence": 0.8,
+        "detected_by": "Yelp",
+        "category": "food_beverage",
+        "nearest_osm": "Clementi Açaí Bowl",
+        "match_score_vs_osm": 0.7,
+        "status": "REVIEW — possible OSM match"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8636,
+          1.2816
+        ]
+      },
+      "properties": {
+        "name": "Heritage Spice Garden",
+        "confidence": 0.8,
+        "detected_by": "STB",
+        "category": "recreation_tourism",
+        "nearest_osm": "Heritage Spice Garden",
+        "match_score_vs_osm": 0.7,
+        "status": "REVIEW — possible OSM match"
+      }
+    }
+  ]
+}

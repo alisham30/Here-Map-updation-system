@@ -1,0 +1,19 @@
+# ── Core server (required) ───────────────────────────────────────────────────
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+python-dotenv>=1.0.0
+httpx>=0.27.0
+requests>=2.31.0
+
+# ── Optional: offline data tooling (discovery/QGIS extracts, not the server) ──
+pandas>=2.0.0
+geopandas>=0.12.0
+pyarrow>=12.0.0
+shapely>=2.0.0
+
+# ── Optional: on-demand GradCAM vision (/api/vision). Skipped if not installed ─
+# torch>=2.2.0
+# torchvision>=0.17.0
+# opencv-python-headless>=4.9.0

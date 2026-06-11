@@ -1,0 +1,50 @@
+# ── Secrets (NEVER commit) ───────────────────────────────────────────────────
+.env
+*.env
+!.env.example
+
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# ── Node / frontend build ────────────────────────────────────────────────────
+node_modules/
+dist/
+.vite/
+
+# ── Generated / cached artifacts ─────────────────────────────────────────────
+imagery_cache/
+here-hack-4/imagery_cache/
+
+# ── Large datasets (download separately — see README) ────────────────────────
+# ACRA business-registry CSVs are ~646MB total; too large for GitHub.
+here-hack-4/map/data/*.csv
+# 29MB discovery artifact — not used by the running app; exceeds HF's 10MB limit.
+here-hack-4/map/discovery_output/existing_OSM_baseline.geojson
+
+# Binary GIS / model artifacts — not used by the web app; HF blocks binaries.
+here-hack-4/TouristAttractions/
+*.pt
+*.qgz
+*.qgs
+*.dbf
+*.shp
+*.shx
+*.prj
+*.sbn
+*.sbx
+*.cpg
+*.qpj
+
+# ── OS / editor / temp ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+A.json
+B.json
+run_*.json

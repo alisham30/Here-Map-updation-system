@@ -1,0 +1,1341 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-26T11:18:41Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/409586271",
+        "shop": "department_store",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8278411,
+          1.4315225
+        ]
+      },
+      "id": "way/409586271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/518281888",
+        "addr:city": "Singapore",
+        "addr:housenumber": "391A",
+        "addr:postcode": "238873",
+        "addr:street": "Orchard Road",
+        "air_conditioning": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Takashimaya",
+        "name:ja": "髙島屋",
+        "opening_hours:covid19": "Su-Th 11:00-20:00; Sa-Su 11:00-21:30",
+        "operator": "Takashimaya",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:jcb": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "department_store",
+        "website": "https://www.takashimaya.com.sg",
+        "wheelchair": "yes",
+        "wikidata": "Q2058024",
+        "wikipedia": "en:Takashimaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8353202,
+          1.3025211
+        ]
+      },
+      "id": "node/518281888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/746049595",
+        "brand": "Marks & Spencer",
+        "brand:wikidata": "Q714491",
+        "brand:wikipedia": "en:Marks & Spencer",
+        "indoor": "room",
+        "level": "1",
+        "name": "Marks & Spencer",
+        "shop": "department_store",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9056088,
+          1.3013107
+        ]
+      },
+      "id": "way/746049595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1832093629",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8650441,
+          1.2839265
+        ]
+      },
+      "id": "node/1832093629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1839603992",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "350",
+        "addr:postcode": "238868",
+        "addr:street": "Orchard Road",
+        "air_conditioning": "yes",
+        "alt_name": "Isetan Scotts",
+        "name": "Isetan",
+        "name:en": "Isetan",
+        "name:ja": "伊勢丹",
+        "name:zh-Hans": "伊势丹",
+        "name:zh-Hant": "伊勢丹",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "phone": "+65 6733 1111",
+        "shop": "department_store",
+        "toilets": "yes",
+        "wikidata": "Q3155239",
+        "wikipedia": "en:Isetan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8316799,
+          1.3055893
+        ]
+      },
+      "id": "node/1839603992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1839603997",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "290",
+        "addr:postcode": "238859",
+        "addr:street": "Orchard Road",
+        "addr:unit": "#02-28",
+        "branch": "Paragon",
+        "brand": "Metro",
+        "brand:wikidata": "Q6824450",
+        "brand:wikipedia": "en:Metro (department store)",
+        "level": "1-3",
+        "name": "Metro",
+        "name:en": "Metro",
+        "name:zh": "美羅",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "phone": "+65 6835 3322",
+        "shop": "department_store",
+        "website": "https://www.metro.com.sg/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8359709,
+          1.3040319
+        ]
+      },
+      "id": "node/1839603997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1839604020",
+        "addr:city": "Singapore",
+        "addr:housenumber": "310",
+        "addr:postcode": "238864",
+        "addr:street": "Orchard Road",
+        "changing_table": "yes",
+        "name": "Tangs",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "shop": "department_store",
+        "toilets": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8330692,
+          1.3047546
+        ]
+      },
+      "id": "node/1839604020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1932070070",
+        "brand": "Marks & Spencer",
+        "brand:short": "M&S",
+        "level": "3",
+        "name": "Marks & Spencer",
+        "not:brand:wikidata": "Q714491",
+        "opening_hours": "Mo-Fr 10:30-22:00; Sa-Su 10:00-22:00",
+        "shop": "department_store",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8452495,
+          1.3008258
+        ]
+      },
+      "id": "node/1932070070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1932081007",
+        "name": "Tangs",
+        "shop": "department_store",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8213322,
+          1.2649076
+        ]
+      },
+      "id": "node/1932081007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1932114500",
+        "level": "0;1;2",
+        "name": "BHG",
+        "shop": "department_store",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848927,
+          1.3507944
+        ]
+      },
+      "id": "node/1932114500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1932114526",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "1",
+        "addr:postcode": "738099",
+        "addr:street": "Woodlands Square",
+        "branch": "Causeway Point",
+        "brand": "Metro",
+        "brand:wikidata": "Q6824450",
+        "brand:wikipedia": "en:Metro (department store)",
+        "name": "Metro",
+        "name:zh": "美羅",
+        "not:brand:wikidata": "Q13610282",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "+65 6893 3322",
+        "shop": "department_store",
+        "website": "https://www.metro.com.sg/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7854854,
+          1.4362016
+        ]
+      },
+      "id": "node/1932114526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1932121779",
+        "addr:city": "Singapore",
+        "addr:housenumber": "23",
+        "addr:postcode": "556083",
+        "addr:street": "Serangoon Central",
+        "addr:unit": "01-50;01-51;02-30;02-31",
+        "air_conditioning": "yes",
+        "alt_name": "Isetan Serangoon",
+        "branch": "Serangoon Central",
+        "brand": "Isetan",
+        "brand:wikidata": "Q3155239",
+        "brand:wikipedia": "en:Isetan",
+        "currency:SGD": "yes",
+        "fax": "+65 6634 9959",
+        "level": "0;1;2",
+        "name": "Isetan",
+        "name:en": "Isetan",
+        "name:ja": "伊勢丹",
+        "opening_hours": "Su-Th 10:30-21:00; Fr-Sa 10:30-21:30",
+        "phone": "+65 6363 7777",
+        "shop": "department_store",
+        "stroller": "yes",
+        "website": "https://www.isetan.com.sg/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8731544,
+          1.3502242
+        ]
+      },
+      "id": "node/1932121779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1932121780",
+        "addr:city": "Singapore",
+        "addr:housenumber": "4",
+        "addr:postcode": "529510",
+        "addr:street": "Tampines Central 5",
+        "air_conditioning": "yes",
+        "alt_name": "Isetan Tampines",
+        "branch": "Tampines",
+        "check_date": "2025-02",
+        "currency:SGD": "yes",
+        "email": "contactus@isetan.com.sg",
+        "fax": "+65 67817773",
+        "name": "Isetan",
+        "name:en": "Isetan",
+        "name:ja": "伊勢丹",
+        "opening_hours": "Su-Th 10:30-21:00; Fr-Sa 11:00-21:30",
+        "phone": "+65 67887777",
+        "shop": "department_store",
+        "website": "https://www.isetan.com.sg/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9451051,
+          1.3524297
+        ]
+      },
+      "id": "node/1932121780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1932121783",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "100",
+        "addr:postcode": "058360",
+        "addr:street": "Upper Cross Street",
+        "air_conditioning": "yes",
+        "branch": "OG People's Park",
+        "email": "feedback@og.com.sg",
+        "name": "OG People's Park",
+        "opening_hours": "11:00-20:30",
+        "operator": "OG Private Limited",
+        "payment:alipay": "yes",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "payment:wechat": "yes",
+        "second_hand": "no",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8431612,
+          1.2851945
+        ]
+      },
+      "id": "node/1932121783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1932121784",
+        "addr:housename": "OG Albert Complex",
+        "addr:housenumber": "60",
+        "addr:postcode": "189969",
+        "addr:street": "Albert Street",
+        "alt_name": "OG Albert",
+        "name": "OG",
+        "shop": "department_store",
+        "website": "https://og.com.sg/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8539002,
+          1.3021872
+        ]
+      },
+      "id": "node/1932121784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1932121785",
+        "name": "Yue Hwa",
+        "shop": "department_store",
+        "wikidata": "Q4534246",
+        "wikimedia_commons": "Category:Yue Hwa Building, Singapore",
+        "wikipedia": "en:Yue Hwa Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8435035,
+          1.2849331
+        ]
+      },
+      "id": "node/1932121785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3068423709",
+        "level": "0-2",
+        "name": "BHG",
+        "opening_hours": "10:30-22:00",
+        "shop": "department_store",
+        "toilets": "yes",
+        "website": "http://www.bhgsingapore.com.sg/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8560703,
+          1.3000381
+        ]
+      },
+      "id": "node/3068423709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3756833796",
+        "name": "myCK",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8426258,
+          1.2828826
+        ]
+      },
+      "id": "node/3756833796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4401911094",
+        "addr:housenumber": "62",
+        "addr:postcode": "408734",
+        "addr:street": "Ubi Road 1",
+        "name": "Oxley bizhub 2",
+        "name:en": "Oxley bizhub 2",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8919347,
+          1.3319936
+        ]
+      },
+      "id": "node/4401911094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4419690490",
+        "name": "Mustafa Centre",
+        "name:en": "Mustafa Centre",
+        "name:zh": "慕斯達商場",
+        "shop": "department_store",
+        "wikidata": "Q6943245",
+        "wikimedia_commons": "Category:Mustafa Centre",
+        "wikipedia": "en:Mustafa Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8553229,
+          1.3101174
+        ]
+      },
+      "id": "node/4419690490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4664571701",
+        "name": "Japan Home",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8545147,
+          1.3006548
+        ]
+      },
+      "id": "node/4664571701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4824319826",
+        "addr:housenumber": "134 unit 01-221",
+        "addr:postcode": "380234",
+        "addr:street": "Geylang East Ave 1",
+        "name": "Kian Joo Vegetarian Food Supply Centre 健裕斋料供应商.",
+        "name:en": "Kian Joo Vegetarian Food Supply Centre 健裕斋料供应商.",
+        "opening_hours": "Mo-Su 07:30-18:30",
+        "phone": "+6568416898",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8875293,
+          1.3161426
+        ]
+      },
+      "id": "node/4824319826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4858750228",
+        "brand": "Marks & Spencer",
+        "brand:short": "M&S",
+        "brand:wikidata": "Q714491",
+        "brand:wikipedia": "en:Marks & Spencer",
+        "level": "0",
+        "name": "M&S Outlet",
+        "name:en": "Marks & Spencer",
+        "shop": "department_store",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8230678,
+          1.2642647
+        ]
+      },
+      "id": "node/4858750228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5819438353",
+        "addr:postcode": "238896",
+        "email": "support.sg@dondondonki.com",
+        "level": "-1",
+        "name": "Don Don Donki",
+        "opening_hours": "24/7",
+        "shop": "department_store",
+        "toilets": "yes",
+        "website": "https://www.dondondonki.sg",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8395,
+          1.3007941
+        ]
+      },
+      "id": "node/5819438353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5819453853",
+        "level": "4",
+        "name": "Spotlight",
+        "shop": "department_store",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8451381,
+          1.3005626
+        ]
+      },
+      "id": "node/5819453853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5819453953",
+        "brand": "無印良品",
+        "brand:en": "Muji",
+        "brand:ja": "無印良品",
+        "brand:wikidata": "Q708789",
+        "brand:wikipedia": "en:Muji",
+        "level": "1",
+        "name": "無印良品",
+        "name:en": "Muji",
+        "name:ja": "無印良品",
+        "official_name:en": "Ryohin Keikaku",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "+65 6264 5838",
+        "shop": "department_store",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8449715,
+          1.3010269
+        ]
+      },
+      "id": "node/5819453953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5892144288",
+        "addr:city": "Singapore",
+        "addr:housenumber": "631",
+        "addr:postcode": "470631",
+        "addr:street": "Bedok Reservoir Road",
+        "name": "Bee Huat Department Store",
+        "phone": "+65 6448 1827",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9145033,
+          1.3332638
+        ]
+      },
+      "id": "node/5892144288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5892228507",
+        "addr:city": "Singapore",
+        "addr:housenumber": "631",
+        "addr:postcode": "470631",
+        "addr:street": "Bedok Reservoir Road",
+        "name": "Lim Aik Seng Departmental Store",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9149701,
+          1.3329111
+        ]
+      },
+      "id": "node/5892228507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6239976385",
+        "name": "Don Don Donki",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8437469,
+          1.275015
+        ]
+      },
+      "id": "node/6239976385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6362350487",
+        "brand": "Courts",
+        "brand:wikidata": "Q24942673",
+        "name": "Courts",
+        "name:zh": "阁室",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8498384,
+          1.3318811
+        ]
+      },
+      "id": "node/6362350487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6549175978",
+        "addr:city": "Singapore",
+        "addr:housenumber": "1",
+        "addr:postcode": "099253",
+        "addr:street": "Maritime Square",
+        "addr:unit": "#03-53",
+        "branch": "HarbourFront Centre",
+        "currency:SGD": "yes",
+        "level": "2",
+        "name": "Japan Home",
+        "phone": "+65 6274 1529",
+        "shop": "department_store",
+        "website": "https://japanhome.com.sg/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8200426,
+          1.2642799
+        ]
+      },
+      "id": "node/6549175978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6666394464",
+        "addr:city": "Singapore",
+        "addr:housenumber": "12",
+        "addr:postcode": "059817",
+        "addr:street": "Eu Tong Sen Street",
+        "addr:unit": "#B1-11–28/44–51",
+        "air_conditioning": "yes",
+        "alt_name": "Don Quijote",
+        "branch": "Clarke Quay Central",
+        "brand": "Don Don Donki",
+        "check_date": "2025-01",
+        "currency:SGD": "yes",
+        "level": "-1",
+        "level:ref": "B1",
+        "name": "Don Don Donki Clarke Quay Central",
+        "name:en": "Don Don Donki Clarke Quay Central",
+        "name:ja": "ドン ドン ドンキ",
+        "opening_hours": "Mo-Su 09:00-24:00",
+        "operator": "Don Quijote",
+        "operator:wikidata": "Q1185381",
+        "payment:american_express": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:diners_club": "yes",
+        "payment:mastercard": "yes",
+        "payment:nets": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "phone": "+65 6226 2311",
+        "shop": "department_store",
+        "start_date": "2019-08-01",
+        "stroller": "yes",
+        "website": "http://www.dondondonki.sg/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8467583,
+          1.2888351
+        ]
+      },
+      "id": "node/6666394464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6690525748",
+        "brand": "Marks & Spencer",
+        "brand:short": "M&S",
+        "brand:wikidata": "Q714491",
+        "brand:wikipedia": "en:Marks & Spencer",
+        "level": "-1",
+        "name": "M&S Outlet",
+        "shop": "department_store",
+        "start_date": "2022-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8533717,
+          1.2945558
+        ]
+      },
+      "id": "node/6690525748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6690526727",
+        "addr:city": "Singapore",
+        "addr:housenumber": "#03-35/40A",
+        "addr:postcode": "238859",
+        "addr:street": "Paragon",
+        "brand": "Marks & Spencer",
+        "brand:short": "M&S",
+        "level": "2",
+        "level:ref": "3",
+        "name": "Marks & Spencer",
+        "not:brand:wikidata": "Q714491",
+        "opening_hours": "Su-Th 10:00-21:30; Fr-Sa 10:00-22:00",
+        "phone": "+65 67329732",
+        "shop": "department_store",
+        "website": "https://www.marksandspencer.com/sg/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83587,
+          1.303487
+        ]
+      },
+      "id": "node/6690526727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6690530283",
+        "addr:housenumber": "501",
+        "addr:street": "Orchard Road",
+        "air_conditioning": "yes",
+        "brand": "Marks & Spencer",
+        "check_date": "2024-02-24",
+        "level": "0",
+        "name": "Marks & Spencer",
+        "not:brand:wikidata": "Q714491",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "department_store",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8306664,
+          1.3047328
+        ]
+      },
+      "id": "node/6690530283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6720396385",
+        "addr:city": "Singapore",
+        "addr:floor": "3",
+        "addr:housenumber": "200",
+        "addr:postcode": "188021",
+        "addr:street": "Victoria Street",
+        "addr:unit": "#03-10F",
+        "brand": "Muji",
+        "brand:en": "Muji",
+        "brand:ja": "無印良品",
+        "brand:wikidata": "Q708789",
+        "level": "2",
+        "name": "Muji",
+        "name:en": "Muji",
+        "name:ja": "無印良品",
+        "official_name:en": "Ryohin Keikaku",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+65 6336 7885",
+        "shop": "department_store",
+        "website": "https://www.muji.com/sg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8559688,
+          1.3001996
+        ]
+      },
+      "id": "node/6720396385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7048038285",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8542732,
+          1.3022503
+        ]
+      },
+      "id": "node/7048038285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8181546069",
+        "addr:city": "Singapore",
+        "addr:housenumber": "176",
+        "addr:postcode": "238843",
+        "addr:street": "Orchard Road",
+        "air_conditioning": "yes",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "currency:SGD": "yes",
+        "level": "3",
+        "name": "Harvey Norman",
+        "opening_hours": "Mo-Su 11:00-21:30",
+        "second_hand": "no",
+        "shop": "department_store",
+        "stroller": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8397347,
+          1.3013709
+        ]
+      },
+      "id": "node/8181546069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8192613840",
+        "air_conditioning": "yes",
+        "brand": "無印良品",
+        "brand:en": "Muji",
+        "brand:ja": "無印良品",
+        "brand:wikidata": "Q708789",
+        "brand:wikipedia": "en:Muji",
+        "currency:SGD": "yes",
+        "level": "-4",
+        "name": "無印良品",
+        "name:en": "Muji",
+        "name:ja": "無印良品",
+        "official_name:en": "Ryohin Keikaku",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8321679,
+          1.3042778
+        ]
+      },
+      "id": "node/8192613840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8196897226",
+        "air_conditioning": "yes",
+        "branch": "JEM",
+        "brand": "Muji",
+        "brand:en": "Muji",
+        "brand:ja": "無印良品",
+        "brand:wikidata": "Q708789",
+        "brand:wikipedia": "en:Muji",
+        "currency:SGD": "yes",
+        "name": "Muji",
+        "name:en": "Muji",
+        "name:ja": "無印良品",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7429051,
+          1.3332064
+        ]
+      },
+      "id": "node/8196897226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8209870130",
+        "branch": "Raffles City",
+        "brand": "無印良品",
+        "brand:en": "Muji",
+        "brand:ja": "無印良品",
+        "brand:wikidata": "Q708789",
+        "name": "無印良品",
+        "name:en": "Muji",
+        "name:ja": "無印良品",
+        "official_name:en": "Ryohin Keikaku",
+        "opening_hours": "Mo-Su,PH 11:00-20:00",
+        "phone": "+65 6264 4189",
+        "shop": "department_store",
+        "website": "https://www.muji.com/sg/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8532434,
+          1.2947275
+        ]
+      },
+      "id": "node/8209870130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8213732268",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:floor": "3",
+        "addr:housenumber": "290",
+        "addr:postcode": "238859",
+        "addr:street": "Orchard Road",
+        "addr:unit": "#04-36/37/38/39/40",
+        "air_conditioning": "yes",
+        "branch": "Paragon",
+        "brand": "Muji",
+        "brand:en": "Muji",
+        "brand:ja": "無印良品",
+        "brand:wikidata": "Q708789",
+        "brand:wikipedia": "en:Muji",
+        "level": "4",
+        "level:ref": "3",
+        "name": "Muji",
+        "name:en": "Muji",
+        "name:ja": "無印良品",
+        "official_name:en": "Ryohin Keikaku",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "phone": "+65 6735 0123",
+        "shop": "department_store",
+        "website": "https://www.muji.com/sg/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8356361,
+          1.3033929
+        ]
+      },
+      "id": "node/8213732268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8272681091",
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "313",
+        "addr:street": "Orchard Road",
+        "addr:unit": "#B2-38/39/40/41/47/48/49",
+        "air_conditioning": "yes",
+        "branch": "313@Somerset",
+        "brand": "Muji",
+        "brand:en": "Muji",
+        "brand:ja": "無印良品",
+        "brand:wikidata": "Q708789",
+        "brand:wikipedia": "ja:良品計画",
+        "level": "-2",
+        "name": "Muji",
+        "name:en": "Muji",
+        "name:ja": "無印良品",
+        "official_name:en": "Ryohin Keikaku",
+        "opening_hours": "Mo-Su 11:00-20:00",
+        "phone": "+65 6634 5053",
+        "shop": "department_store",
+        "website": "https://www.muji.com/sg/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8383746,
+          1.3009232
+        ]
+      },
+      "id": "node/8272681091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8278843868",
+        "addr:city": "Singapore",
+        "addr:housenumber": "#03-06/07",
+        "addr:postcode": "529536",
+        "addr:street": "Tampines 1",
+        "addr:unit": "#03-06/07",
+        "air_conditioning": "yes",
+        "branch": "Tampines",
+        "brand": "Muji",
+        "brand:en": "Muji",
+        "brand:ja": "無印良品",
+        "brand:wikidata": "Q708789",
+        "brand:wikipedia": "en:Muji",
+        "check_date": "2025-01",
+        "currency:SGD": "yes",
+        "drinking_water": "no",
+        "level": "2",
+        "name": "Muji",
+        "name:en": "Muji",
+        "name:ja": "無印良品",
+        "official_name:en": "Ryohin Keikaku",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "phone": "+65 6509 9733",
+        "shop": "department_store",
+        "website": "https://www.muji.com/sg/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9450256,
+          1.3540529
+        ]
+      },
+      "id": "node/8278843868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8308624318",
+        "addr:city": "Singapore",
+        "addr:housenumber": "1",
+        "addr:postcode": "658713",
+        "addr:street": "Bukit Batok Central Link",
+        "addr:unit": "#03-06/07/08/09",
+        "air_conditioning": "yes",
+        "branch": "Westmall",
+        "brand": "Harvey Norman",
+        "brand:wikidata": "Q4040441",
+        "brand:wikipedia": "en:Harvey Norman",
+        "level": "2",
+        "name": "Harvey Norman",
+        "opening_hours": "Mo-Su 11:00-21:30",
+        "phone": "+65 1800 311 9989",
+        "shop": "department_store",
+        "website": "https://www.harveynorman.com.sg/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7493112,
+          1.3498125
+        ]
+      },
+      "id": "node/8308624318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8460300254",
+        "level": "0",
+        "name": "ValueHub",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8287011,
+          1.286033
+        ]
+      },
+      "id": "node/8460300254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8556405256",
+        "level": "0",
+        "name": "myCK",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8467519,
+          1.3717131
+        ]
+      },
+      "id": "node/8556405256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8578243892",
+        "level": "0",
+        "name": "myCK",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8864027,
+          1.359357
+        ]
+      },
+      "id": "node/8578243892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9734990355",
+        "brand": "Marks & Spencer",
+        "brand:wikidata": "Q714491",
+        "brand:wikipedia": "en:Marks & Spencer",
+        "level": "0",
+        "name": "Marks & Spencer",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7465925,
+          1.3351807
+        ]
+      },
+      "id": "node/9734990355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9984633364",
+        "name": "Dcpro Bike",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8968744,
+          1.3262915
+        ]
+      },
+      "id": "node/9984633364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10914432040",
+        "addr:city": "Singapore",
+        "addr:housenumber": "336 #02-300",
+        "addr:postcode": "050336",
+        "addr:street": "Smith Street New Bridge Centre",
+        "level": "1",
+        "name": "Da You (Chinatown) Departmental Store Pte Ltd 大有超級百貨（私人）有限公司",
+        "opening_hours": "Sa-Th 10:00-21:00; Fr 10:00-20:00",
+        "phone": "+65 62203256",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8426765,
+          1.2829501
+        ]
+      },
+      "id": "node/10914432040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12666250308",
+        "brand": "Muji",
+        "brand:en": "Muji",
+        "brand:ja": "無印良品",
+        "brand:wikidata": "Q708789",
+        "level": "0",
+        "name": "Muji",
+        "name:en": "Muji",
+        "name:ja": "無印良品",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9090499,
+          1.4145306
+        ]
+      },
+      "id": "node/12666250308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12790892232",
+        "brand": "Muji",
+        "brand:en": "Muji",
+        "brand:ja": "無印良品",
+        "brand:wikidata": "Q708789",
+        "drinking_water": "no",
+        "level": "-1",
+        "name": "Muji",
+        "name:en": "Muji",
+        "name:ja": "無印良品",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "+65 63730545",
+        "shop": "department_store",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9048035,
+          1.301654
+        ]
+      },
+      "id": "node/12790892232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13383339716",
+        "name": "Marks & Spencer",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8311079,
+          1.3049318
+        ]
+      },
+      "id": "node/13383339716"
+    }
+  ]
+}

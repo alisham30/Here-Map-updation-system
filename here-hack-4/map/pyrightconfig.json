@@ -1,0 +1,13 @@
+{
+  "include": ["backend", "src"],
+  "extraPaths": ["."],
+  "pythonVersion": "3.14",
+  "pythonPlatform": "Windows",
+  "venvPath": "",
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "extraPaths": ["."]
+    }
+  ]
+}
