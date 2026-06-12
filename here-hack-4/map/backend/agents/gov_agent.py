@@ -31,6 +31,10 @@ ONEMAP_REVGEO_URL = "https://www.onemap.gov.sg/api/public/revgeocode"
 # entity_name + uen_status_desc, so we don't need the 646MB local CSVs.
 ACRA_DATASTORE_URL = "https://data.gov.sg/api/action/datastore_search"
 ACRA_DATASET_ID = "d_3f960c10fed6145404ca7b821f263b87"
+# NEA "List of Licensed Eating Establishments" — 36k currently-licensed F&B
+# premises with full addresses. A POI whose POSTAL CODE matches a licensed
+# premises is an operating F&B location → authoritative "active" for food places.
+NEA_DATASET_ID = "d_227473e811b09731e64725f140b77697"
 ACRA_NAME_MATCH_THRESHOLD = 0.82
 # uen_status_desc buckets (lowercased).
 ACRA_LIVE_STATUSES = {"registered", "live", "live company"}
@@ -102,6 +106,9 @@ class GovDataAgent(BaseAgent):
         if acra_evidence:
             proofs.append(acra_evidence)
 
+        # Postal code: from the baseline record, else from OneMap reverse-geocode.
+        postal = re.sub(r"\D", "", str((baseline_record or {}).get("postal_code") or ""))
+
         # 2. OneMap — official Singapore map authority
         #    Reverse geocode the baseline coordinates to confirm what's at the location,
         #    then name-search to check if the business appears in OneMap data.
@@ -110,6 +117,17 @@ class GovDataAgent(BaseAgent):
             onemap_evidence = await self._check_onemap(client, name, lat, lng)
             if onemap_evidence:
                 proofs.append(onemap_evidence)
+                if len(postal) != 6:
+                    postal = re.sub(r"\D", "", str(onemap_evidence.get("onemap_postal") or ""))
+
+        # 3. NEA licensed-eating-establishments — authoritative "operating" check for
+        #    F&B by postal code. Confirms the place is a live licensed food premises.
+        category = (baseline_record or {}).get("category", "")
+        is_fb = "food" in str(category).lower() or "restaurant" in str(category).lower()
+        if len(postal) == 6 and is_fb:
+            nea_evidence = await self._check_nea_licence(client, name, postal)
+            if nea_evidence:
+                proofs.append(nea_evidence)
 
         # Stamp target metadata so downstream matching can attach to the baseline place.
         for p in proofs:
@@ -250,6 +268,55 @@ class GovDataAgent(BaseAgent):
             },
         }
 
+    async def _check_nea_licence(self, client: httpx.AsyncClient, name: str, postal: str) -> Optional[Dict[str, Any]]:
+        """
+        Check the NEA Licensed Eating Establishments list by POSTAL CODE. A licensed
+        food premises at this address means the location is currently operating — an
+        authoritative "active" signal for F&B that doesn't depend on the trade name
+        (which is unreliable to match). Name match, when present, raises confidence.
+        """
+        try:
+            resp = await client.get(
+                ACRA_DATASTORE_URL,  # same datastore_search endpoint
+                params={"resource_id": NEA_DATASET_ID, "q": postal, "limit": 50},
+            )
+            if resp.status_code != 200:
+                return None
+            records = resp.json().get("result", {}).get("records", [])
+        except Exception as e:
+            log.debug(f"NEA API error for postal {postal}: {e}")
+            return None
+
+        matched = [r for r in records
+                   if postal in re.sub(r"\D", "", r.get("premises_address", "") or "")]
+        if not matched:
+            return None  # no licensed F&B premises at this postal code
+
+        # Name corroboration (bonus): do the DISTINCTIVE name tokens appear in any
+        # premises/licensee text? (ignore generic words like "restaurant").
+        name_tokens = set(t for t in _norm_entity(name).split()
+                          if t not in _ACRA_GENERIC_WORDS and len(t) >= 3)
+        name_hit = False
+        for r in matched:
+            blob = _norm_entity(f"{r.get('premises_address','')} {r.get('licensee_name','')}")
+            if name_tokens and len(name_tokens & set(blob.split())) >= max(1, len(name_tokens) // 2):
+                name_hit = True
+                break
+
+        return {
+            "source_type": "data_gov_sg",
+            "reliability": "very_high" if name_hit else "high",
+            "signal_direction": "positive",
+            "finding": (f"NEA: {len(matched)} active food licence(s) at this address"
+                        + (" (name matched)" if name_hit else "")),
+            "raw_data": {
+                "source": "NEA Licensed Eating Establishments (data.gov.sg)",
+                "licences_at_postal": len(matched),
+                "postal": postal,
+                "name_matched": name_hit,
+            },
+        }
+
     async def _check_onemap(self, client: httpx.AsyncClient, name: str, lat: float, lng: float) -> Optional[Dict[str, Any]]:
         """
         Queries OneMap Singapore for two things:
@@ -267,6 +334,7 @@ class GovDataAgent(BaseAgent):
 
         revgeo_found = False
         revgeo_address: Optional[str] = None
+        revgeo_postal: Optional[str] = None
         name_search_found = False
         name_found_nearby = False
 
@@ -282,6 +350,7 @@ class GovDataAgent(BaseAgent):
                 if geo_info:
                     revgeo_found = True
                     g = geo_info[0]
+                    revgeo_postal = g.get("POSTALCODE", "")
                     revgeo_address = f"{g.get('BLOCK', '')} {g.get('ROAD', '')} Singapore {g.get('POSTALCODE', '')}".strip()
                     log.debug(f"OneMap revgeo for ({lat},{lng}): {revgeo_address}")
         except Exception as e:
@@ -344,6 +413,7 @@ class GovDataAgent(BaseAgent):
             "onemap_revgeo_found": revgeo_found,
             "onemap_found_nearby": name_found_nearby,
             "onemap_address": revgeo_address,
+            "onemap_postal": revgeo_postal,
             "raw_data": {
                 "revgeo_found": revgeo_found,
                 "name_search_found": name_search_found,
