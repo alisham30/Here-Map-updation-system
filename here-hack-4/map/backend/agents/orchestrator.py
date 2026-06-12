@@ -224,6 +224,21 @@ class OrchestratorAgent(BaseAgent):
         else:
             self._emit(events, "reflection", "complete", "No targeted second pass needed")
 
+        # ── Discovery: new places that exist (NEA-licensed) but aren't on the map ──
+        discoverer = self._agents.get("discovery")
+        if discoverer:
+            self._emit(events, "discovery", "running",
+                       "Discovering licensed food premises missing from the baseline map")
+            disc = await discoverer.run("discovery_run", {
+                "full_baseline": payload.get("full_baseline", baseline_places),
+            })
+            new_places = disc.data if (disc.success and disc.data) else []
+            for r in new_places:
+                r.setdefault("evidence_rounds", 1)
+            decided = decided + new_places
+            self._emit(events, "discovery", "complete",
+                       f"Discovered {len(new_places)} new places not yet on the map")
+
         # ── Review queue ──
         self._emit(events, "review", "running", "Generating review queue for uncertain cases")
         reviewer = self._agents.get("review")

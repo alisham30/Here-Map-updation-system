@@ -17,6 +17,7 @@ from backend.agents.baseline_agent import BaselineAgent
 from backend.agents.gov_agent import GovDataAgent
 from backend.agents.website_agent import WebsiteExtractionAgent
 from backend.agents.discussion_agent import DiscussionEvidenceAgent
+from backend.agents.discovery_agent import NewPlaceDiscoveryAgent
 from backend.agents.visual_agent import VisualVerificationAgent
 from backend.agents.matching_agent import MatchingAgent
 from backend.agents.fusion_agent import FusionAgent
@@ -66,6 +67,8 @@ async def lifespan(app: FastAPI):
     orchestrator.register(DiscussionEvidenceAgent())
     orchestrator.register(VisualVerificationAgent())
     orchestrator.register(TripAdvisorAgent())
+    # Discovery (new places not on the map)
+    orchestrator.register(NewPlaceDiscoveryAgent())
     # Reasoning agents
     orchestrator.register(MatchingAgent())
     orchestrator.register(FusionAgent())

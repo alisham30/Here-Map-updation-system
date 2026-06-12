@@ -358,7 +358,11 @@ async def run_pipeline(
             state["pipeline_running"] = False
             return {"success": False, "error": f"No places matched '{query}'. Try a broader term."}
 
-        result = await orch.run("pipeline_full", {"baseline": targets, "mode": mode})
+        result = await orch.run("pipeline_full", {
+            "baseline": targets,
+            "full_baseline": baseline.places,   # for new-place discovery vs the whole map
+            "mode": mode,
+        })
 
         if result.success and result.data:
             data = result.data
